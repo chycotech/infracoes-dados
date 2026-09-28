@@ -1,0 +1,1142 @@
+[
+  {
+    "categoria": "Sinalização",
+    "descricao": "Colocação na via pública ou na sua proximidade, de dispositivos publicitários que se confundem com sinais de trânsito (ou que prejudiquem a visibilidade nas curvas, cruzamentos ou entroncamentos ou que perturbem a atenção do condutor, prejudicando a segurança da condução, ou que dificultem, restrinjam ou comprometam a comodidade e segurança da circulação de peões nos passeios ou nas zonas de coexistência).",
+    "infracao": "ARTIGO 5.º n.º 3",
+    "coima": "€ 700 a € 3500",
+    "punicao": "art.º 5.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.005.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
+    "descricao": "Utilização da via pública para a realização de atividades desportivas, festivas (ou outras que afetem o trânsito normal ou coloquem restrições ao trânsito dos peões nos passeios), sem autorização da entidade competente (ou sem aplicação local de sinalização temporária e identificação de obstáculos).",
+    "infracao": "ARTIGO 8.º n.º 1",
+    "coima": "€ 700 a € 3500",
+    "punicao": "art.º 8.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.008.01.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
+    "descricao": "Utilização da via pública para a realização de atividades desportivas, festivas (ou outras que afetem o trânsito normal ou coloquem restrições ao trânsito dos peões nos passeios) sem cumprir as condições constantes da autorização concedida.",
+    "infracao": "ARTIGO 8.º n.º 2",
+    "coima": "€ 700 a € 3500",
+    "punicao": "art.º 8.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.008.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Obras e utilização das vias públicas para fins especiais",
+    "descricao": "Utilização da via pública sem autorização da entidade competente para realização de manifestação desportiva com peões ou animais.",
+    "infracao": "ARTIGO 8.º n. 7",
+    "coima": "€ 300 a € 1500 + € 30 por cada participante ou concorrente",
+    "punicao": "art.º 8.º n.º 7",
+    "classificacao": "LEVE",
+    "codigo": "1.86.008.07.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Manobras dos Condutores - Disposições comuns",
+    "descricao": "Condução de veículo pondo em perigo peão (ou velocípede ou criança ou idoso ou grávida ou pessoa com mobilidade reduzida ou pessoa com deficiência).",
+    "infracao": "ARTIGO 11.º n.º 3",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 11.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.011.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Manobras dos Condutores - Disposições comuns",
+    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, ou de outro meio de circulação análogo com motor), pondo em perigo peão (ou velocípede ou criança ou idoso ou grávida ou pessoa com mobilidade reduzida ou pessoa com deficiência).",
+    "infracao": "ARTIGO 11.º n.º 3",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 11.º n.º 4 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.86.011.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Velocidade moderada",
+    "descricao": "Condução de veículo sem moderar especialmente a velocidade à aproximação de passagem assinalada, na faixa de rodagem, para a travessia de peões (ou de velocípedes).",
+    "infracao": "ARTIGO 25.º n.º 1",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 25.º n.º2",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.025.01.01",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 e) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Velocidade moderada",
+    "descricao": "Condução de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) sem moderar especialmente a velocidade à aproximação de passagem assinalada, na faixa de rodagem, para a travessia de peões (ou de velocípedes).",
+    "infracao": "ARTIGO 25.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 25.º n.º2 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.025.01.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Realização da manobra",
+    "descricao": "Ultrapassagem de velocípede (ou passagem por peão que circule ou se encontre na berma) sem que o condutor se certifique que abranda a velocidade do veículo e guarda a distância lateral mínima de 1,5m.",
+    "infracao": "ARTIGO 38.º n.º 2",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 38.º n.º 5",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.038.02.13",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º3)"
+  },
+  {
+    "categoria": "Ultrapassagens proibidas",
+    "descricao": "Realização de ultrapassagem imediatamente antes de (ou em) passagem assinalada para a travessia de peões e velocípedes.",
+    "infracao": "ARTIGO 41.º n.º 1",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 41.º n.º 5",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.041.01.09",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 f) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Ultrapassagens proibidas",
+    "descricao": "Realização de ultrapassagem, por condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor), imediatamente antes de (ou em) passagem assinalada para a travessia de peões e velocípedes.",
+    "infracao": "ARTIGO 41.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 41.º n.º 5 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.041.01.10",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de veículo a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.193",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.194",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede a motor a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.195",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de trotineta com motor a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.196",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.197",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.198",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de veículo a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.199",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.200",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede a motor a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.201",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de trotineta com motor a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.202",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.203",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, a menos de 5 m antes de uma passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.204",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de veículo na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.217",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.218",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede a motor na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.219",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de trotineta com motor na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.220",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.221",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.222",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de veículo na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.223",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.224",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede a motor na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.225",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de trotineta com motor na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.226",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º Sanção acessória: - art.º 145.º n.º 1 o)",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.227",
+    "sancao_acessoria": "Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.228",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | 163 | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de veículo na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.229",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.230",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede a motor na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.231",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de trotineta com motor na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.232",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.233",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.234",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de veículo na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.235",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.236",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede a motor na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.237",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de trotineta com motor na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.238",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.239",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, na passagem assinalada para a travessia de peões, impedindo a passagem de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150 art.º 49.º n.º 3 e art.º 96.º",
+    "punicao": "",
+    "classificacao": "GRAVE",
+    "codigo": "2.90.049.01.240",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 o) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de veículo no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.305",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.306",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede a motor no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.307",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de trotineta com motor no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.308",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.309",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.310",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de veículo no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.311",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.312",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede a motor no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.313",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de trotineta com motor no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.314",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.315",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, no passeio, impedindo o trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.316",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de veículo em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.317",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.318",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de velocípede a motor em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.319",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de trotineta com motor em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.320",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, em local destinado ao trânsito de peões. 175",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.321",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Paragem de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.322",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de veículo em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 30 a € 150",
+    "punicao": "art.º 49.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.323",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.324",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de velocípede a motor em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.325",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de trotineta com motor em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.326",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de dispositivo de circulação com motor elétrico, autoequilibrado e automotor, em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.327",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Paragem ou Estacionamento",
+    "descricao": "Estacionamento de meio de circulação com motor, análogo a dispositivo de circulação com motor elétrico, autoequilibrado e automotor, em local destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 49.º n.º 1",
+    "coima": "€ 15 a € 75",
+    "punicao": "art.º 49.º n.º 3 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.90.049.01.328",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Autoestradas",
+    "descricao": "Trânsito de peão (ou de animal, ou de veículo de tração animal, ou de velocípede, ou de ciclomotor, ou de motociclo ou de triciclo de cilindrada não superior a 50 cm3, ou de quadriciclo, ou de veículo agrícola, ou de comboio turístico, ou de veículo não atingindo em patamar velocidade superior a 60 Km/h, ou de veículo ao qual tenha sido fixada velocidade máxima igual ou inferior a 60km/h) em autoestrada (ou no respetivo acesso devidamente sinalizado).",
+    "infracao": "ARTIGO 72.º n.º 1",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 72.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.86.072.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Vias reservadas a automóveis e motociclos",
+    "descricao": "Trânsito de peão (ou de animal, ou de veículo de tração animal, ou de velocípede, ou de ciclomotor, ou de motociclo ou de triciclo de cilindrada não superior a 50 cm3, ou de quadriciclo, ou de veículo agrícola, ou de comboio turístico, ou de veículo não atingindo em patamar velocidade superior a 60 Km/h, ou de veículo ao qual tenha sido fixada velocidade máxima igual ou inferior 60) em via reservada a automóveis e motociclos (ou no respetivo acesso devidamente sinalizado).",
+    "infracao": "ARTIGO 75.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 75.º e art.º 72.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.86.075.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Pistas especiais",
+    "descricao": "Utilização por peão de pista destinada a animais (ou a veículo de certa espécie), existindo local especialmente destinado ao trânsito de peões.",
+    "infracao": "ARTIGO 78.º n.º 4",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 78.º n.º 6",
+    "classificacao": "LEVE",
+    "codigo": "1.86.078.04.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Lugares em que podem transitar",
+    "descricao": "Trânsito de peão fora do passeio (ou de pista ou de passagem a ele destinada), ou na sua falta, fora da berma.",
+    "infracao": "ARTIGO 99.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Lugares em que podem transitar",
+    "descricao": "Trânsito de peão pela faixa de rodagem não se encontrando a efetuar o seu atravessamento (ou existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados, ou não transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões ou em via pública onde se faça o trânsito de veículos, ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 99.º n.º 2",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Lugares em que podem transitar",
+    "descricao": "Trânsito de peão pela faixa de rodagem efetuando o seu atravessamento (ou não existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados, ou transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões ou em via pública onde se faça o trânsito de veículos, ou seguindo em formação organizada sob orientação de monitor ou em cortejo) sem a necessária prudência e prejudicando o trânsito de veículos.",
+    "infracao": "ARTIGO 99.º n.º 2",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Lugares em que podem transitar",
+    "descricao": "Trânsito de peão em pista especial destinada a veículos de certas espécies ou animais, existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões, ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 99.º n.º 3",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Lugares em que podem transitar",
+    "descricao": "Trânsito de peão em pista especial destinada a veículos de certas espécies ou animais, com grande intensidade de trânsito (ou prejudicando a circulação daqueles) não existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões, ou seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 99.º n.º 3",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Lugares em que podem transitar",
+    "descricao": "Trânsito de peões na faixa de rodagem, desde o anoitecer ao amanhecer (ou desde que as condições de visibilidade ou a intensidade do trânsito o aconselhem) não efetuado numa única fila (ou não seguindo em cortejo ou formação organizada).",
+    "infracao": "ARTIGO 99.º n.º4",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.099.04.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Posição a ocupar na via",
+    "descricao": "Trânsito de peão não efetuado pela direita do local que lhe é destinado, exceto em via pública onde esteja proibido o trânsito de veículos.",
+    "infracao": "ARTIGO 100.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 100.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.100.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Posição a ocupar na via",
+    "descricao": "Trânsito de peão na faixa de rodagem, sem se efetuar pelo lado esquerdo da mesma, não existindo (ou sendo impossível a utilização do) passeio (ou pista ou passagem a ele destinada ou berma, ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito dos outros peões), nem existindo motivo que comprometa a sua segurança.",
+    "infracao": "ARTIGO 100.º n.º 2",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 100.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.100.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Posição a ocupar na via",
+    "descricao": "Trânsito de peão na faixa de rodagem, não existindo passeio (ou pista ou passagem a ele destinada ou berma, ou transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito dos outros peões ou seguindo em formação organizada ou cortejo) não se efetuando o mais próximo possível do limite da faixa de rodagem.",
+    "infracao": "ARTIGO 100.º n.º 3",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 100.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.100.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atravessamento da faixa de rodagem",
+    "descricao": "Atravessamento da faixa de rodagem por peão sem que o mesmo se tenha certificado de que o podia fazer sem perigo de acidente.",
+    "infracao": "ARTIGO 101.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 101.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.101.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atravessamento da faixa de rodagem",
+    "descricao": "Atravessamento da faixa de rodagem por peão não se efetuando o mais rapidamente possível.",
+    "infracao": "ARTIGO 101.º n.º 2",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 101.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.101.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atravessamento da faixa de rodagem",
+    "descricao": "Atravessamento da faixa de rodagem por peão fora da passagem assinalada para esse efeito, existindo a mesma a menos de 50 m.",
+    "infracao": "ARTIGO 101.º n.º 3",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 101.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.101.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atravessamento da faixa de rodagem",
+    "descricao": "Atravessamento da faixa de rodagem por peão não sendo efetuado perpendicularmente ao eixo da faixa de rodagem, não existindo passagem assinalada para esse efeito a menos de 50 m.",
+    "infracao": "ARTIGO 101.º n.º 3",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 101.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.101.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Atravessamento da faixa de rodagem",
+    "descricao": "Paragem de peão na faixa de rodagem (ou utilização do passeio ou da berma) prejudicando (ou perturbando) o trânsito.",
+    "infracao": "ARTIGO 101.º n.º 4",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 101.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.86.101.04.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de passagem de peões (ou de velocípedes) assinalada, não deixando passar o peão (ou o velocípede) na mesma passagem tendo este já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 103.º n.º 1",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.103.01.01",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de passagem de peões (ou de velocípedes) assinalada, não deixando passar o peão (ou o velocípede) na mesma passagem tendo este já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 103.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.103.01.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões (ou de velocípedes) sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar o peão (ou o velocípede) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 103.º n.º 2",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.103.02.01",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de uma passagem de peões (ou de velocípedes) sem que o condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) reduza a velocidade (ou pare se necessário) para deixar passar o peão (ou o velocípede) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 103.º n.º 2",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.103.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, fora de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 103.º n.º 3",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4",
+    "classificacao": "LEVE",
+    "codigo": "1.86.103.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, fora de localidade, sem que o condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) reduza a velocidade (ou pare sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 103.º n.º 3",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
+    "classificacao": "LEVE",
+    "codigo": "1.86.103.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, dentro de localidade, não reduzindo a velocidade (ou não parando sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 103.º n.º 3",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.103.03.03",
+    "sancao_acessoria": "Sanção acessória: - art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Mudança de direção, dentro de localidade, sem que o condutor de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) reduza a velocidade (ou pare sendo necessário) para deixar passar o peão (ou o velocípede) que estava a atravessar a faixa de rodagem na via em que vai entrar.",
+    "infracao": "ARTIGO 103.º n.º 3",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.103.03.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência), pela faixa de rodagem, não se encontrando a efetuar o seu atravessamento (ou existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados, ou não transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões, ou em via pública onde se faça o trânsito de veículos, ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) pela faixa de rodagem efetuando o seu atravessamento (ou não existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados, ou transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros 339 peões, ou em via pública onde se faça o trânsito de veículos; ou seguindo em formação organizada sob orientação de monitor ou em cortejo) sem a necessária prudência e prejudicando o trânsito de veículos.",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) em pista especial destinada a veículos de certas espécies ou animais, existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) em pista especial destinada a veículos de certas espécies ou a animais, com grande intensidade de trânsito (ou prejudicando a circulação daqueles) não existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões ou seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.05",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com 340 deficiência) na faixa de rodagem, sem se efetuar pelo lado esquerdo da mesma, não existindo (ou sendo impossível a utilização do) passeio (ou pista ou passagem a ele destinada ou berma ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões), nem existindo motivo que comprometa a sua segurança.",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 100.º n.º 4 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.08",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Condução de carro de mão (ou condução à mão de velocípede de duas rodas sem carro atrelado ou de motocultivador sem reboque ou retrotrem, ou de carro de criança ou de pessoa com deficiência) na faixa de rodagem, não existindo passeio (ou pista ou passagem a ele destinada ou berma ou não transportando objeto cujas dimensões ou natureza constitua perigo para o trânsito de outros peões ou seguindo em formação organizada ou cortejo) não se efetuando o mais próximo possível do limite da faixa de rodagem.",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 100.º n.º 4 e art.º 104.º a), b) e e)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.09",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões assinalada, não deixando passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104º a), b) e e)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.15",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões assinalada, não deixando passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 104º a), b) e e) e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.16",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.17",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de 342 circulação análogo com motor) de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa conduzindo carro de mão (ou conduzindo à mão velocípede de duas rodas sem carro atrelado ou motocultivador sem reboque ou retrotrem, ou carro de criança ou de pessoa com deficiência) que já tenha iniciado a travessia da faixa de rodagem em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.º a), b) e e) e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.18",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) pela faixa de rodagem, não se encontrando a efetuar o seu atravessamento (ou existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados ou não transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões ou em via pública onde se faça o trânsito de veículos ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.24",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) pela faixa de rodagem, efetuando o seu atravessamento (ou não existindo passeio ou pista ou passagem destinada a peões ou berma em condições de serem utilizados ou transportando objeto cuja dimensão ou natureza constitua perigo para o trânsito dos outros peões ou em via pública onde se faça o trânsito de veículos; ou seguindo em formação organizada sob orientação de monitor ou em cortejo) sem a necessária prudência e prejudicando o trânsito de veículos.",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc), d)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.25",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) em pista especial destinada a veículos de certas espécies ou animais, existindo passeio (ou pista ou passagem destinada a peões ou berma) em condições de ser utilizado (ou não seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.26",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Trânsito de pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) em pista especial destinada a veículos de certas espécies ou a animais, com grande intensidade de trânsito (ou prejudicando a circulação daqueles) não existindo passeio (ou pista ou passagem destinada a peões ou berma) 344 em condições de ser utilizado (ou seguindo em formação organizada sob orientação de um monitor ou em cortejo).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 10 a € 50",
+    "punicao": "art.º 99.º n.º 5 e art.º 104.ºc) e d)",
+    "classificacao": "LEVE",
+    "codigo": "1.86.104.01.27",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões assinalada, não deixando passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.37",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões assinalada, não deixando passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na mesma passagem, tendo esta já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos é regulada por sinalização luminosa.",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4, art.º 104.ºc) e d) e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.38",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de veículo de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na passagem que lhe é destinada, tendo aquela já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 104.º",
+    "coima": "€ 120 a € 600",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d)",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.39",
+    "sancao_acessoria": "Sanção acessória:- art.º 145.º n.º 1 i) | Condutor: Inibição de Conduzir 1/12 meses (147.º 2) | Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º 3)"
+  },
+  {
+    "categoria": "Cuidados a observar pelos condutores",
+    "descricao": "Aproximação de velocípede (ou de velocípede com motor ou de trotineta com motor ou de dispositivo de circulação com motor elétrico, autoequilibrado e automotor ou de outro meio de circulação análogo com motor) de uma passagem de peões, sem que o condutor reduza a velocidade (ou pare se necessário) para deixar passar pessoa utilizando patins (ou trotineta ou outro meio de circulação análogo sem motor ou cadeira de rodas equipada com motor elétrico) na passagem que lhe é destinada, tendo aquela já iniciado o atravessamento da faixa de rodagem, em local onde a circulação de veículos não é regulada por sinalização luminosa (ou por agente).",
+    "infracao": "ARTIGO 104.º n.º 1",
+    "coima": "€ 60 a € 300",
+    "punicao": "art.º 103.º n.º 4 e art.º 104.ºc) e d) e art.º 96.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.86.104.01.40",
+    "sancao_acessoria": ""
+  }
+]
