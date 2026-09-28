@@ -5,7 +5,7 @@ name: Gerar índice de pesquisa
 on:
   push:
     paths:
-      - '*.json'
+      - 'dados/*.json'
       - 'gerar_indice.py'
   workflow_dispatch:
 
@@ -25,16 +25,16 @@ jobs:
           python-version: '3.12'
 
       - name: Gerar o índice
-        run: python gerar_indice.py
+        run: python gerar_indice.py dados
 
       - name: Guardar o índice, se tiver mudado
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add indice.json
+          git add dados/indice.json dados/versao-dados.json
           if git diff --staged --quiet; then
             echo "O índice já estava atualizado."
           else
-            git commit -m "Atualizar índice de pesquisa"
+            git commit -m "Atualizar índice de pesquisa e carimbo dos dados"
             git push
           fi
