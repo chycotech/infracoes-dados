@@ -1,7 +1,7 @@
 {
-  "gerado": "2026-09-29T23:23:57Z",
-  "impressao": "b9fe27b84dfb",
-  "entradas": 2640,
+  "gerado": "2026-09-29T23:26:36Z",
+  "impressao": "af3aaca593b3",
+  "entradas": 2736,
   "ficheiros": {
     "alcoolemia.json": 0,
     "animais.json": 40,
@@ -9,6 +9,7 @@
     "dados.json": 838,
     "legislacao-complementar.json": 89,
     "peoes.json": 114,
+    "rce.json": 96,
     "rst-sinais.json": 425,
     "rst.json": 146,
     "velocipedes.json": 959,
