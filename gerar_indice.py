@@ -34,7 +34,7 @@ ROTULOS = {
 }
 
 # Ficheiros que nao sao dados de conteudo.
-IGNORAR = {'indice', 'versao-dados', 'versao', 'sinonimos', 'package', 'package-lock', 'manifest', 'config', 'tsconfig', 'complegis', 'alcoolemia'}
+IGNORAR = {'indice', 'versao-dados', 'versao', 'sinonimos', 'package', 'package-lock', 'manifest', 'config', 'tsconfig', 'alcoolemia'}
 
 TAM_TITULO = 110
 
