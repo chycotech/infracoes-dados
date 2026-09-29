@@ -1,0 +1,1882 @@
+[
+  {
+    "categoria": "Disposições gerais",
+    "descricao": "Sinal de trânsito acompanhado de motivo decorativo (ou de qualquer espécie de publicidade comercial).",
+    "infracao": "n.º 2 do art.º 1.º do RST aprov. DR n.º 22-A/98, de 01OUT",
+    "coima": "€ 250 a € 1250",
+    "punicao": "n.º 4 do mesmo artigo e diploma",
+    "classificacao": "LEVE",
+    "codigo": "1.89.001.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Disposições gerais",
+    "descricao": "Colocação sobre sinal de trânsito (ou na sua proximidade) de quadros (ou painéis ou cartazes ou outros objectos) que possam confundir-se com o sinal de trânsito (ou prejudicar a sua visibilidade ou reconhecimento ou perturbar a atenção do condutor).",
+    "infracao": "n.º 3 do art.º 1.º do RST aprov. DR n.º 22-A/98, de 01OUT",
+    "coima": "€ 250 a € 1250",
+    "punicao": "n.º 4 do mesmo artigo e diploma",
+    "classificacao": "LEVE",
+    "codigo": "1.89.001.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Disposições gerais",
+    "descricao": "Instalação de sinal de trânsito na via pública por entidade sem competência para a sua sinalização (ou sem autorização de entidade competente).",
+    "infracao": "n.º 1 do art.º 3.º do RST aprov. DR n.º 22-A/98 de 01OUT",
+    "coima": "€ 700 a € 3500",
+    "punicao": "n.º 3 do mesmo artigo e diploma",
+    "classificacao": "LEVE",
+    "codigo": "1.89.003.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B1.",
+    "infracao": "art.º 21.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "alínea a) do art.º 23.º do mesmo diploma",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.021.01.01",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2) CE Pessoa",
+    "sinais": [
+      "B1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 CE) Não cumprimento, em autoestrada da indicação dada pelo sinal de cedência de passagem B1.",
+    "infracao": "art.º 21.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "alínea a) do art.º 23.º do mesmo diploma",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.021.01.02",
+    "sancao_acessoria": "Sanção acessória: 146.º h) CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2) CE Pessoa",
+    "sinais": [
+      "B1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 CE) Não cumprimento, em via equiparada a autoestrada da indicação dada pelo sinal de cedência de passagem B1.",
+    "infracao": "art.º 21.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "alínea a) do art.º 23.º do mesmo diploma",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.021.01.03",
+    "sancao_acessoria": "Sanção acessória: 146.º h) CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2) CE Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 CE)",
+    "sinais": [
+      "B1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de cedência de passagem B2 - Paragem obrigatória na intersecção.",
+    "infracao": "art.º 21.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "alínea a) do art.º 23.º do mesmo diploma",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.021.01.04",
+    "sancao_acessoria": "Sanção acessória: 146.º n) CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2) CE Pessoa",
+    "sinais": [
+      "B2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 CE) Não cumprimento da indicação dada pelo sinal de cedência de passagem B5 - cedência de passagem nos estreitamentos da faixa de rodagem.",
+    "infracao": "art.º 21.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "alínea b) do art.º 23.º do mesmo diploma",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.021.01.05",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2) CE Pessoa",
+    "sinais": [
+      "B5"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 - sentido proibido.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.01",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 a) Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3)",
+    "sinais": [
+      "C1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C1 com painel adicional - sentido proibido, excepto…",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C2 - trânsito proibido .",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3a - trânsito proibido a automóveis e motociclos com carro.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3b - trânsito proibido a automóveis e pesados.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.05",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3c - trânsito proibido a automóveis de mercadorias.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.06",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3d - trânsito proibido a automóveis de mercadorias de peso total superior a …t..",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.07",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3d"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3e - trânsito proibido a motociclos simples.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.08",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3e"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3f - trânsito proibido a ciclomotores e a quadriciclos ligeiros.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.09",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3f"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3g - trânsito proibido a velocípedes.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.10",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3g"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3h - trânsito proibido a veículos agrícolas.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.11",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3h"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3i - trânsito proibido a veículos de tração animal.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.12",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3i"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3j - trânsito proibido a carros de mão.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "n.º 2 art.º 26.º - c/ ref.ª al. a) do Art.º 104.º CE",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.13",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3j"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3l - trânsito proibido a peões.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "n.º 2 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.14",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3l"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3m - trânsito proibido a cavaleiros.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.15",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3m"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3n - trânsito proibido a veículos com reboque.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.16",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3n"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3o - trânsito proibido a veículos com reboque de dois ou mais eixos.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.17",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3o"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3p - trânsito proibido a veículos transportando mercadorias perigosas.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.18",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3p"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3q - trânsito proibido a veículos transportando produtos facilmente inflamáveis ou explosivos.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.19",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3q"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C3r - trânsito proibido a veículos transportando produtos susceptiveís de poluírem as águas.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.20",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C3r"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4a - trânsito proibido a automóveis e motociclos.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.21",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4b - trânsito proibido a automóveis de mercadorias e a veículos a motor com reboque.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.22",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4c - trânsito proibido a automóveis, a motociclos e a veículos de tração animal.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.23",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4d - trânsito proibido a automóveis de mercadorias, e a veículos de tração animal.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.24",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4d"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4e - trânsito proibido a peões.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "n.º 2 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.25",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4e"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4e - trânsito proibido a animais.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.26",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4e"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4e - trânsito proibido a veículos que não sejam automóveis ou motociclos.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.27",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4e"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C4f - trânsito proibido a veículos de duas rodas.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.28",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C4f"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C5 - trânsito proibido a veículos de peso por eixo superior a …t.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.29",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C5"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C6 - trânsito proibido a veículos de peso total superior a …t.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.30",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C6"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C7 - trânsito proibido a veículos ou conjunto de veículos de cumprimento superior a …m.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.31",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C7"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C8 - trânsito proibido a veículos de largura superior a …m.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.32",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C8"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C9 - trânsito proibido a veículos de altura superior a …m.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.33",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C9"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.34",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C10"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento, em autoestrada, da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.35",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C10"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE) Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de proibição C10 – proibição de transitar, a menos de … m do veículo precedente.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.36",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE)",
+    "sinais": [
+      "C10"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C11a – proibição de virar à direita.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.37",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C11a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento da indicação dada pelo sinal de proibição C11b – proibição de virar à esquerda.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.38",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C11b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento, em autoestrada, da indicação dada pelo sinal de proibição C11a – proibição de virar à direita.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.39",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE)",
+    "sinais": [
+      "C11a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento, em via equiparada a autoestrada, da indicação dada pelo sinal de proibição C11a – proibição de virar à direita.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.40",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE)",
+    "sinais": [
+      "C11a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C12 – proibição de inversão do sentido de marcha.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.41",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C12"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento da indicação dada pelo sinal de proibição C14a – proibição de ultrapassar veículos que não sejam velocípedes, ciclomotores de duas rodas ou motociclos de duas rodas sem carro lateral.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.42",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C14a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento da indicação dada pelo sinal de proibição C14b – proibição de ultrapassar para automóveis pesados.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.43",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C14b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento da indicação dada pelo sinal de proibição C14c – proibição de ultrapassar para motociclos, ciclomotores, triciclos, quadriciclos e velocípedes.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "GRAVE",
+    "codigo": "2.89.024.01.44",
+    "sancao_acessoria": "Sanção acessória: 145.º n.º 1 f) do CE Condutor: Inibição de Conduzir 1/12 meses (147.º n.º 2 do CE) Pessoa",
+    "sinais": [
+      "C14c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 1/12 meses (147.º n.º 3 do CE). Não cumprimento da indicação dada pelo sinal de proibição C14a – proibição de ultrapassar, em autoestrada, veículo que não seja motociclo de duas rodas sem carro lateral.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.45",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE).",
+    "sinais": [
+      "C14a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14b – proibição de ultrapassar para automóveis pesados, em autoestrada.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.46",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE).",
+    "sinais": [
+      "C14b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14c – proibição de ultrapassar para motociclos e triciclos, em autoestrada.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.47",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE).",
+    "sinais": [
+      "C14c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14a – proibição de ultrapassar, em via equiparada a autoestrada, veículo que não seja motociclo de duas rodas sem carro lateral.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.48",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE).",
+    "sinais": [
+      "C14a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14b – proibição de ultrapassar para automóveis pesados, em via equiparada a autoestrada.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.49",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE).",
+    "sinais": [
+      "C14b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C14c – proibição de ultrapassar para motociclos e triciclos, em via equiparada a autoestrada.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.024.01.50",
+    "sancao_acessoria": "Sanção acessória: 146.º h) do CE Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do CE) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do CE).",
+    "sinais": [
+      "C14c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal C15 - estacionamento proibido.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.51",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C15"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal C16 - paragem e estacionamento proibido.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.52",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C16"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C17 - Proibição de utilização de sinal sonoro.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.53",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C17"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C18 - Paragem obrigatória na alfândega.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.54",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C18"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de proibição C19 – Outras paragens proibidas.",
+    "infracao": "art.º 24.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 26.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.024.01.55",
+    "sancao_acessoria": "",
+    "sinais": [
+      "C19"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1a - sentido obrigatório",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D1a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1b - sentido obrigatório",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D1b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D1c – obrigação de seguir no sentido indicado pela seta inscrita no sinal na proximação intersecção.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D1c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D2a - sentidos obrigatórios possíveis.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.05",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D2a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D2b - sentidos obrigatórios possíveis.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.06",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D2b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D2c - sentidos obrigatórios possíveis.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.07",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D2c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3a - obrigação de contornar placa.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.08",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D3a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3a - obrigação de contornar o obstáculo.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.09",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D3a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3b - obrigação de contornar placa.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.10",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D3b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D3b - obrigação de contornar o obstáculo.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.11",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D3b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D5a - via obrigatória para automóveis de mercadorias.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.12",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D5a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D5b - via obrigatória para automóveis pesados.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.13",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D5b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D5c - via obrigatória para motociclos.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.14",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D5c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D6 - via reservada a veículos de transporte público.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.15",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D6"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D6a - via reservada a veículos com alta taxa de ocupação.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.16",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D6a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7a - pista obrigatória para velocípedes.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.17",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7a"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7b - pista obrigatória para peões.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "n.º 2 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.18",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7c - pista obrigatória para cavaleiros.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.19",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7c"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7d - pista obrigatória para gado em manada.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.20",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7d"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D7e - pista obrigatória para peões e velocépedes.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.21",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7e"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento, por condutor de velocípede, da indicação dada pelo sinal de obrigação D7e - pista obrigatória para peões e velocípedes.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.22",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7e"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento, por peão, da indicação dada pelo sinal de obrigação D7f - pista obrigatória para peões e velocípedes.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "n.º 2 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.23",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7f"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento, por condutor de velocípede, da indicação dada pelo sinal de obrigação D7f - pista obrigatória para peões e velocípedes.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.24",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D7f"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D8 - obrigação de transitar à velocidade mínima de …Km/h.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.25",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D8"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D9 - obrigação de utilizar correntes de neve em duas rodas motoras.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.26",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D9"
+    ]
+  },
+  {
+    "categoria": "Sinalização Vertical",
+    "descricao": "Não cumprimento da indicação dada pelo sinal de obrigação D10 - Obrigação de utilizar luzes de cruzamento (médios) acesas.",
+    "infracao": "art.º 27.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "n.º 1 art.º 29.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.027.01.27",
+    "sancao_acessoria": "",
+    "sinais": [
+      "D10"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor a linha longitudinal contínua (Marca M1) separadora de vias de trânsito.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M1"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Pisar linha longitudinal contínua (Marca M1) separadora de vias de trânsito.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M1"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha longitudinal contínua (Marca M1) separadora de sentidos de trânsito.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 65.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.060.01.04",
+    "sancao_acessoria": "Sanção acessória: 146.º o) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "M1"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Pisar a linha longitudinal descontínua (Marca M2) não sendo para efectuar manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.05",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M2"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor a linha longitudinal descontínua (Marca M2) não sendo para efectuar manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.06",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M2"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Pisar linha longitudinal mista (Marca M3) separadora de vias de trânsito, encontrando-se mais próxima a linha contínua, não sendo para efectuar manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.07",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M3"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha longitudinal mista (Marca M3) separadora de vias de trânsito, encontrando-se mais próxima a linha contínua, não sendo para efectuar manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.08",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M3"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Pisar linha longitudinal mista (Marca M3) separadora de sentidos de trânsito, estando mais próximo a linha contínua.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.09",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M3"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha longitudinal mista (Marca M3) separadora de sentidos de trânsito, estando mais próxima a linha contínua.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 65.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.060.01.10",
+    "sancao_acessoria": "Sanção acessória: 146.º o) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "M3"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Pisar linha longitudinal mista (Marca M3) separadora de sentidos de trânsito, estando mais próximo a linha contínua.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.11",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M3"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha longitudinal mista (Marca M3) separadora de sentidos de trânsito, estando mais próximo a linha contínua.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.12",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M3"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Pisar linha descontínua de abrandamento (Marca M6) não sendo para efectuar nenhuma manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.13",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M6"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha descontínua de abrandamento (Marca M6) não sendo para efectuar nenhuma manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.14",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M6"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Pisar linha descontínua de aceleração (Marca M6a) não sendo para efectuar nenhuma manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.15",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M6a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha descontínua de aceleração (Marca M6a) não sendo para efectuar nenhuma manobra.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.16",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M6a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Pisar linha longitudinal contínua (Marca M7) delimitadora de vias de trânsito para determinada espécie de veículos e separadora de sentidos de trânsito.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.17",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M7"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha longitudinal contínua (Marca M7) delimitadora de vias de trânsito para determinada espécie de veículos e separadora de sentidos de trânsito.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 65.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.060.01.18",
+    "sancao_acessoria": "Sanção acessória: 146.º o) do C.E. Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "M7"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Pisar linha longitudinal contínua (Marca M7) delimitadora de vias de trânsito para determinada espécie de veículos.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.19",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M7"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Transpor linha longitudinal contínua (Marca M7) delimitadora de vias de trânsito para determinada espécie de veículos.",
+    "infracao": "n.º 1 art.º 60.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.060.01.20",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M7"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela linha de paragem (Marca M8), existindo sinalização vertical com o mesmo significado, aposta em via de trânsito delimitada por linha contínua.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.061.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M8"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela linha de paragem STOP (Marca M8a), existindo sinalização no pavimento e vertical com o mesmo significado, aposta em via de trânsito delimitada por linha contínua.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.061.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M8a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela linha de cedência de passagem (Marca M9), existindo sinalização vertical impondo ao condutor a cedência de passagem.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.061.01.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M9"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela linha de cedência de passagem com símbolo triangular (Marca M9a) existindo sinalização vertical impondo ao condutor a cedência de passagem.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.061.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M9a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento, por peão, da indicação dada pela Marca M11a - passagem para peões regulada por sinalização luminosa.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.55.061.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M11a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela Marca M10 - passagem para velocípedes.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.061.01.05",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M10"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela Marca M10a - passagem para velocípedes.",
+    "infracao": "art.º 61.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.061.01.06",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M10a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta junto ao limite da faixa de rodagem (Marca M13).",
+    "infracao": "n.º 1 art.º 62.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.062.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M13"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Estacionamento em local delimitado por linha descontínua, de cor amarela, aposta sobre o bordo do passeio (Marca M13a).",
+    "infracao": "n.º 1 art.º 62.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.062.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M13a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Estacionamento em local da faixa de rodagem delimitada por linha em ziguezague, de cor amarela (Marca M14).",
+    "infracao": "n.º 1 art.º 62.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.062.01.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M14"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Paragem em área demarcada pelas linhas contínuas, de cor amarela (Marca M14a), não sendo para efectuar cargas e descargas.",
+    "infracao": "n.º 1 art.º 62.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.062.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M14a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Estacionamento em área demarcada pelas linhas contínuas, de cor amarela (Marca M14a), não sendo para efectuar cargas e descargas.",
+    "infracao": "n.º 1 art.º 62.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.062.01.05",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M14a"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Não cumprimento da indicação dada pela Marca M15 - obrigação de seguir no sentido indicado por seta de selecção aposta em via de trânsito delimitada por linhas contínuas.",
+    "infracao": "n.º 1 art.º 63.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.063.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M15"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Desrespeito da proibição de entrar em área abrangida por raias oblíquas delimitadas por linha contínua (marca M17), aposta em via de trânsito delimitada por linha contínua.",
+    "infracao": "n.º 1 art.º 64.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 30 a € 150",
+    "punicao": "c) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.064.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M17"
+    ]
+  },
+  {
+    "categoria": "Marcas Rodoviárias",
+    "descricao": "Desrespeito da proibição de entrar em área constituída e delimitada por linhas contínuas de cor amarela quando a intensidade do trânsito obrigue à imobilização do veículo dentro daquela área (marca M17b), aposta em via de trânsito delimitada por linha contínua.",
+    "infracao": "n.º 1 art.º 64.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "b) do art.º 65.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.064.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "M17b"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Para velocípedes Desrespeito da obrigação de parar imposta pela luz vermelha de regulação do trânsito (sinal luminoso S1).",
+    "infracao": "a) n.º 1 art.º 69.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "a) do art.º 76.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.069.01.01",
+    "sancao_acessoria": "Sanção acessória: 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "S1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, não estando o veículo muito poerto dessa zona e podendo parar em condições de segurança (sinal luminoso S1).",
+    "infracao": "b) n.º 1 art.º 69.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "i), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.069.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S1"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Desrespeito da obrigação de parar imposta por sinal luminoso constituído por seta negra sobre fundo circular vermelho (sinal luminoso S2).",
+    "infracao": "a) n.º 2 art.º 69.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "i), a) do art.º 76.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.069.02.01",
+    "sancao_acessoria": "Sanção acessória: 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "S2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Desrespeito da proibição de entrar na zona regulada pelo sinal imposta por sinal luminoso constituído por seta negra sobre fundo circular amarelo, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S2).",
+    "infracao": "b) n.º 2 art.º 69.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "i), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.069.02.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Circulação em desrespeito da indicação de sentido dada pelo sinal luminoso constituído por seta negra sobre fundo circular verde (sinal luminoso S2).",
+    "infracao": "c) n.º 2 art.º 69.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "ii), a) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.069.02.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Desrespeito da obrigação de parar imposta por sinal luminoso constituído por seta vermelha sobre fundo circular negro (sinal luminoso S2).",
+    "infracao": "a) n.º 2 art.º 69.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "i), a) do art.º 76.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.069.02.04",
+    "sancao_acessoria": "Sanção acessória: 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "S2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Desrespeito da proibição de entrar na zona regulada pelo sinal imposta por sinal luminoso constituído por seta amarela sobre fundo circular negro, não estando o veículo muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S2).",
+    "infracao": "b) n.º 2 art.º 69.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "i), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.069.02.05",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Circulação em desrespeito da indicação de sentido dada pelo sinal luminoso de r egula ção do t rân si to constituído por seta verde sobre fundo circular negro (sinal luminoso S2).",
+    "infracao": "c) n.º 2 art.º 69.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "ii), a) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.069.02.06",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S2"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Desrespeito da obrigação de parar imposta pela luz vermelha re regulação do trânsito de velocípedes, em especial para estes veículos (sinal luminoso S3).",
+    "infracao": "n.º 5 art.º 69.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "i), a) do art.º 76.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.069.05.01",
+    "sancao_acessoria": "Sanção acessória: 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E.) Pessoa",
+    "sinais": [
+      "S3"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E.) Desrespeito da proibição de entrar na zona regulada pelo sinal imposta pela luz amarela, em pista especial para velocípedes, não estando o velocípede muito perto dessa zona e podendo parar em condições de segurança (sinal luminoso S3).",
+    "infracao": "n.º 5 art.º 69.º RST aprovado DR 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "i), a) do art.º 76.º",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "1.89.069.05.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S3"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Circulação em desrespeito da indicação de sentido dada pela luz verde suplementar de sinal luminoso de regulação de trânsito, constituída por seta verde sobre fundo circular negro (sinal luminoso S4).",
+    "infracao": "n.º 1 art.º 70.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "ii), a) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.070.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S4"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Circulação em desrespeito da indicação de sentidos dada pelas luzes verdes suplementares de sinal luminoso de regulação de trânsito, constituída por setas verdes sobre fundo circular negro (sinal luminoso S4).",
+    "infracao": "n.º 1 art.º 70.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "ii), a) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.070.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S4"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Circulação em desrespeito da indicação de sentido dada pela luz verde suplementar de sinal luminoso de regulação de trânsito, constituída por seta negra sobre fundo circular verde (sinal luminoso S4).",
+    "infracao": "n.º 1 art.º 70.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "ii), a) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.070.01.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S4"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Circulação em desrespeito da indicação de sentidos dada pelas luzes verdes suplementares de sinal luminoso de regulação de trânsito, constituída por setas negras sobre fundo circular verde(sinal luminoso S4).",
+    "infracao": "n.º 1 art.º 70.º RST aprovado DR 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "ii), a) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.070.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S4"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Não cumprimento da indicação dada pelo sinal luminoso de cor amarela circular intermitente (sinal luminoso S5).",
+    "infracao": "n.º 1 art.º 71.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "ii), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.071.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S5"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Não cumprimento da indicação dada pelo sinal luminoso, intermitente, com seta negra sobre fundo amarelo (sinal luminoso S6)",
+    "infracao": "n.º 1 art.º 71.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "ii), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.071.01.02",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S6"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Não cumprimento da indicação dada pelo sinal luminoso, intermitente, com seta amarela sobre fundo negro (sinal luminoso S6)",
+    "infracao": "n.º 1 art.º 71.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "ii), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.071.01.03",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S6"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Não cumprimento da indicação dada pelo sinal luminoso constituído por duas luzes amarelas dispostas horizontalmente e acedendo alternadamente (sinal luminoso S7)",
+    "infracao": "n.º 1 art.º 71.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 60 a € 300",
+    "punicao": "ii), b) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.071.01.04",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S7"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Desrespeito da indicação dada pelo sinal luminoso constituído por barra horizontal branca sobre fundo circular negro (sinal luminoso S16) – passagem proibida para veículo de transporte coletivo de passageiros..",
+    "infracao": "n.º 1 artigo 73.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 120 a € 600",
+    "punicao": "iv), a) art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.073.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S16"
+    ]
+  },
+  {
+    "categoria": "Sinalização Luminosa",
+    "descricao": "Trânsito de peão desrespeitando a proibição de iniciar o atravessamento da faixa de rodagem, imposta pelo sinal luminoso de cor vermelha destinado a regular o trânsito de peões (sinal luminoso S18).",
+    "infracao": "a) artigo 74.º RST aprovado DR n.º 22-A/98",
+    "coima": "€ 10 a € 50",
+    "punicao": "c) do art.º 76.º",
+    "classificacao": "LEVE",
+    "codigo": "1.89.074.01.01",
+    "sancao_acessoria": "",
+    "sinais": [
+      "S18"
+    ]
+  },
+  {
+    "categoria": "Sinais dos Agentes Reguladores de Trânsito",
+    "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo de frente",
+    "infracao": "artigo 103.º do RST aprovado pelo DR n.º 22-A/98, de 01OUT",
+    "coima": "€ 500 a € 2500",
+    "punicao": "n.º 3 art.º art.º 4.º CE ex vi art.º 104.º RST",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.103.01.01",
+    "sancao_acessoria": "art.º 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E)"
+  },
+  {
+    "categoria": "Sinais dos Agentes Reguladores de Trânsito",
+    "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da retaguarda",
+    "infracao": "artigo 103.º do RST aprovado pelo DR n.º 22-A/98, de 01OUT",
+    "coima": "€ 500 a € 2500",
+    "punicao": "n.º 3 art.º art.º 4.º CE ex vi art.º 104.º RST",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.103.01.02",
+    "sancao_acessoria": "art.º 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E)"
+  },
+  {
+    "categoria": "Sinais dos Agentes Reguladores de Trânsito",
+    "descricao": "Desobediência ao sinal do agente regulador do trânsito de paragem do trânsito vindo da frente e da retaguarda",
+    "infracao": "artigo 103.º do RST aprovado pelo DR n.º 22-A/98, de 01OUT",
+    "coima": "€ 500 a € 2500",
+    "punicao": "n.º 3 art.º art.º 4.º CE ex vi art.º 104.º RST",
+    "classificacao": "MUITO GRAVE",
+    "codigo": "3.89.103.01.03",
+    "sancao_acessoria": "art.º 146.º l) do C.E. - Condutor: Inibição de Conduzir 2/24 meses (147.º n.º 2 do C.E) Pessoa Col./Pessoa sing. não habilitada: apreensão do veículo 2/24 meses (147.º n.º 3 do C.E)"
+  }
+]
