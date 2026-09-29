@@ -1,0 +1,962 @@
+[
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Utilização de material metálico não apropriado para acrescentar o quadro do veículo automóvel à retaguarda e com prejuízo das boas condições de resistência, segurança e equilíbrio.",
+    "infracao": "ARTIGO 15.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 15.º n.º2 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.015.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Alteração da estrutura e dimensão do quadro de veículo automóvel sem aprovação prévia da DGV.",
+    "infracao": "ARTIGO 15.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 15º. n.º2 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.015.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou de automóvel pesado de mercadorias ou misto ou de automóvel pesado de passageiros) em que o valor do nível sonoro do ruído global de funcionamento do motor excede em ____ dB os valores legalmente permitidos.",
+    "infracao": "ARTIGO 16.º n.º 1",
+    "coima": "€ 74,82 a € 374,10",
+    "punicao": "art.º 16.º.n.º2",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Tubo de escape não dirigido para a retaguarda (ou para a esquerda) do veículo.",
+    "infracao": "ARTIGO 16.º n.º 2",
+    "coima": "€ 74,82 a € 374,10",
+    "punicao": "art.º 16.º.n.º2",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Tubo de escape de automóvel de passageiros não se prolongando até à extremidade da caixa.",
+    "infracao": "ARTIGO 16.º n.º 2",
+    "coima": "€ 74,82 a € 374,10",
+    "punicao": "art.º 16.º.n.º2",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Silencioso (ou tubo de escape) colocado a uma distância inferior a 10 cm de qualquer material combustível.",
+    "infracao": "ARTIGO 16.º n.º 2",
+    "coima": "€ 74,82 a € 374,10",
+    "punicao": "art.º 16.º.n.º2",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.02.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Tubo de escape não dirigido para a esquerda, não se encontrando sob a cabina do condutor (ou não tendo a extremidade protegida por um guarda chamas) em automóvel destinado exclusivamente ao transporte de explosivos (ou substâncias facilmente inflamáveis).",
+    "infracao": "ARTIGO 16.º n.º 2",
+    "coima": "€ 74,82 a € 374,10",
+    "punicao": "art.º 16.º.n.º2",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.02.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Utilização de combustível diferente do mencionado no livrete / documento de identificação do veículo (ou uso de mistura de combustíveis).",
+    "infracao": "ARTIGO 16.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 16.n.º 3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo automóvel utilizando motor de substituição, sem que a respectiva ficha de inspecção acompanhe o livrete / documento de identificação do veiculo.",
+    "infracao": "ARTIGO 16.º n.º 6",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 16.n.º 6",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.06.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Não apresentação da ficha de inspecção no prazo de oito dias.",
+    "infracao": "ARTIGO 16.º n.º 6",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 16.n.º 6",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.06.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Instalação em motor de veículo automóvel de aparelho destinado a alterar qualquer das características regulamentares sem aprovação da DGV.",
+    "infracao": "ARTIGO 16.º n.º 7",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 16º.n.º7 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.016.07.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo destinado ao transporte de passageiros com utilização de caixa sem aprovação prévia do respectivo projecto pela DGV.",
+    "infracao": "ARTIGO 20.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 20.º n.º 2 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel de carga (ou de reboque de caixa aberta) com taipais de altura inferior a 45 cm.",
+    "infracao": "ARTIGO 20.º n.º 6",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 20.ºn.º 6",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.06.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel de carga (ou de reboque de caixa aberta) cujos taipais cobertos não fiquem perpendiculares ao solo.",
+    "infracao": "ARTIGO 20.º n.º 6",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 20.º n.º 6",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.06.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo do tipo funerário (ou ambulância) com altura interior da caixa inferior a 120 cm.",
+    "infracao": "ARTIGO 20.º n.º 7",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.07.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro do tipo misto com altura interior da caixa inferior a 115 cm.",
+    "infracao": "ARTIGO 20.º n.º 7",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.07.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro do tipo misto com altura inferior a 90 cm, desde o tecto do assento ao leito da caixa.",
+    "infracao": "ARTIGO 20.º n.º 7",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.07.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros (ou do tipo ambulância ou funerário ou de transporte de carnes) de caixa fechada não dotada de ventilador.",
+    "infracao": "ARTIGO 20.º n.º 8",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 20.º n.º 8 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.08.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros de caixa fechada não estanque ao vento e à chuva.",
+    "infracao": "ARTIGO 20.º n.º 8",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 20.º n.º 8 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.08.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo automóvel não estando o orifício de enchimento do reservatório do combustível situado no exterior da caixa.",
+    "infracao": "ARTIGO 20.º n.º 10",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.10.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo utilizando as cores azul forte e cinzento combinadas, cativas das viaturas da PSP.",
+    "infracao": "ARTIGO 20.º n.º 12",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 20.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.12.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo licenciado em data posterior a 31 de Dezembro de 1994 como automóvel ligeiro de passageiros de aluguer, cuja cor não seja bege marfim.",
+    "infracao": "ARTIGO 20.º n.º 13",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 20.º n.º 13",
+    "classificacao": "LEVE",
+    "codigo": "1.34.020.13.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel (ou de reboque) com portas (ou janelas) não estanques ao vento e à chuva.",
+    "infracao": "ARTIGO 21.º n.º 1",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo com janelas (ou portas) cujos vidros não sejam inquebráveis (ou inestilhaçáveis).",
+    "infracao": "ARTIGO 21.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 2 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veiculo com janelas (ou portas) cujo vidro seja em material plástico não incolor (ou não seja perfeitamente transparente, ou seja inflamável a temperatura inferior a 300º C).",
+    "infracao": "ARTIGO 21.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º21.º n.º2 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo cujas portas não permitam abertura fácil, quer do interior quer do exterior.",
+    "infracao": "ARTIGO 21.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo cujas portas de correr (ou de dobrar) não sejam facilmente manobráveis (ou de perfeita segurança).",
+    "infracao": "ARTIGO 21.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo cujas portas de uma única folha não abram de trás para a frente.",
+    "infracao": "ARTIGO 21.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.03.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo pesado de passageiros cuja porta comandada à distância não disponha de comando interior e exterior.",
+    "infracao": "ARTIGO 21.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.03.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo pesado de passageiros cuja porta comandada à distância não disponha de comandos situados na proximidade da porta.",
+    "infracao": "ARTIGO 21.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.03.05",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo pesado de passageiros não tendo o condutor visibilidade directa suficiente e não possuindo instalado dispositivo óptico que lhe permita ver claramente as zonas interior e exterior de acesso às portas.",
+    "infracao": "ARTIGO 21.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 3 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.03.06",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros sem possuir saídas de emergência.",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros com as saídas de emergência colocadas de tal forma que a diferença de número de saídas entre cada lado do veículo seja superior a uma (ou não estando distribuídas uniformemente ao longo do cumprimento do veículo).",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros com saídas de emergência cuja altura mínima do bordo inferior das janelas ao pavimento interior do veículo não esteja compreendida entre 50 a 100 cm.",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros sem que as saídas de emergência estejam assinaladas com a inscrição “ Saída de emergência”.",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros cuja lotação é de 23 lugares (ou de 24 a 36 ou mais de 36 lugares) com saídas de emergência em número inferior a três (ou a quatro ou a cinco).",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.05",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros com portas de emergência de dimensões inferiores a 55 cm x 125 cm (ou janelas de emergência com área inferior a 4000 cm3 ou com superfície rectangular livre inferior a 50 cm x 70 cm).",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.06",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros possuindo, no painel esquerdo, porta (ou saída) para além da porta destinada à entrada e saída do condutor (ou saídas de emergência)",
+    "infracao": "ARTIGO 21.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 21.º n.º 6 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.06.07",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veiculo pesado de mercadorias de caixa fechada não possuindo no painel direito (ou à retaguarda) portas destinadas a carga e descarga.",
+    "infracao": "ARTIGO 21.º n.º 7",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 21.º n.º 7",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.07.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de mercadorias de caixa fechada cujas portas laterais estando abertas não se fixam no painel onde estão colocadas.",
+    "infracao": "ARTIGO 21.º n.º 7",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 21.º n.º 7",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.07.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de mercadorias de caixa fechada cujas portas da retaguarda abertas ultrapassem a largura máxima do veículo.",
+    "infracao": "ARTIGO 21.º n.º 7",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 21.º n.º 7",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.07.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de mercadorias de caixa fechada cuja porta de acesso ao lugar do condutor não tenha largura de 65 cm medidos a meia altura da porta.",
+    "infracao": "ARTIGO 21.º n.º 7",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 21.º n.º 7",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.07.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de mercadorias de caixa fechada possuindo no painel esquerdo outra porta para além da destinada à entrada e saída do condutor.",
+    "infracao": "ARTIGO 21.º n.º 7",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 21.º n.º 7",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.07.05",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros (ou mistos de caixa fechada) não possuindo uma janela para cada banco, sendo tal possível.",
+    "infracao": "ARTIGO 21.º n.º 8",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.08.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de passageiros não possuindo a janela da retaguarda as dimensões mínimas de 70 cm x 30 cm.",
+    "infracao": "ARTIGO 21.º n.º 9",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.09.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel pesado de mercadorias não possuindo a janela da retaguarda as dimensões mínimas de 50 cm x 25 cm.",
+    "infracao": "ARTIGO 21.º n.º 9",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.021.09.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) cujo pára-brisas não seja constituído por vidro inquebrável (ou inestilhaçável ou deformando os objectos vistos por transparência).",
+    "infracao": "ARTIGO 22.º n.º 1",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 22.º n.º 1 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.022.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) cujo pára-brisas não tem a inclinação necessária para que a iluminação interior dos veículos, nele se reflectindo, não prejudique a visibilidade do condutor.",
+    "infracao": "ARTIGO 22.º n.º 3",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 22.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.022.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) cujo pára-brisas não possui dispositivo destinado a impedir o encandeamento do condutor pela luz do sol.",
+    "infracao": "ARTIGO 22.º n.º 3",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 22.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.022.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) cujo pára-brisas não possui limpador automático cuja superfície de acção seja suficiente para que o condutor possa ver através dela a via em que transita.",
+    "infracao": "ARTIGO 22.º n.º 3",
+    "coima": "€ 14,96 a € 74,82",
+    "punicao": "art.º 22.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.022.03.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo não estando estofado o banco do condutor (ou não sendo este regulável longitudinalmente).",
+    "infracao": "ARTIGO 22.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.01.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo pesado de passageiros não sendo o banco do condutor regulável verticalmente.",
+    "infracao": "ARTIGO 22.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.01.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo cujo lugar de condutor não se encontre colocado de forma a permitir que este disponha de boa visibilidade (ou maneje todos os comandos com facilidade sem prejuízo da boa vigilância contínua do caminho).",
+    "infracao": "ARTIGO 22.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.01.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo pesado de passageiros não estando o lugar do condutor separado dos passageiros e convenientemente isolado de modo que os dispositivos de comando fiquem fora do alcance dos passageiros.",
+    "infracao": "ARTIGO 23.º n.º 2",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veiculo pesado de passageiros em que é autorizado o transporte de passageiros de pé, na proximidade do lugar do condutor, não estando este eficazmente protegido por um dispositivo fixo, sólido e capaz de proteger o condutor contra qualquer choque ou pressão provocado pelos passageiros.",
+    "infracao": "ARTIGO 23.º n.º 2",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.02.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou de automóvel pesado de passageiros, ou de automóvel pesado de mercadorias ou misto) não possuindo cabina rígida para resguardar o lugar do condutor, não estando este lugar situado no interior da caixa do veículo.",
+    "infracao": "ARTIGO 23.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de automóvel ligeiro (ou de automóvel pesado de passageiros ou de automóvel pesado de mercadorias ou misto) com cabina rígida independente da caixa, colocada a uma distância desta inferior a 3 cm.",
+    "infracao": "ARTIGO 23.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículos de mercadorias em que o lugar do condutor está situado no interior da caixa sem que esteja suficientemente protegido contra qualquer deslocação da carga.",
+    "infracao": "ARTIGO 23.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.03.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo misto sem uma antepara parcial (ou total) limitando o compartimento destinado às mercadorias. LEVE Antepara",
+    "infracao": "ARTIGO 23.º n.º 3",
+    "coima": "€ 7,48 a € 37,41",
+    "punicao": "art.º 48.º n.º 3          Esclarecimento Direcção",
+    "classificacao": "LEVE",
+    "codigo": "1.34.023.03.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Transporte de passageiros em pé, em veículos pesados de passageiros, na zona situada à frente do plano vertical que passa pela parte anterior das costas do motorista na sua posição mais recuada.",
+    "infracao": "ARTIGO 24.º n.º 3",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 24.º n.º 3 (por cada passageiro em infracção)",
+    "classificacao": "LEVE",
+    "codigo": "1.34.024.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Transporte em veículos pesados de passageiros, de passageiros em pé cujo número não respeite a área mínima de 1500 cm3 reservada por cada passageiro e uma altura livre mínima de 185 cm.",
+    "infracao": "ARTIGO 24.º n.º 3",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 24.º n.º 3 (por cada passageiro em infracção)",
+    "classificacao": "LEVE",
+    "codigo": "1.34.024.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de veículo pesado de passageiros que transporte passageiros em pé, não existindo dispositivos de apoio em número suficiente para estes.",
+    "infracao": "ARTIGO 24.º n.º 3",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 24.º n.º 3 (por cada passageiro em infracção)",
+    "classificacao": "LEVE",
+    "codigo": "1.34.024.03.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros sem que o reservatório de combustível esteja colocado por forma a ser protegido das consequências de uma colisão frontal (ou pela retaguarda do veículo).",
+    "infracao": "ARTIGO 29.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.024.04.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de motociclo não estando o banco destinado ao transporte de passageiros dotado de um apoio para as mãos.",
+    "infracao": "ARTIGO 24.º n.º 5",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 24.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.34.024.05.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Órgãos e acessórios",
+    "descricao": "Circulação de motociclo não estando equipado com um descanso (ou estribo) para os pés do passageiro.",
+    "infracao": "ARTIGO 24.º n.º 5",
+    "coima": "€ 24,94 a € 124,70",
+    "punicao": "art.º 24.º n.º 5",
+    "classificacao": "LEVE",
+    "codigo": "1.34.024.05.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros cujo quadro não obedeça ao modelo de construção especialmente estabelecido para o transporte de passageiros.",
+    "infracao": "ARTIGO 29.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º .n.º9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros com caixa excedendo mais de 12 cm para cada lado a largura do rodado mais largo.",
+    "infracao": "ARTIGO 29.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros com caixa não fechada.",
+    "infracao": "ARTIGO 29.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros com um único piso com caixa fechada de altura mínima inferior a 180 cm.",
+    "infracao": "ARTIGO 29.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.03.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros de dois pisos com caixa fechada de altura mínima inferior a 175 cm.",
+    "infracao": "ARTIGO 29.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.03.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros da Categoria I (ou II) com uma altura interior mínima de 200 cm, estando previsto o transporte de passageiros em pé.",
+    "infracao": "ARTIGO 29.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.03.05",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros com reservatório de combustível não instalado no exterior do compartimento da caixa reservada a pessoas (ou a bagagem ou a mercadoria).",
+    "infracao": "ARTIGO 29.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.04.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros com reservatório de combustível instalado com saliências (ou bordos cortantes).",
+    "infracao": "ARTIGO 29.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.04.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros sem que a parte inferior do reservatório de combustível esteja completamente livre.",
+    "infracao": "ARTIGO 29.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.04.04",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros cujo orifício de enchimento do reservatório de combustível não esteja acessível apenas do exterior da caixa (ou não respeite a distância mínima de 25 cm em relação a qualquer porta).",
+    "infracao": "ARTIGO 29.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.04.05",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros com reservatório de combustível colocado em painéis laterais formando saliências relativamente às superfícies adjacentes.",
+    "infracao": "ARTIGO 29.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.04.06",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros não estando as baterias de acumuladores instaladas no exterior dos compartimentos destinados às pessoas, bagagens ou mercadorias (ou não estejam fixas ou estejam inconvenientemente isoladas).",
+    "infracao": "ARTIGO 29.º n.º 5",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 129.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.05.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Automóveis com Reboque",
+    "descricao": "Circulação de veículo pesado de passageiros cujos cabos das instalações eléctricas não estejam convenientemente isolados (ou não estando convenientemente fixos ou não estando convenientemente protegidos contra curto-circuitos).",
+    "infracao": "ARTIGO 29.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 29.º n.º 9 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.029.06.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) de transporte público de passageiros sem extintor de incêndio conforme as características regulamentares (ou com extintor sem se encontrar em condições de imediato funcionamento ou colocado em local pouco visível ou de fácil alcance). Conjugado c/ Despacho n.º 15 680/2002",
+    "infracao": "ARTIGO 29.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.01.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) de transporte público de passageiros em mau estado de conservação (ou falta de asseio no interior ou no exterior).",
+    "infracao": "ARTIGO 30.º n.º 2",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.02.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) de transporte público de passageiros não dispondo no interior de sistema de iluminação.",
+    "infracao": "ARTIGO 30.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.03.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação em automóvel pesado de transporte público de passageiros não dispondo no interior de sistema de iluminação permanente (ou não permitindo a fácil leitura em todos os lugares ou prejudicando a boa visibilidade do condutor ou a dos condutores de outros veículos que por ele passem).",
+    "infracao": "ARTIGO 30.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.03.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros não estando convenientemente iluminados os degraus destinados a auxiliar a entrada ou saída de passageiros.",
+    "infracao": "ARTIGO 30.º n.º 3",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.03.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel ligeiro (ou pesado) de transporte público de passageiros não dispondo, no mínimo, de duas portas de serviço (ou uma de serviço e outra de emergência).",
+    "infracao": "ARTIGO 30.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.04.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria I (ou II) com lotação superior a sete lugares não possuindo duas portas no painel lateral direito para a entrada e saída dos passageiros.",
+    "infracao": "ARTIGO 30.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.04.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria I (ou da categoria II) com lotação superior a sessenta lugares não possuindo, no mínimo, três portas de serviço localizadas no painel direito para a entrada e saída dos passageiros.",
+    "infracao": "ARTIGO 30.º n.º 4",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.04.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de veículo pesado de passageiros não permitindo o transporte de passageiros em pé, sem possuir, no seu interior, dispositivo para o transporte de bagagem.",
+    "infracao": "ARTIGO 30.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.06.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de veículo pesado de passageiros de dois pisos (ou que permita o transporte de passageiros em pé), sem ter espaço disponível e devidamente assinalado, perto de uma porta para a colocação de bagagem.",
+    "infracao": "ARTIGO 30.º n.º 6",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.06.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros não dispondo de cortina (ou de dispositivo equivalente) na janela.",
+    "infracao": "ARTIGO 30.º n.º 7",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.07.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte publico de passageiros da categoria I (ou II) não dispondo de sistema de ventilação adequado e eficiente.",
+    "infracao": "ARTIGO 30.º n.º 8",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.08.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria III não dispondo de sistema de ar condicionado.",
+    "infracao": "ARTIGO 30.º n.º 8",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.08.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria I (ou II ou III) não dispondo de sistema para o desembaciamento eficaz do pára-brisas.",
+    "infracao": "ARTIGO 30.º n.º 8",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.08.03",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria I (ou II) não dispondo de sinal acústico (ou luminoso) para os passageiros (ou condutor) determinarem a paragem (ou o recomeço da marcha).",
+    "infracao": "ARTIGO 30.º n.º 9",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.09.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria I não dispondo de dispositivo acústico adequado para assinalar aos passageiros o fecho de porta servocomandada situada para trás do eixo anterior do veículo.",
+    "infracao": "ARTIGO 30.º n.º 9",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.09.02",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros com anúncios afixados em zonas (ou condições ) diferentes das aprovadas pela DGV. Conjugado c/ Despacho 12802/2014",
+    "infracao": "ARTIGO 30.º n.º 10",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.10.01",
+    "sancao_acessoria": ""
+  },
+  {
+    "categoria": "Transportes Públicos de Passageiros",
+    "descricao": "Circulação de automóvel pesado de transporte público de passageiros da categoria I não tendo afixado em local visível distintivo de lugares cativos em material autocolante.",
+    "infracao": "ARTIGO 30.º n.º 11",
+    "coima": "€ 99,76 a € 249,40",
+    "punicao": "art.º 30.º n.º 12 ex vi Port.ª 881-A/94 de 30.09",
+    "classificacao": "LEVE",
+    "codigo": "1.34.030.11.01",
+    "sancao_acessoria": ""
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "_leia-me": [
+    "Palavras que os agentes procuram mas que nao aparecem no texto das infracoes.",
+    "Formato:  \"termo termo termo\": [\"codigo\", \"codigo\", ...]",
+    "Os termos sao acrescentados ao campo de busca dos codigos indicados.",
+    "Escrever sem acentos e em minusculas — o gerador normaliza de qualquer forma.",
+    "As entradas abaixo sao um ponto de partida e devem ser confirmadas."
+  ],
+
+  "telemovel telemovel telefone chamada": [
+    "2.90.084.01.06",
+    "2.90.084.01.07"
+  ],
+
+  "auriculares auscultadores headphones": [
+    "2.90.084.01.05"
+  ],
+
+  "peliculas pelicula vidros fumados escurecidos": [
+    "1.34.021.02.02",
+    "1.86.114.05.01",
+    "1.86.114.05.02"
+  ],
+
+  "radar cinemometro": [
+    "1.86.027.01.01",
+    "2.86.027.01.02",
+    "3.86.027.01.03",
+    "3.86.027.01.04"
+  ]
+}
