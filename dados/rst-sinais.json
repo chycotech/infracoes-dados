@@ -1658,28 +1658,35 @@
         "infracoes": [
           "2.90.050.01.107"
         ],
-        "imagem": "H1ADEFICIENTES.png"
+        "imagem": "H1ADEFICIENTES.png",
+        "curto": "Deficientes"
       },
       {
         "painel": "Modelo 11j — veículos afetos ao serviço de determinadas entidades (polícia, táxis)",
         "situacao": "Veículo não abrangido estacionado no lugar reservado",
         "infracoes": [
           "1.90.050.01.85"
-        ]
+        ],
+        "imagem": "H1ATAXIS.png",
+        "curto": "Táxis e entidades"
       },
       {
         "painel": "Modelo 11l ou 10d — veículos elétricos, ou elétricos em carga",
         "situacao": "Veículo não elétrico, ou elétrico sem estar em carga",
         "infracoes": [
           "1.90.050.01.85"
-        ]
+        ],
+        "imagem": "H1AELETRICOS.png",
+        "curto": "Elétricos"
       },
       {
         "painel": "Modelo 4 ou 5 — duração limitada",
         "situacao": "Exceder o tempo, ou não exibir o título de estacionamento",
         "infracoes": [
           "1.90.050.01.95"
-        ]
+        ],
+        "imagem": "H1APAGO.png",
+        "curto": "Duração limitada"
       }
     ]
   },
