@@ -1,7 +1,7 @@
 {
-  "gerado": "2026-10-09T17:38:45Z",
-  "impressao": "bfa80adbf073",
-  "entradas": 2313,
+  "gerado": "2026-10-09T17:40:02Z",
+  "impressao": "f1739ad7acbc",
+  "entradas": 2738,
   "ficheiros": {
     "animais.json": 40,
     "complegis.json": 29,
@@ -10,6 +10,7 @@
     "legislacao-complementar.json": 89,
     "peoes.json": 114,
     "rce.json": 96,
+    "rst-sinais.json": 425,
     "rst.json": 146,
     "velocipedes.json": 959
   }
