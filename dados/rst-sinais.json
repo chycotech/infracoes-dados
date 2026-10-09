@@ -1657,7 +1657,8 @@
         "situacao": "Veículo sem cartão estacionado no lugar reservado",
         "infracoes": [
           "2.90.050.01.107"
-        ]
+        ],
+        "imagem": "H1ADEFICIENTES.png"
       },
       {
         "painel": "Modelo 11j — veículos afetos ao serviço de determinadas entidades (polícia, táxis)",
