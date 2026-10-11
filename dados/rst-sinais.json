@@ -434,8 +434,18 @@
     "categoria": "Sinalização Vertical",
     "artigo": "24.º",
     "infracoes": [
-      "2.89.024.01.01",
-      "1.89.024.01.02"
+      "2.89.024.01.01"
+    ],
+    "com_painel": [
+      {
+        "painel": "Painel adicional de exceção — exceto…",
+        "curto": "Exceto…",
+        "situacao": "Circular em sentido proibido não estando abrangido pela exceção. Com painel a infração é leve, sem inibição de conduzir.",
+        "infracoes": [
+          "1.89.024.01.02"
+        ],
+        "imagem": "C1EXCETO.png"
+      }
     ]
   },
   {
