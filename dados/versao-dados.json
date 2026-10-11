@@ -1,9 +1,8 @@
 {
-  "gerado": "2026-10-11T14:19:42Z",
-  "impressao": "329cd7f74733",
+  "gerado": "2026-10-11T20:12:49Z",
+  "impressao": "92882fc192fd",
   "entradas": 2738,
   "ficheiros": {
-    "alcoolemia.json": 0,
     "animais.json": 40,
     "complegis.json": 29,
     "dados.json": 838,
@@ -13,7 +12,6 @@
     "rce.json": 96,
     "rst-sinais.json": 425,
     "rst.json": 146,
-    "velocipedes.json": 959,
-    "versao-dados.json": 0
+    "velocipedes.json": 959
   }
 }
