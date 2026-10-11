@@ -1,0 +1,23 @@
+[
+  {
+    "fonte": "dados",
+    "grupo": "",
+    "titulo": "Pneumáticos",
+    "desc": "Infrações ao Decreto Regulamentar n.º 7/98, na Legislação complementar",
+    "ir": "legislacao-complementar|categoria|Pneumáticos"
+  },
+  {
+    "fonte": "dados",
+    "grupo": "",
+    "titulo": "Pneus — Decreto Regulamentar n.º 7/98",
+    "desc": "Características e condições de utilização dos pneus · texto integral no DRE",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1998-203906"
+  },
+  {
+    "fonte": "dados",
+    "grupo": "",
+    "titulo": "Código da Estrada — texto integral",
+    "desc": "Decreto-Lei n.º 114/94, versão consolidada no DRE",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-34479475"
+  }
+]
