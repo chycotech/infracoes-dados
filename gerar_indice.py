@@ -38,7 +38,7 @@ ROTULOS = {
 # Ficheiros que nao sao dados de conteudo. Sao os nomes SEM .json.
 # versao-dados e o carimbo escrito por este script; alcoolemia e a tabela de
 # numeros, que nao faz sentido pesquisar.
-IGNORAR = {'indice', 'sinonimos', 'versao-dados', 'alcoolemia', 'remunerados', 'fiscalizacao',
+IGNORAR = {'indice', 'sinonimos', 'versao-dados', 'alcoolemia', 'remunerados', 'fiscalizacao', 'habilitacao',
            'package', 'package-lock', 'manifest', 'config', 'tsconfig'}
 
 TAM_TITULO = 110
