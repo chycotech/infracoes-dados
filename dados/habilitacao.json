@@ -1,0 +1,290 @@
+{
+  "fonte": "Decreto-Lei n.º 138/2012, de 5 de julho — Regulamento da Habilitação Legal para Conduzir, com as alterações posteriores, designadamente o Decreto-Lei n.º 151/2017, de 7 de dezembro.",
+  "aviso": "Resumo para consulta no terreno. Em caso de dúvida sobre um caso concreto, confirmar no texto consolidado do Regulamento e no registo do condutor.",
+  "diplomas": [
+    {
+      "titulo": "Regulamento da Habilitação Legal para Conduzir",
+      "desc": "Decreto-Lei n.º 138/2012, de 5 de julho",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550"
+    },
+    {
+      "titulo": "Carta de condução de veículos agrícolas",
+      "desc": "IMT — categorias T1, T2 e T3",
+      "url": "https://www.imt-ip.pt/condutores/informacoes-gerais/quero-ser-condutor/carta-de-conducao-veiculos-agricolas/"
+    }
+  ],
+  "categorias": [
+    {
+      "cat": "AM",
+      "grupo": "Ciclomotores e motociclos",
+      "nome": "Ciclomotores (dos 14 aos 16)",
+      "idade": "14 anos",
+      "restricao": "Código 790",
+      "resumo": "Só ciclomotores de duas rodas, até 45 km/h.",
+      "detalhe": [
+        "Motor de combustão até 50 cm³, ou motor elétrico de potência nominal contínua máxima até 4 kW.",
+        "Velocidade máxima, de patamar e por construção, até 45 km/h.",
+        "Exige ação de formação especial, com aproveitamento, ministrada por entidade autorizada pelo IMT.",
+        "A restrição 790 caduca quando o titular faz 16 anos; a carta mantém-se válida e passa a valer como AM plena."
+      ]
+    },
+    {
+      "cat": "AM",
+      "grupo": "Ciclomotores e motociclos",
+      "nome": "Ciclomotores e quadriciclos ligeiros",
+      "idade": "16 anos",
+      "resumo": "Duas ou três rodas e quadriciclos ligeiros, até 45 km/h.",
+      "detalhe": [
+        "Ciclomotores de duas ou três rodas, com velocidade máxima até 45 km/h.",
+        "Quadriciclos ligeiros."
+      ]
+    },
+    {
+      "cat": "A1",
+      "grupo": "Ciclomotores e motociclos",
+      "nome": "Motociclos ligeiros",
+      "idade": "16 anos",
+      "resumo": "Até 125 cm³ e 11 kW; triciclos até 15 kW.",
+      "detalhe": [
+        "Motociclos até 125 cm³ e 11 kW, com relação potência/peso até 0,1 kW/kg.",
+        "Triciclos a motor até 15 kW."
+      ],
+      "abrange": "AM"
+    },
+    {
+      "cat": "A2",
+      "grupo": "Ciclomotores e motociclos",
+      "nome": "Motociclos de média potência",
+      "idade": "18 anos",
+      "resumo": "Até 35 kW.",
+      "detalhe": [
+        "Motociclos até 35 kW, com relação potência/peso inferior a 0,2 kW/kg.",
+        "Não podem derivar de veículo com mais do dobro da potência."
+      ],
+      "abrange": "AM, A1"
+    },
+    {
+      "cat": "A",
+      "grupo": "Ciclomotores e motociclos",
+      "nome": "Motociclos sem limite de potência",
+      "idade": "24 anos",
+      "resumo": "Todos os motociclos e triciclos a motor.",
+      "detalhe": [
+        "Motociclos com ou sem carro lateral, sem limite de potência, e triciclos a motor.",
+        "Aos 20 anos, se o titular tiver a categoria A2 há dois anos. O tempo de inibição ou cassação não conta.",
+        "Triciclos de potência superior a 15 kW só a partir dos 21 anos."
+      ],
+      "abrange": "AM, A1, A2"
+    },
+    {
+      "cat": "B1",
+      "grupo": "Ligeiros",
+      "nome": "Quadriciclos pesados",
+      "idade": "16 anos",
+      "detalhe": [
+        "Quadriciclos pesados."
+      ],
+      "resumo": ""
+    },
+    {
+      "cat": "B",
+      "grupo": "Ligeiros",
+      "nome": "Automóveis ligeiros",
+      "idade": "18 anos",
+      "resumo": "Até 3500 kg e 8 passageiros, com reboque até 750 kg.",
+      "detalhe": [
+        "Automóveis de massa máxima até 3500 kg, com lotação até oito passageiros além do condutor.",
+        "Com reboque de massa máxima até 750 kg.",
+        "Triciclos a motor de potência superior a 15 kW, a partir dos 21 anos.",
+        "Motociclos da categoria A1, em território nacional, nas condições legalmente previstas.",
+        "Veículos agrícolas das categorias I e II — a categoria II exige ação de formação.",
+        "Máquinas industriais ligeiras."
+      ],
+      "abrange": "AM, B1"
+    },
+    {
+      "cat": "BE",
+      "grupo": "Ligeiros",
+      "nome": "Ligeiro com reboque",
+      "idade": "18 anos",
+      "resumo": "Trator B com reboque até 3500 kg.",
+      "detalhe": [
+        "Conjunto de veículo trator da categoria B com reboque ou semirreboque de massa máxima até 3500 kg.",
+        "Tratores agrícolas ou florestais com reboque, desde que o conjunto não exceda 6000 kg."
+      ]
+    },
+    {
+      "cat": "C1",
+      "grupo": "Mercadorias",
+      "nome": "Pesados de mercadorias — até 7500 kg",
+      "idade": "18 anos",
+      "resumo": "Entre 3500 e 7500 kg, com reboque até 750 kg.",
+      "detalhe": [
+        "Automóveis de massa máxima superior a 3500 kg e até 7500 kg, com lotação até oito passageiros além do condutor.",
+        "Com reboque de massa máxima até 750 kg."
+      ]
+    },
+    {
+      "cat": "C1E",
+      "grupo": "Mercadorias",
+      "nome": "C1 com reboque",
+      "idade": "18 anos",
+      "resumo": "Conjunto até 12 000 kg.",
+      "detalhe": [
+        "Conjunto de trator da categoria C1 com reboque ou semirreboque de massa superior a 750 kg, até 12 000 kg no conjunto.",
+        "Conjunto de trator da categoria B com reboque de massa superior a 3500 kg, até 12 000 kg no conjunto."
+      ],
+      "abrange": "BE"
+    },
+    {
+      "cat": "C",
+      "grupo": "Mercadorias",
+      "nome": "Pesados de mercadorias",
+      "idade": "21 anos",
+      "resumo": "Acima de 3500 kg, com reboque até 750 kg.",
+      "detalhe": [
+        "Automóveis de massa máxima superior a 3500 kg, com lotação até oito passageiros além do condutor.",
+        "Com reboque de massa máxima até 750 kg.",
+        "Aos 18 anos, com certificado de aptidão para motorista de transporte de mercadorias.",
+        "Veículos agrícolas das categorias I, II e III e máquinas industriais pesadas, com a formação exigida."
+      ],
+      "abrange": "C1"
+    },
+    {
+      "cat": "CE",
+      "grupo": "Mercadorias",
+      "nome": "Pesado de mercadorias com reboque",
+      "idade": "21 anos",
+      "resumo": "Trator C com reboque acima de 750 kg.",
+      "detalhe": [
+        "Conjunto de trator da categoria C com reboque ou semirreboque de massa superior a 750 kg.",
+        "Aos 18 anos, com certificado de aptidão para motorista de transporte de mercadorias."
+      ],
+      "abrange": "BE, C1E"
+    },
+    {
+      "cat": "D1",
+      "grupo": "Passageiros",
+      "nome": "Passageiros — até 16 lugares",
+      "idade": "21 anos",
+      "resumo": "Até 16 passageiros e 8 metros.",
+      "detalhe": [
+        "Automóveis com lotação até 16 passageiros além do condutor e comprimento até 8 metros.",
+        "Com reboque de massa máxima até 750 kg."
+      ]
+    },
+    {
+      "cat": "D1E",
+      "grupo": "Passageiros",
+      "nome": "D1 com reboque",
+      "idade": "21 anos",
+      "resumo": "Trator D1 com reboque acima de 750 kg.",
+      "detalhe": [
+        "Conjunto de trator da categoria D1 com reboque ou semirreboque de massa superior a 750 kg."
+      ],
+      "abrange": "BE"
+    },
+    {
+      "cat": "D",
+      "grupo": "Passageiros",
+      "nome": "Pesados de passageiros",
+      "idade": "24 anos",
+      "resumo": "Mais de 8 passageiros, com reboque até 750 kg.",
+      "detalhe": [
+        "Automóveis com lotação superior a oito passageiros além do condutor.",
+        "Com reboque de massa máxima até 750 kg.",
+        "Aos 21 anos, com certificado de aptidão para motorista de transporte de passageiros."
+      ],
+      "abrange": "D1"
+    },
+    {
+      "cat": "DE",
+      "grupo": "Passageiros",
+      "nome": "Pesado de passageiros com reboque",
+      "idade": "24 anos",
+      "resumo": "Trator D com reboque acima de 750 kg.",
+      "detalhe": [
+        "Conjunto de trator da categoria D com reboque ou semirreboque de massa superior a 750 kg.",
+        "Aos 21 anos, com certificado de aptidão para motorista de transporte de passageiros."
+      ],
+      "abrange": "BE, D1E"
+    },
+    {
+      "cat": "T1",
+      "grupo": "Veículos agrícolas",
+      "nome": "Grupo I — motocultivadores e tratocarros",
+      "idade": "16 anos",
+      "resumo": "Conjunto até 2500 kg.",
+      "detalhe": [
+        "Motocultivadores com reboque ou retrotrem e tratocarros, desde que a massa máxima do conjunto não exceda 2500 kg.",
+        "Exame com prova prática e questionário oral."
+      ]
+    },
+    {
+      "cat": "T2",
+      "grupo": "Veículos agrícolas",
+      "nome": "Grupo II — tratores simples",
+      "idade": "18 anos",
+      "resumo": "Tratores até 3500 kg; com reboque, até 6000 kg.",
+      "detalhe": [
+        "Tratores agrícolas ou florestais simples, com ou sem equipamentos montados, até 3500 kg.",
+        "Com reboque ou máquina rebocada, desde que o conjunto não exceda 6000 kg."
+      ]
+    },
+    {
+      "cat": "T3",
+      "grupo": "Veículos agrícolas",
+      "nome": "Grupo III — tratores e máquinas pesadas",
+      "idade": "18 anos",
+      "resumo": "Sem limite de massa.",
+      "detalhe": [
+        "Tratores agrícolas ou florestais, com ou sem reboque, e máquinas agrícolas pesadas."
+      ]
+    }
+  ],
+  "estrangeiros": [
+    {
+      "titulo": "União Europeia e Espaço Económico Europeu",
+      "nota": "Noruega, Islândia e Liechtenstein incluídos.",
+      "pontos": [
+        "A carta é válida em Portugal até ao fim da validade nela inscrita.",
+        "Quem fixa residência em Portugal deve comunicar ao IMT no prazo de 60 dias.",
+        "Carta sem prazo de validade inscrito: vale dois anos a contar da fixação de residência; depois disso tem de ser revalidada nos termos da lei portuguesa.",
+        "A troca por carta portuguesa é possível mas não obrigatória."
+      ]
+    },
+    {
+      "titulo": "Países terceiros com convenção ou acordo",
+      "nota": "Países da OCDE ou da CPLP partes das Convenções de Genebra (1949) ou de Viena (1968), ou com acordo bilateral com Portugal.",
+      "pontos": [
+        "Pode conduzir sem trocar o título, mesmo com autorização de residência, desde que: tenha menos de 60 anos; cumpra a idade mínima portuguesa para as categorias que detém; o título esteja válido e tenha sido emitido ou revalidado há menos de 15 anos; e não esteja apreendido, suspenso, caducado ou cassado.",
+        "Entre outros: Austrália, Brasil, Cabo Verde, Canadá, Chile, Estados Unidos, Islândia, Israel, Japão, Moçambique, Nova Zelândia, Reino Unido, Coreia do Sul, São Tomé e Príncipe, Suíça e Turquia."
+      ]
+    },
+    {
+      "titulo": "Países apenas com acordo bilateral",
+      "nota": "Andorra, Angola, Marrocos e Emirados Árabes Unidos, entre outros.",
+      "pontos": [
+        "Visitante, sem residência: pode conduzir durante 185 dias após a entrada em Portugal.",
+        "Residente, até 90 dias após a autorização de residência: pode conduzir, devendo pedir a troca ao IMT.",
+        "Residente, dos 90 dias aos dois anos: pode pedir a troca, mas já não pode conduzir com o título estrangeiro.",
+        "Passados dois anos: não pode conduzir, e a troca passa a exigir prova prática."
+      ]
+    },
+    {
+      "titulo": "Países fora das convenções",
+      "pontos": [
+        "O título não é válido em Portugal.",
+        "A obtenção de carta portuguesa exige prova teórica e prova prática, por categoria."
+      ]
+    },
+    {
+      "titulo": "Licença internacional de condução",
+      "pontos": [
+        "Acompanha o título nacional, nunca o substitui: os dois têm de ser apresentados em conjunto.",
+        "Válida até um ano, ou menos se o título nacional caducar antes.",
+        "Não serve para conduzir em Portugal."
+      ]
+    }
+  ]
+}
