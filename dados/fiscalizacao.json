@@ -1,0 +1,38 @@
+[
+  {
+    "grupo": "Tratores Agrícolas",
+    "sub": "Itens a observar na fiscalização técnica",
+    "itens": [
+      {
+        "item": "Avisador luminoso",
+        "nota": "Luz amarela rotativa ou intermitente, nos veículos que circulam em marcha lenta na via.",
+        "codigos": ["1.90.023.04.01"]
+      },
+      {
+        "item": "Cinto de segurança",
+        "nota": "Nos tratores com estrutura de proteção, o cinto faz parte dos sistemas com que o veículo foi aprovado.",
+        "codigos": ["1.86.114.05.01"]
+      },
+      {
+        "item": "Colete refletor",
+        "nota": "A bordo, para uso em caso de imobilização na via.",
+        "codigos": ["1.86.088.01.02"]
+      },
+      {
+        "item": "Estrutura de proteção",
+        "nota": "Arco ou cabina de proteção contra capotamento, quando o modelo foi aprovado com ela.",
+        "codigos": ["1.86.114.05.01"]
+      },
+      {
+        "item": "Refletores",
+        "nota": "Dispositivos retrorrefletores legalmente previstos, à frente, atrás e nos lados.",
+        "codigos": ["1.86.059.01.02"]
+      },
+      {
+        "item": "Documentos obrigatórios",
+        "nota": "Documento de identificação do veículo, título de condução e seguro.",
+        "codigos": ["1.90.085.02.01"]
+      }
+    ]
+  }
+]
