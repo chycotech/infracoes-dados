@@ -6,9 +6,18 @@
   "nota_custo": "Artigo 6.º n.º 3: acresce por cada elemento nomeado, a título de custos administrativos e de organização. É cobrado à entidade interessada e não entra no valor do elemento.",
   "regra_bloco": "O período inicial de quatro horas é fechado: paga-se por inteiro mesmo que o serviço seja mais curto. As horas acima das quatro são cobradas à hora. O bloco é cobrado ao valor de sábados, domingos, feriados e dias úteis das 20H às 08H sempre que inclua horas desse período.",
   "categorias": [
-    { "k": "oficial", "nome": "Oficial" },
-    { "k": "chefe",   "nome": "Sargento / Chefe" },
-    { "k": "agente",  "nome": "Guarda / Agente" }
+    {
+      "k": "oficial",
+      "nome": "Oficial"
+    },
+    {
+      "k": "chefe",
+      "nome": "Sargento/Chefe"
+    },
+    {
+      "k": "agente",
+      "nome": "Guarda/Agente"
+    }
   ],
   "nota_coordenacao": "Cabo, Agente Principal, Guarda e Agente, quando em exercício de funções de coordenação, auferem os valores previstos para Sargentos e Chefes.",
   "periodos": [
@@ -20,21 +29,56 @@
         "A": {
           "nome": "Tabela A",
           "artigo": "Artigo 6.º n.º 1",
-          "forcas": ["GNR", "PSP"],
+          "forcas": [
+            "GNR",
+            "PSP"
+          ],
           "categorias": {
-            "oficial": { "bloco_d": 61.83, "bloco_n": 87.84, "hora_d": 16.19, "hora_n": 22.52 },
-            "chefe":   { "bloco_d": 55.53, "bloco_n": 78.71, "hora_d": 14.80, "hora_n": 21.13 },
-            "agente":  { "bloco_d": 52.73, "bloco_n": 75.89, "hora_d": 13.40, "hora_n": 19.74 }
+            "oficial": {
+              "bloco_d": 61.83,
+              "bloco_n": 87.84,
+              "hora_d": 16.19,
+              "hora_n": 22.52
+            },
+            "chefe": {
+              "bloco_d": 55.53,
+              "bloco_n": 78.71,
+              "hora_d": 14.8,
+              "hora_n": 21.13
+            },
+            "agente": {
+              "bloco_d": 52.73,
+              "bloco_n": 75.89,
+              "hora_d": 13.4,
+              "hora_n": 19.74
+            }
           }
         },
         "B": {
           "nome": "Tabela B",
           "artigo": "Artigo 6.º n.º 2",
-          "forcas": ["PSP"],
+          "forcas": [
+            "PSP"
+          ],
           "categorias": {
-            "oficial": { "bloco_d": 52.73, "bloco_n": 78.01, "hora_d": 16.19, "hora_n": 20.43 },
-            "chefe":   { "bloco_d": 42.17, "bloco_n": 62.55, "hora_d": 13.40, "hora_n": 17.60 },
-            "agente":  { "bloco_d": 37.26, "bloco_n": 55.53, "hora_d": 10.59, "hora_n": 14.80 }
+            "oficial": {
+              "bloco_d": 52.73,
+              "bloco_n": 78.01,
+              "hora_d": 16.19,
+              "hora_n": 20.43
+            },
+            "chefe": {
+              "bloco_d": 42.17,
+              "bloco_n": 62.55,
+              "hora_d": 13.4,
+              "hora_n": 17.6
+            },
+            "agente": {
+              "bloco_d": 37.26,
+              "bloco_n": 55.53,
+              "hora_d": 10.59,
+              "hora_n": 14.8
+            }
           }
         }
       }
@@ -47,21 +91,56 @@
         "A": {
           "nome": "Tabela A",
           "artigo": "Artigo 6.º n.º 1",
-          "forcas": ["GNR", "PSP"],
+          "forcas": [
+            "GNR",
+            "PSP"
+          ],
           "categorias": {
-            "oficial": { "bloco_d": 60.51, "bloco_n": 85.96, "hora_d": 15.84, "hora_n": 22.03 },
-            "chefe":   { "bloco_d": 54.34, "bloco_n": 77.03, "hora_d": 14.48, "hora_n": 20.67 },
-            "agente":  { "bloco_d": 51.60, "bloco_n": 74.27, "hora_d": 13.11, "hora_n": 19.31 }
+            "oficial": {
+              "bloco_d": 60.51,
+              "bloco_n": 85.96,
+              "hora_d": 15.84,
+              "hora_n": 22.03
+            },
+            "chefe": {
+              "bloco_d": 54.34,
+              "bloco_n": 77.03,
+              "hora_d": 14.48,
+              "hora_n": 20.67
+            },
+            "agente": {
+              "bloco_d": 51.6,
+              "bloco_n": 74.27,
+              "hora_d": 13.11,
+              "hora_n": 19.31
+            }
           }
         },
         "B": {
           "nome": "Tabela B",
           "artigo": "Artigo 6.º n.º 2",
-          "forcas": ["PSP"],
+          "forcas": [
+            "PSP"
+          ],
           "categorias": {
-            "oficial": { "bloco_d": 51.60, "bloco_n": 76.34, "hora_d": 15.84, "hora_n": 19.99 },
-            "chefe":   { "bloco_d": 41.27, "bloco_n": 61.21, "hora_d": 13.11, "hora_n": 17.22 },
-            "agente":  { "bloco_d": 36.46, "bloco_n": 54.34, "hora_d": 10.36, "hora_n": 14.48 }
+            "oficial": {
+              "bloco_d": 51.6,
+              "bloco_n": 76.34,
+              "hora_d": 15.84,
+              "hora_n": 19.99
+            },
+            "chefe": {
+              "bloco_d": 41.27,
+              "bloco_n": 61.21,
+              "hora_d": 13.11,
+              "hora_n": 17.22
+            },
+            "agente": {
+              "bloco_d": 36.46,
+              "bloco_n": 54.34,
+              "hora_d": 10.36,
+              "hora_n": 14.48
+            }
           }
         }
       }
@@ -69,14 +148,20 @@
   ],
   "animais": {
     "rotulo": "Anexo III — canídeos e equídeos (artigo 6.º n.º 6)",
-    "equideos": { "bloco": 61.11, "hora": 15.30 },
-    "canideos": { "bloco": 44.01, "hora": 11.05 }
+    "equideos": {
+      "bloco": 61.11,
+      "hora": 15.3
+    },
+    "canideos": {
+      "bloco": 44.01,
+      "hora": 11.05
+    }
   },
   "veiculos": {
     "rotulo": "Anexo IV — veículos e equipamentos (artigo 6.º n.º 7)",
     "viatura_ate_10km": 11.05,
     "km_adicional_ligeiro": 0.83,
     "km_adicional_pesado": 1.64,
-    "grade_ordem_publica_24h": 3.10
+    "grade_ordem_publica_24h": 3.1
   }
 }
