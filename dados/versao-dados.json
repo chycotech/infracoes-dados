@@ -1,5 +1,5 @@
 {
-  "gerado": "2026-10-13T22:50:17Z",
+  "gerado": "2026-10-13T23:48:21Z",
   "impressao": "95b78b476b8b",
   "entradas": 2740,
   "ficheiros": {
@@ -9,6 +9,7 @@
     "dados.json": 838,
     "etr.json": 2,
     "legislacao-complementar.json": 89,
+    "legislacao.json": 0,
     "peoes.json": 114,
     "rce.json": 96,
     "rst-sinais.json": 425,
