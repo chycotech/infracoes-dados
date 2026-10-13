@@ -1261,6 +1261,34 @@
       ]
     },
     {
+      "titulo": "Quando se perdem pontos",
+      "base": "Artigo 148.º, n.ºs 1 a 3",
+      "pontos": [
+        "Os pontos só são subtraídos na data em que a decisão condenatória se torna definitiva ou a sentença transita em julgado.",
+        "Contraordenação grave — 3 pontos: condução sob influência do álcool; utilização ou manuseamento continuado de equipamento ou aparelho nos termos do n.º 1 do artigo 84.º; excesso de velocidade dentro das zonas de coexistência; ultrapassagem imediatamente antes e nas passagens assinaladas para travessia de peões ou velocípedes.",
+        "Contraordenação grave — 2 pontos: todas as restantes.",
+        "Contraordenação muito grave — 5 pontos: condução sob influência do álcool, condução sob influência de substâncias psicotrópicas e excesso de velocidade dentro das zonas de coexistência.",
+        "Contraordenação muito grave — 4 pontos: todas as restantes.",
+        "6 pontos: condenação em pena acessória de proibição de conduzir, e arquivamento do inquérito nos termos do n.º 3 do artigo 282.º do Código de Processo Penal quando tenha havido cumprimento da injunção.",
+        "Condenação em cúmulo por graves e muito graves praticadas no mesmo dia: a subtração não pode ultrapassar seis pontos — exceto se estiver em causa álcool ou substâncias psicotrópicas, que são sempre subtraídas."
+      ]
+    },
+    {
+      "titulo": "Pontos do condutor",
+      "base": "Artigos 121.º-A e 148.º, n.ºs 4 a 12",
+      "pontos": [
+        "A cada condutor são atribuídos doze pontos.",
+        "Com cinco ou menos pontos: obrigação de frequentar ação de formação de segurança rodoviária.",
+        "Com três ou menos pontos: obrigação de realizar a prova teórica do exame de condução.",
+        "Sem pontos: cassação do título de condução, ordenada em processo autónomo.",
+        "Faltar sem justificação à formação ou à prova, ou nelas reprovar, tem como efeito a cassação do título.",
+        "Recupera três pontos ao fim de cada três anos sem registo de contraordenações graves ou muito graves nem de crimes rodoviários, até ao máximo de quinze.",
+        "Esse período é de dois anos para quem conduz, no exercício da profissão, veículos de socorro ou serviço urgente, transporte coletivo de crianças e jovens até aos 16 anos, táxis, pesados de passageiros ou de mercadorias, ou mercadorias perigosas.",
+        "Mais um ponto em cada revalidação sem registo de crimes rodoviários, até ao máximo de dezasseis, se frequentar voluntariamente ação de formação.",
+        "Cassado o título, não é concedido novo título de qualquer categoria antes de decorridos dois anos sobre a efetivação da cassação."
+      ]
+    },
+    {
       "titulo": "Regime probatório",
       "pontos": [
         "A carta emitida a quem não estava habilitado para nenhuma categoria fica sujeita a regime probatório nos três primeiros anos de validade.",
@@ -1270,15 +1298,6 @@
         "Cessa findo o prazo sem condenação por crime, contraordenação muito grave ou duas graves."
       ],
       "base": "Artigo 122.º"
-    },
-    {
-      "titulo": "Pontos do condutor",
-      "pontos": [
-        "A cada condutor são atribuídos doze pontos.",
-        "Podem ser acrescidos três pontos, até ao máximo de quinze, nas situações do n.º 5 do artigo 148.º",
-        "Pode ainda ser acrescido um ponto, até ao máximo de dezasseis, nas situações do n.º 7 do artigo 148.º"
-      ],
-      "base": "Artigo 121.º-A"
     },
     {
       "titulo": "Quem precisa de carta",
