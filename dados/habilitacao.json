@@ -423,19 +423,22 @@
     {
       "nome": "África do Sul",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Albânia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Alemanha",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Andorra",
-      "regime": "convencao"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Angola",
@@ -443,137 +446,157 @@
     },
     {
       "nome": "Arábia Saudita",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Argélia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Argentina",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Arménia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Austrália",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Áustria",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Azerbaijão",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Bahamas",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Bangladesh",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Barbados",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Barém",
-      "regime": "verificar",
-      "alias": "bahrein bahrain"
+      "regime": "convencao",
+      "alias": "bahrein bahrain",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Bélgica",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Benim",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Bielorrússia",
-      "regime": "verificar",
-      "alias": "belarus"
+      "regime": "convencao",
+      "alias": "belarus",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Bósnia e Herzegovina",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Botsuana",
       "regime": "convencao",
       "alias": "botswana",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Brasil",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Brunei",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE), como Brunei Darussalam.",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU).",
       "alias": "brunei darussalam"
     },
     {
       "nome": "Bulgária",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Burquina Faso",
       "regime": "convencao",
       "alias": "burkina faso",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Cabo Verde",
       "regime": "ocde",
-      "alias": "cabo verde"
+      "alias": "cabo verde",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Camboja",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Canadá",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Catar",
-      "regime": "verificar",
-      "alias": "qatar"
+      "regime": "convencao",
+      "alias": "qatar",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Cazaquistão",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Chéquia",
       "regime": "ue",
-      "alias": "republica checa checoslovaquia"
+      "alias": "republica checa checoslovaquia",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Chile",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "China",
       "regime": "verificar",
-      "alias": "republica popular da china"
+      "alias": "republica popular da china",
+      "nota": "Não consta das partes das Convenções de Genebra (1949) nem de Viena (1968), no registo da ONU."
     },
     {
       "nome": "Chipre",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Colômbia",
@@ -583,12 +606,13 @@
     {
       "nome": "Coreia do Sul",
       "regime": "ocde",
-      "alias": "coreia"
+      "alias": "coreia",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Costa do Marfim",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Costa Rica",
@@ -596,101 +620,115 @@
     },
     {
       "nome": "Croácia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Cuba",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Dinamarca",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Egito",
       "regime": "convencao",
       "alias": "egipto",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "El Salvador",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Emirados Árabes Unidos",
-      "regime": "convencao"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Equador",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Eslováquia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Eslovénia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Espanha",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Estados Unidos",
       "regime": "ocde",
-      "alias": "eua america estados unidos da america"
+      "alias": "eua america estados unidos da america",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Estónia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Etiópia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Fiji",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Filipinas",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Finlândia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "França",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Gana",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Geórgia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Grécia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Guatemala",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Guiana",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Guiné Equatorial",
@@ -705,108 +743,125 @@
     {
       "nome": "Haiti",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Honduras",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Hungria",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Ilhas Caimão",
       "regime": "verificar",
-      "alias": "cayman caimao"
+      "alias": "cayman caimao",
+      "nota": "Não consta das partes das Convenções de Genebra (1949) nem de Viena (1968), no registo da ONU."
     },
     {
       "nome": "Índia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Indonésia",
-      "regime": "verificar"
+      "regime": "verificar",
+      "nota": "Não consta das partes das Convenções de Genebra (1949) nem de Viena (1968), no registo da ONU."
     },
     {
       "nome": "Irão",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Iraque",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Irlanda",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Islândia",
-      "regime": "eee"
+      "regime": "eee",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Israel",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Itália",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Jamaica",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Japão",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Jordânia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Koweit",
-      "regime": "verificar",
-      "alias": "kuwait kuweit"
+      "regime": "convencao",
+      "alias": "kuwait kuweit",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Laos",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Lesoto",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Letónia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Líbano",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Libéria",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Listenstaine",
       "regime": "eee",
-      "alias": "liechtenstein"
+      "alias": "liechtenstein",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Lituânia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Luxemburgo",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Macau",
@@ -815,41 +870,45 @@
     },
     {
       "nome": "Macedónia do Norte",
-      "regime": "verificar",
-      "alias": "macedonia"
+      "regime": "convencao",
+      "alias": "macedonia",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Madagáscar",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Malásia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Maláui",
       "regime": "convencao",
       "alias": "malawi",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Maldivas",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Mali",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Malta",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Marrocos",
-      "regime": "convencao"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "México",
@@ -857,8 +916,9 @@
     },
     {
       "nome": "Mianmar",
-      "regime": "verificar",
-      "alias": "birmania myanmar"
+      "regime": "convencao",
+      "alias": "birmania myanmar",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Moçambique",
@@ -867,143 +927,155 @@
     },
     {
       "nome": "Moldávia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Mónaco",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Mongólia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Montenegro",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Namíbia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Níger",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Nigéria",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Noruega",
-      "regime": "eee"
+      "regime": "eee",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Nova Zelândia",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Omã",
-      "regime": "verificar",
-      "alias": "oman"
+      "regime": "convencao",
+      "alias": "oman",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Países Baixos",
       "regime": "ue",
-      "alias": "holanda"
+      "alias": "holanda",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Palestina",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Papua-Nova Guiné",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Paquistão",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Paraguai",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Peru",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Polónia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Quénia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Quirguistão",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Reino Unido",
       "regime": "ocde",
-      "alias": "inglaterra gra bretanha uk"
+      "alias": "inglaterra gra bretanha uk",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "República Centro-Africana",
       "regime": "convencao",
       "alias": "republica centro africano",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "República Democrática do Congo",
       "regime": "convencao",
       "alias": "zaire congo",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "República do Congo",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "República Dominicana",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Roménia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Ruanda",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Rússia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Santa Sé",
       "regime": "convencao",
       "alias": "vaticano",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "São Marinho",
       "regime": "convencao",
       "alias": "san marino",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "São Tomé e Príncipe",
@@ -1011,56 +1083,60 @@
     },
     {
       "nome": "Seicheles",
-      "regime": "verificar",
-      "alias": "seychelles"
+      "regime": "convencao",
+      "alias": "seychelles",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Senegal",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Serra Leoa",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Sérvia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Singapura",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Síria",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Sri Lanca",
       "regime": "convencao",
       "alias": "sri lanka",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Suécia",
-      "regime": "ue"
+      "regime": "ue",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Suíça",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Tailândia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Tajiquistão",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Timor-Leste",
@@ -1070,64 +1146,69 @@
     {
       "nome": "Togo",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Trindade e Tobago",
       "regime": "convencao",
       "alias": "trinidad tobago",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Tunísia",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Turquemenistão",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Turquia",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Ucrânia",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Uganda",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Uruguai",
-      "regime": "verificar"
+      "regime": "convencao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Usbequistão",
-      "regime": "verificar",
-      "alias": "uzbequistao"
+      "regime": "convencao",
+      "alias": "uzbequistao",
+      "nota": "Parte da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Venezuela",
       "regime": "convencao",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 (registo da ONU)."
     },
     {
       "nome": "Vietname",
       "regime": "convencao",
       "alias": "vietnam vietman",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     },
     {
       "nome": "Zimbabué",
       "regime": "convencao",
       "alias": "zimbabwe",
-      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+      "nota": "Parte da Convenção de Genebra 1949 e da Convenção de Viena 1968 (registo da ONU)."
     }
   ],
-  "nota_paises": "A lei classifica o título, não o país. O regime indicado vem da lista de subscritores das convenções publicada pela UNECE e dos acordos bilaterais conhecidos; nos Estados da OCDE e da CPLP há ainda três condições cumulativas a verificar no próprio título.",
+  "nota_paises": "A lei classifica o título, não o país. O regime vem do registo das Nações Unidas sobre as duas convenções e dos acordos bilaterais conhecidos; nos Estados da OCDE e da CPLP há ainda três condições cumulativas a verificar no próprio título.",
   "outros_titulos": [
     {
       "titulo": "Guia de substituição",
@@ -1210,5 +1291,5 @@
       "base": "Artigo 121.º"
     }
   ],
-  "fonte_paises": "Lista de subscritores das Convenções de Genebra (1949) e de Viena (1968), UNECE — unece.org/trans/conventn/legalinst.html"
+  "fonte_paises": "Registo do Secretário-Geral das Nações Unidas: Convenção sobre Trânsito Rodoviário (Genebra, 19.09.1949) — 103 partes; Convenção sobre a Circulação Rodoviária (Viena, 08.11.1968) — 91 partes. Só contam as partes: assinar sem ratificar não basta."
 }
