@@ -1,0 +1,155 @@
+{
+  "nota": "Cada categoria reúne os diplomas do complegis.json cujo campo \"secao\" seja igual ao nome ou à chave da categoria. Acrescentar um diploma é acrescentar uma linha lá, com a secção certa.",
+  "categorias": [
+    {
+      "n": "01",
+      "chave": "codigo-da-estrada",
+      "titulo": "Código da Estrada",
+      "desc": "Regras de circulação, prioridades, velocidade, estacionamento, ultrapassagens e contraordenações."
+    },
+    {
+      "n": "02",
+      "chave": "sinalizacao-rodoviaria",
+      "titulo": "Sinalização Rodoviária",
+      "desc": "Regulamento de Sinalização do Trânsito, sinais verticais, marcas rodoviárias, sinais luminosos e temporários."
+    },
+    {
+      "n": "03",
+      "chave": "habilitacao-legal-para-conduzir",
+      "titulo": "Habilitação Legal para Conduzir",
+      "desc": "Categorias, cartas de condução, licenças, validade, renovação, restrições e troca de títulos."
+    },
+    {
+      "n": "04",
+      "chave": "titulos-de-conducao-estrangeiros",
+      "titulo": "Títulos de Condução Estrangeiros",
+      "desc": "Reconhecimento, convenções internacionais, troca de títulos e condições para conduzir em Portugal."
+    },
+    {
+      "n": "05",
+      "chave": "veiculos-e-matriculas",
+      "titulo": "Veículos e Matrículas",
+      "desc": "Registo, matrícula, documentos, características técnicas, homologação e transformação de veículos."
+    },
+    {
+      "n": "06",
+      "chave": "inspecoes-tecnicas",
+      "titulo": "Inspeções Técnicas",
+      "desc": "Inspeções periódicas obrigatórias, extraordinárias, prazos, deficiências e fiscalização."
+    },
+    {
+      "n": "07",
+      "chave": "seguro-automovel",
+      "titulo": "Seguro Automóvel",
+      "desc": "Seguro obrigatório de responsabilidade civil, documentos comprovativos e fiscalização."
+    },
+    {
+      "n": "08",
+      "chave": "transportes-em-taxi",
+      "titulo": "Transportes em Táxi",
+      "desc": "Regime jurídico dos táxis, licenciamento, praças, identificação dos veículos e motoristas."
+    },
+    {
+      "n": "09",
+      "chave": "tvde",
+      "titulo": "TVDE",
+      "desc": "Transporte em veículo descaracterizado a partir de plataforma eletrónica, motoristas e operadores."
+    },
+    {
+      "n": "10",
+      "chave": "transporte-rodoviario-de-mercadorias",
+      "titulo": "Transporte Rodoviário de Mercadorias",
+      "desc": "Transporte por conta própria e por conta de outrem, licenças e documentação."
+    },
+    {
+      "n": "11",
+      "chave": "transporte-rodoviario-de-passageiros",
+      "titulo": "Transporte Rodoviário de Passageiros",
+      "desc": "Autocarros, transporte coletivo, transporte escolar e serviços ocasionais."
+    },
+    {
+      "n": "12",
+      "chave": "tempos-de-conducao-e-repouso",
+      "titulo": "Tempos de Condução e Repouso",
+      "desc": "Tacógrafos, tempos de condução, pausas, repousos e fiscalização."
+    },
+    {
+      "n": "13",
+      "chave": "transporte-de-mercadorias-perigosas",
+      "titulo": "Transporte de Mercadorias Perigosas",
+      "desc": "ADR, documentação, equipamentos, sinalização e condições de transporte."
+    },
+    {
+      "n": "14",
+      "chave": "pesos-e-dimensoes",
+      "titulo": "Pesos e Dimensões",
+      "desc": "Limites de peso, cargas por eixo, dimensões e transportes especiais."
+    },
+    {
+      "n": "15",
+      "chave": "estacionamento-e-parques",
+      "titulo": "Estacionamento e Parques",
+      "desc": "Estacionamento tarifado, parques, lugares reservados, fiscalização municipal e mobilidade reduzida."
+    },
+    {
+      "n": "16",
+      "chave": "alcool-e-substancias-psicotropicas",
+      "titulo": "Álcool e Substâncias Psicotrópicas",
+      "desc": "Fiscalização, exames, procedimentos e legislação aplicável."
+    },
+    {
+      "n": "17",
+      "chave": "contraordenacoes-rodoviarias",
+      "titulo": "Contraordenações Rodoviárias",
+      "desc": "Tramitação processual, notificações, coimas, sanções acessórias, prescrição e recursos."
+    },
+    {
+      "n": "18",
+      "chave": "criminalidade-rodoviaria",
+      "titulo": "Criminalidade Rodoviária",
+      "desc": "Crimes de condução, desobediência, falsificação de documentos e outros ilícitos rodoviários."
+    },
+    {
+      "n": "19",
+      "chave": "acidentes-de-viacao",
+      "titulo": "Acidentes de Viação",
+      "desc": "Procedimentos, participação, recolha de elementos e legislação relacionada."
+    },
+    {
+      "n": "20",
+      "chave": "equipamentos-e-acessorios-dos-veiculos",
+      "titulo": "Equipamentos e Acessórios dos Veículos",
+      "desc": "Iluminação, pneus, películas, vidros, cintos de segurança, sistemas de retenção e equipamentos obrigatórios."
+    },
+    {
+      "n": "21",
+      "chave": "veiculos-de-mobilidade-e-especiais",
+      "titulo": "Veículos de Mobilidade e Especiais",
+      "desc": "Bicicletas, velocípedes elétricos, trotinetes, ciclomotores, quadriciclos e máquinas industriais."
+    },
+    {
+      "n": "22",
+      "chave": "estradas-e-infraestruturas-rodoviarias",
+      "titulo": "Estradas e Infraestruturas Rodoviárias",
+      "desc": "Vias públicas, obras, ocupação da via, condicionamentos e segurança rodoviária."
+    },
+    {
+      "n": "23",
+      "chave": "regulamentos-municipais",
+      "titulo": "Regulamentos Municipais",
+      "desc": "Regulamentos de trânsito, estacionamento, táxis e outras disposições locais."
+    },
+    {
+      "n": "24",
+      "chave": "legislacao-policial-e-fiscalizacao",
+      "titulo": "Legislação Policial e Fiscalização",
+      "desc": "Competências da PSP, poderes de fiscalização, identificação, apreensões e procedimentos legais."
+    },
+    {
+      "n": "25",
+      "chave": "legislacao-complementar",
+      "titulo": "Legislação Complementar",
+      "desc": "Diplomas rodoviários específicos que não se enquadrem nas categorias anteriores."
+    }
+  ]
+}
