@@ -395,6 +395,20 @@
       ]
     },
     {
+      "k": "verificar",
+      "titulo": "Regime a verificar",
+      "curto": "A verificar",
+      "base": "Artigo 125.º, n.º 1, alíneas c) a e)",
+      "pontos": [
+        "Este país não é da União Europeia nem do Espaço Económico Europeu, e não está confirmado em que alínea do artigo 125.º cai o título.",
+        "Primeiro: é um Estado da OCDE ou da CPLP? Se sim, aplica-se a alínea c) — convenção ou acordo bilateral, 15 anos desde a emissão ou última renovação, e titular com menos de 60 anos.",
+        "Segundo: o título foi emitido em conformidade com o anexo n.º 9 da Convenção de Genebra de 1949 ou o anexo n.º 6 da Convenção de Viena de 1968? Se sim, alínea d) — 185 dias após a entrada, para não residentes, e troca em 90 dias após fixar residência.",
+        "Terceiro: há reciprocidade com Portugal? Se sim, alínea e), com o mesmo regime da alínea anterior.",
+        "Não se verificando nenhuma delas, o título não habilita a conduzir em Portugal.",
+        "Em qualquer dos casos é sempre exigido que o título esteja válido, não apreendido, suspenso, caducado ou cassado, e que o titular tenha a idade mínima portuguesa."
+      ]
+    },
+    {
       "k": "outros",
       "titulo": "Títulos não enumerados no artigo 125.º",
       "curto": "Não habilita",
@@ -406,6 +420,15 @@
     }
   ],
   "paises": [
+    {
+      "nome": "África do Sul",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Albânia",
+      "regime": "verificar"
+    },
     {
       "nome": "Alemanha",
       "regime": "ue"
@@ -419,6 +442,24 @@
       "regime": "ocde"
     },
     {
+      "nome": "Arábia Saudita",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Argélia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Argentina",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Arménia",
+      "regime": "verificar"
+    },
+    {
       "nome": "Austrália",
       "regime": "ocde"
     },
@@ -427,32 +468,108 @@
       "regime": "ue"
     },
     {
+      "nome": "Azerbaijão",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Bahamas",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Bangladesh",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Barbados",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Barém",
+      "regime": "verificar",
+      "alias": "bahrein bahrain"
+    },
+    {
       "nome": "Bélgica",
       "regime": "ue"
+    },
+    {
+      "nome": "Benim",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Bielorrússia",
+      "regime": "verificar",
+      "alias": "belarus"
+    },
+    {
+      "nome": "Bósnia e Herzegovina",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Botsuana",
+      "regime": "convencao",
+      "alias": "botswana",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Brasil",
       "regime": "ocde"
     },
     {
+      "nome": "Brunei",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE), como Brunei Darussalam.",
+      "alias": "brunei darussalam"
+    },
+    {
       "nome": "Bulgária",
       "regime": "ue"
     },
     {
+      "nome": "Burquina Faso",
+      "regime": "convencao",
+      "alias": "burkina faso",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
       "nome": "Cabo Verde",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "cabo verde"
+    },
+    {
+      "nome": "Camboja",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Canadá",
       "regime": "ocde"
     },
     {
+      "nome": "Catar",
+      "regime": "verificar",
+      "alias": "qatar"
+    },
+    {
+      "nome": "Cazaquistão",
+      "regime": "verificar"
+    },
+    {
       "nome": "Chéquia",
-      "regime": "ue"
+      "regime": "ue",
+      "alias": "republica checa checoslovaquia"
     },
     {
       "nome": "Chile",
       "regime": "ocde"
+    },
+    {
+      "nome": "China",
+      "regime": "verificar",
+      "alias": "republica popular da china"
     },
     {
       "nome": "Chipre",
@@ -460,11 +577,18 @@
     },
     {
       "nome": "Colômbia",
-      "regime": "ocde"
+      "regime": "ocde",
+      "nota": "Acordo de reconhecimento mútuo de títulos de condução, aprovado pelo Decreto n.º 15/2023, de 14 de julho."
     },
     {
       "nome": "Coreia do Sul",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "coreia"
+    },
+    {
+      "nome": "Costa do Marfim",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Costa Rica",
@@ -475,12 +599,32 @@
       "regime": "ue"
     },
     {
+      "nome": "Cuba",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
       "nome": "Dinamarca",
       "regime": "ue"
     },
     {
+      "nome": "Egito",
+      "regime": "convencao",
+      "alias": "egipto",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "El Salvador",
+      "regime": "verificar"
+    },
+    {
       "nome": "Emirados Árabes Unidos",
       "regime": "convencao"
+    },
+    {
+      "nome": "Equador",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Eslováquia",
@@ -496,11 +640,26 @@
     },
     {
       "nome": "Estados Unidos",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "eua america estados unidos da america"
     },
     {
       "nome": "Estónia",
       "regime": "ue"
+    },
+    {
+      "nome": "Etiópia",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Fiji",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Filipinas",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Finlândia",
@@ -511,20 +670,72 @@
       "regime": "ue"
     },
     {
+      "nome": "Gana",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Geórgia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
       "nome": "Grécia",
       "regime": "ue"
     },
     {
+      "nome": "Guatemala",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Guiana",
+      "regime": "verificar"
+    },
+    {
       "nome": "Guiné Equatorial",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "guine equatorial"
     },
     {
       "nome": "Guiné-Bissau",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "guine bissau"
+    },
+    {
+      "nome": "Haiti",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Honduras",
+      "regime": "verificar"
     },
     {
       "nome": "Hungria",
       "regime": "ue"
+    },
+    {
+      "nome": "Ilhas Caimão",
+      "regime": "verificar",
+      "alias": "cayman caimao"
+    },
+    {
+      "nome": "Índia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Indonésia",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Irão",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Iraque",
+      "regime": "verificar"
     },
     {
       "nome": "Irlanda",
@@ -543,16 +754,51 @@
       "regime": "ue"
     },
     {
+      "nome": "Jamaica",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
       "nome": "Japão",
       "regime": "ocde"
+    },
+    {
+      "nome": "Jordânia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Koweit",
+      "regime": "verificar",
+      "alias": "kuwait kuweit"
+    },
+    {
+      "nome": "Laos",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Lesoto",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Letónia",
       "regime": "ue"
     },
     {
+      "nome": "Líbano",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Libéria",
+      "regime": "verificar"
+    },
+    {
       "nome": "Listenstaine",
-      "regime": "eee"
+      "regime": "eee",
+      "alias": "liechtenstein"
     },
     {
       "nome": "Lituânia",
@@ -564,7 +810,38 @@
     },
     {
       "nome": "Macau",
-      "regime": "macau"
+      "regime": "macau",
+      "alias": "raem"
+    },
+    {
+      "nome": "Macedónia do Norte",
+      "regime": "verificar",
+      "alias": "macedonia"
+    },
+    {
+      "nome": "Madagáscar",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Malásia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Maláui",
+      "regime": "convencao",
+      "alias": "malawi",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Maldivas",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Mali",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Malta",
@@ -579,8 +856,47 @@
       "regime": "ocde"
     },
     {
+      "nome": "Mianmar",
+      "regime": "verificar",
+      "alias": "birmania myanmar"
+    },
+    {
       "nome": "Moçambique",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "mocambique"
+    },
+    {
+      "nome": "Moldávia",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Mónaco",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Mongólia",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Montenegro",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Namíbia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Níger",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Nigéria",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Noruega",
@@ -591,24 +907,143 @@
       "regime": "ocde"
     },
     {
+      "nome": "Omã",
+      "regime": "verificar",
+      "alias": "oman"
+    },
+    {
       "nome": "Países Baixos",
-      "regime": "ue"
+      "regime": "ue",
+      "alias": "holanda"
+    },
+    {
+      "nome": "Palestina",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Papua-Nova Guiné",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Paquistão",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Paraguai",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Peru",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Polónia",
       "regime": "ue"
     },
     {
+      "nome": "Quénia",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Quirguistão",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
       "nome": "Reino Unido",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "inglaterra gra bretanha uk"
+    },
+    {
+      "nome": "República Centro-Africana",
+      "regime": "convencao",
+      "alias": "republica centro africano",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "República Democrática do Congo",
+      "regime": "convencao",
+      "alias": "zaire congo",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "República do Congo",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "República Dominicana",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Roménia",
       "regime": "ue"
     },
     {
+      "nome": "Ruanda",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Rússia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Santa Sé",
+      "regime": "convencao",
+      "alias": "vaticano",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "São Marinho",
+      "regime": "convencao",
+      "alias": "san marino",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
       "nome": "São Tomé e Príncipe",
       "regime": "ocde"
+    },
+    {
+      "nome": "Seicheles",
+      "regime": "verificar",
+      "alias": "seychelles"
+    },
+    {
+      "nome": "Senegal",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Serra Leoa",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Sérvia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Singapura",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Síria",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Sri Lanca",
+      "regime": "convencao",
+      "alias": "sri lanka",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     },
     {
       "nome": "Suécia",
@@ -619,15 +1054,80 @@
       "regime": "ocde"
     },
     {
+      "nome": "Tailândia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Tajiquistão",
+      "regime": "verificar"
+    },
+    {
       "nome": "Timor-Leste",
-      "regime": "ocde"
+      "regime": "ocde",
+      "alias": "timor"
+    },
+    {
+      "nome": "Togo",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Trindade e Tobago",
+      "regime": "convencao",
+      "alias": "trinidad tobago",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Tunísia",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Turquemenistão",
+      "regime": "verificar"
     },
     {
       "nome": "Turquia",
       "regime": "ocde"
+    },
+    {
+      "nome": "Ucrânia",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Uganda",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Uruguai",
+      "regime": "verificar"
+    },
+    {
+      "nome": "Usbequistão",
+      "regime": "verificar",
+      "alias": "uzbequistao"
+    },
+    {
+      "nome": "Venezuela",
+      "regime": "convencao",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Vietname",
+      "regime": "convencao",
+      "alias": "vietnam vietman",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
+    },
+    {
+      "nome": "Zimbabué",
+      "regime": "convencao",
+      "alias": "zimbabwe",
+      "nota": "Consta da lista de subscritores das convenções (UNECE)."
     }
   ],
-  "nota_paises": "A lei classifica o título, não o país: esta lista indica a alínea do artigo 125.º em que cada país cai. Nos Estados da OCDE e da CPLP há ainda três condições cumulativas a verificar no próprio título.",
+  "nota_paises": "A lei classifica o título, não o país. O regime indicado vem da lista de subscritores das convenções publicada pela UNECE e dos acordos bilaterais conhecidos; nos Estados da OCDE e da CPLP há ainda três condições cumulativas a verificar no próprio título.",
   "outros_titulos": [
     {
       "titulo": "Guia de substituição",
@@ -709,5 +1209,6 @@
       ],
       "base": "Artigo 121.º"
     }
-  ]
+  ],
+  "fonte_paises": "Lista de subscritores das Convenções de Genebra (1949) e de Viena (1968), UNECE — unece.org/trans/conventn/legalinst.html"
 }
