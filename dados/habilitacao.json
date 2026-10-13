@@ -1,16 +1,17 @@
 {
-  "fonte": "Decreto-Lei n.º 138/2012, de 5 de julho — Regulamento da Habilitação Legal para Conduzir, com as alterações posteriores, designadamente o Decreto-Lei n.º 151/2017, de 7 de dezembro.",
-  "aviso": "Resumo para consulta no terreno. Em caso de dúvida sobre um caso concreto, confirmar no texto consolidado do Regulamento e no registo do condutor.",
+  "fonte": "Código da Estrada, artigos 121.º a 130.º (consolidado a 12 de março de 2025), e Regulamento da Habilitação Legal para Conduzir, Decreto-Lei n.º 138/2012 (consolidado a 8 de junho de 2026).",
+  "aviso": "Resumo para consulta no terreno. Num caso concreto confirmar no texto consolidado do Código da Estrada e do Regulamento, e no registo nacional de condutores.",
+  "nota_idades": "A aprendizagem pode iniciar-se nos seis meses anteriores à idade mínima da categoria. Abaixo dos 18 anos é exigida autorização escrita de quem exerce as responsabilidades parentais.",
   "diplomas": [
     {
       "titulo": "Regulamento da Habilitação Legal para Conduzir",
-      "desc": "Decreto-Lei n.º 138/2012, de 5 de julho",
-      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550"
+      "desc": "Decreto-Lei n.º 138/2012, de 5 de julho — texto consolidado",
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70080354"
     },
     {
-      "titulo": "Carta de condução de veículos agrícolas",
-      "desc": "IMT — categorias T1, T2 e T3",
-      "url": "https://www.imt-ip.pt/condutores/informacoes-gerais/quero-ser-condutor/carta-de-conducao-veiculos-agricolas/"
+      "titulo": "Código da Estrada — artigos 121.º a 130.º",
+      "desc": "Títulos de condução, títulos estrangeiros e trocas",
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-34479475"
     }
   ],
   "categorias": [
@@ -19,14 +20,15 @@
       "grupo": "Ciclomotores e motociclos",
       "nome": "Ciclomotores (dos 14 aos 16)",
       "idade": "14 anos",
-      "restricao": "Código 790",
+      "restricao": "Restrição 790",
       "resumo": "Só ciclomotores de duas rodas, até 45 km/h.",
       "detalhe": [
-        "Motor de combustão até 50 cm³, ou motor elétrico de potência nominal contínua máxima até 4 kW.",
-        "Velocidade máxima, de patamar e por construção, até 45 km/h.",
-        "Exige ação de formação especial, com aproveitamento, ministrada por entidade autorizada pelo IMT.",
-        "A restrição 790 caduca quando o titular faz 16 anos; a carta mantém-se válida e passa a valer como AM plena."
-      ]
+        "Motor de combustão interna de cilindrada até 50 cm³, com velocidade máxima, em patamar e por construção, até 45 km/h; ou motor elétrico de potência nominal máxima contínua até 4 kW.",
+        "Exige autorização de quem exerce as responsabilidades parentais, atestado médico, certificado de frequência do 7.º ano com aproveitamento no ano letivo anterior, e aprovação em exame após ação especial de formação autorizada pelo IMT.",
+        "A restrição 790 caduca quando o titular completa 16 anos.",
+        "A carta mantém-se válida depois dos 16 anos."
+      ],
+      "base": "Artigo 10.º e artigo 20.º, n.º 1, alínea a), subalínea i)"
     },
     {
       "cat": "AM",
@@ -35,9 +37,13 @@
       "idade": "16 anos",
       "resumo": "Duas ou três rodas e quadriciclos ligeiros, até 45 km/h.",
       "detalhe": [
-        "Ciclomotores de duas ou três rodas, com velocidade máxima até 45 km/h.",
-        "Quadriciclos ligeiros."
-      ]
+        "Veículos a motor de duas ou três rodas e quadriciclos ligeiros, com velocidade máxima, em patamar e por construção, até 45 km/h.",
+        "Duas rodas: potência até 4 kW e, sendo de ignição comandada, cilindrada até 50 cm³.",
+        "Três rodas: potência até 4 kW e cilindrada até 50 cm³ (ignição comandada) ou 500 cm³ (ignição por compressão).",
+        "Quadriciclo ligeiro: massa sem carga até 425 kg, excluídas as baterias nos elétricos, e cilindrada até 50 cm³ ou 500 cm³ conforme o tipo de motor."
+      ],
+      "abrange": "Motociclos de cilindrada até 50 cm³ e veículos agrícolas do tipo I",
+      "base": "Artigo 3.º, n.º 2, alínea a)"
     },
     {
       "cat": "A1",
@@ -46,10 +52,11 @@
       "idade": "16 anos",
       "resumo": "Até 125 cm³ e 11 kW; triciclos até 15 kW.",
       "detalhe": [
-        "Motociclos até 125 cm³ e 11 kW, com relação potência/peso até 0,1 kW/kg.",
-        "Triciclos a motor até 15 kW."
+        "Motociclos de cilindrada até 125 cm³, potência máxima até 11 kW e relação peso/potência até 0,1 kW/kg.",
+        "Triciclos com potência máxima até 15 kW."
       ],
-      "abrange": "AM"
+      "abrange": "AM",
+      "base": "Artigo 3.º, n.º 2, alínea b)"
     },
     {
       "cat": "A2",
@@ -58,10 +65,11 @@
       "idade": "18 anos",
       "resumo": "Até 35 kW.",
       "detalhe": [
-        "Motociclos até 35 kW, com relação potência/peso inferior a 0,2 kW/kg.",
-        "Não podem derivar de veículo com mais do dobro da potência."
+        "Motociclos de potência máxima até 35 kW e relação peso/potência inferior a 0,2 kW/kg.",
+        "Não podem derivar de versão com mais do dobro da sua potência máxima."
       ],
-      "abrange": "AM, A1"
+      "abrange": "AM, A1",
+      "base": "Artigo 3.º, n.º 2, alínea c)"
     },
     {
       "cat": "A",
@@ -70,37 +78,40 @@
       "idade": "24 anos",
       "resumo": "Todos os motociclos e triciclos a motor.",
       "detalhe": [
-        "Motociclos com ou sem carro lateral, sem limite de potência, e triciclos a motor.",
-        "Aos 20 anos, se o titular tiver a categoria A2 há dois anos. O tempo de inibição ou cassação não conta.",
-        "Triciclos de potência superior a 15 kW só a partir dos 21 anos."
+        "Motociclos, com ou sem carro lateral, e triciclos a motor.",
+        "20 anos, se o titular tiver 2 anos de habilitação da categoria A2, descontado o tempo em que esteve proibido ou inibido de conduzir.",
+        "21 anos para triciclos a motor de potência superior a 15 kW."
       ],
-      "abrange": "AM, A1, A2"
+      "abrange": "AM, A1, A2",
+      "base": "Artigo 3.º, n.º 2, alínea d) e artigo 20.º, n.º 1, alínea d)"
     },
     {
       "cat": "B1",
       "grupo": "Ligeiros",
-      "nome": "Quadriciclos pesados",
+      "nome": "Quadriciclos",
       "idade": "16 anos",
+      "resumo": "Massa sem carga até 450 kg, ou 600 kg nos de mercadorias.",
       "detalhe": [
-        "Quadriciclos pesados."
+        "Quadriciclos cuja massa sem carga, excluídas as baterias nos elétricos, não exceda 450 kg (passageiros) ou 600 kg (mercadorias)."
       ],
-      "resumo": ""
+      "abrange": "Veículos agrícolas do tipo I e tratores agrícolas de 4 rodas com massa sem carga até 450 kg",
+      "base": "Artigo 3.º, n.º 2, alínea e) e n.º 7"
     },
     {
       "cat": "B",
       "grupo": "Ligeiros",
       "nome": "Automóveis ligeiros",
       "idade": "18 anos",
-      "resumo": "Até 3500 kg e 8 passageiros, com reboque até 750 kg.",
+      "resumo": "Até 3500 kg e 8 passageiros.",
       "detalhe": [
-        "Automóveis de massa máxima até 3500 kg, com lotação até oito passageiros além do condutor.",
-        "Com reboque de massa máxima até 750 kg.",
-        "Triciclos a motor de potência superior a 15 kW, a partir dos 21 anos.",
-        "Motociclos da categoria A1, em território nacional, nas condições legalmente previstas.",
-        "Veículos agrícolas das categorias I e II — a categoria II exige ação de formação.",
-        "Máquinas industriais ligeiras."
+        "Veículos a motor de massa máxima autorizada até 3500 kg, concebidos para transportar até oito passageiros além do condutor.",
+        "Com reboque de massa máxima até 750 kg; sendo superior, desde que o conjunto não exceda 3500 kg.",
+        "Motociclos da categoria A1, se o titular for maior de 25 anos ou, não o sendo, se for titular da categoria AM ou de licença de condução de ciclomotores.",
+        "Triciclos a motor de potência superior a 15 kW, se o titular for maior de 21 anos.",
+        "Veículos agrícolas do tipo II (restrição 792) mediante ação de formação, dispensada nos tratores agrícolas de 4 rodas com massa sem carga até 450 kg."
       ],
-      "abrange": "AM, B1"
+      "abrange": "AM, B1, veículos agrícolas do tipo I e máquinas industriais ligeiras",
+      "base": "Artigo 3.º, n.º 2, alínea f) e n.º 4, alínea e)"
     },
     {
       "cat": "BE",
@@ -109,20 +120,22 @@
       "idade": "18 anos",
       "resumo": "Trator B com reboque até 3500 kg.",
       "detalhe": [
-        "Conjunto de veículo trator da categoria B com reboque ou semirreboque de massa máxima até 3500 kg.",
-        "Tratores agrícolas ou florestais com reboque, desde que o conjunto não exceda 6000 kg."
-      ]
+        "Conjuntos compostos por veículo trator da categoria B e reboque ou semirreboque de massa máxima autorizada até 3500 kg."
+      ],
+      "abrange": "Tratores agrícolas ou florestais com reboque ou máquina rebocada, até 6000 kg no conjunto",
+      "base": "Artigo 3.º, n.º 2, alínea g) e n.º 4, alínea h)"
     },
     {
       "cat": "C1",
       "grupo": "Mercadorias",
       "nome": "Pesados de mercadorias — até 7500 kg",
       "idade": "18 anos",
-      "resumo": "Entre 3500 e 7500 kg, com reboque até 750 kg.",
+      "resumo": "Mais de 3500 e menos de 7500 kg.",
       "detalhe": [
-        "Automóveis de massa máxima superior a 3500 kg e até 7500 kg, com lotação até oito passageiros além do condutor.",
+        "Veículos a motor diferentes dos das categorias D1 ou D, de massa máxima autorizada superior a 3500 kg e inferior a 7500 kg, para até oito passageiros além do condutor.",
         "Com reboque de massa máxima até 750 kg."
-      ]
+      ],
+      "base": "Artigo 3.º, n.º 2, alínea h)"
     },
     {
       "cat": "C1E",
@@ -131,24 +144,26 @@
       "idade": "18 anos",
       "resumo": "Conjunto até 12 000 kg.",
       "detalhe": [
-        "Conjunto de trator da categoria C1 com reboque ou semirreboque de massa superior a 750 kg, até 12 000 kg no conjunto.",
-        "Conjunto de trator da categoria B com reboque de massa superior a 3500 kg, até 12 000 kg no conjunto."
+        "Conjuntos de trator da categoria C1 com reboque ou semirreboque de massa superior a 750 kg, não excedendo o conjunto 12 000 kg.",
+        "Conjuntos de trator da categoria B com reboque ou semirreboque de massa superior a 3500 kg, não excedendo o conjunto 12 000 kg."
       ],
-      "abrange": "BE"
+      "abrange": "Conjuntos da categoria BE e conjuntos de máquinas acopladas entre 3500 e 7500 kg, até 12 000 kg no conjunto",
+      "base": "Artigo 3.º, n.º 2, alínea i) e n.º 4, alínea i)"
     },
     {
       "cat": "C",
       "grupo": "Mercadorias",
       "nome": "Pesados de mercadorias",
       "idade": "21 anos",
-      "resumo": "Acima de 3500 kg, com reboque até 750 kg.",
+      "resumo": "Acima de 3500 kg.",
       "detalhe": [
-        "Automóveis de massa máxima superior a 3500 kg, com lotação até oito passageiros além do condutor.",
+        "Veículos a motor diferentes dos das categorias D1 e D, de massa máxima autorizada superior a 3500 kg, para até oito passageiros além do condutor.",
         "Com reboque de massa máxima até 750 kg.",
-        "Aos 18 anos, com certificado de aptidão para motorista de transporte de mercadorias.",
-        "Veículos agrícolas das categorias I, II e III e máquinas industriais pesadas, com a formação exigida."
+        "18 anos, se possuir carta de qualificação de motorista obtida nos termos do Decreto-Lei n.º 126/2009.",
+        "Veículos agrícolas do tipo III (restrição 793) mediante ação de formação."
       ],
-      "abrange": "C1"
+      "abrange": "C1, veículos agrícolas dos tipos I e II e máquinas industriais pesadas",
+      "base": "Artigo 3.º, n.º 2, alínea j), n.º 4, alínea f) e artigo 20.º, n.º 1, alínea e)"
     },
     {
       "cat": "CE",
@@ -157,10 +172,12 @@
       "idade": "21 anos",
       "resumo": "Trator C com reboque acima de 750 kg.",
       "detalhe": [
-        "Conjunto de trator da categoria C com reboque ou semirreboque de massa superior a 750 kg.",
-        "Aos 18 anos, com certificado de aptidão para motorista de transporte de mercadorias."
+        "Conjuntos compostos por veículo trator da categoria C e reboque ou semirreboque de massa máxima superior a 750 kg.",
+        "18 anos, se possuir carta de qualificação de motorista obtida nos termos do Decreto-Lei n.º 126/2009.",
+        "Só podem conduzir veículos da categoria CE de massa máxima autorizada superior a 20 000 kg os condutores que não tenham completado 67 anos."
       ],
-      "abrange": "BE, C1E"
+      "abrange": "C1E e, se o titular possuir a categoria D, conjuntos da categoria DE",
+      "base": "Artigo 3.º, n.º 2, alínea k), n.º 4, alíneas j) e k), e artigo 20.º, n.ºs 1 e 5"
     },
     {
       "cat": "D1",
@@ -169,9 +186,10 @@
       "idade": "21 anos",
       "resumo": "Até 16 passageiros e 8 metros.",
       "detalhe": [
-        "Automóveis com lotação até 16 passageiros além do condutor e comprimento até 8 metros.",
+        "Veículos a motor para transporte de até 16 passageiros além do condutor, com comprimento máximo até 8 m.",
         "Com reboque de massa máxima até 750 kg."
-      ]
+      ],
+      "base": "Artigo 3.º, n.º 2, alínea l)"
     },
     {
       "cat": "D1E",
@@ -180,22 +198,26 @@
       "idade": "21 anos",
       "resumo": "Trator D1 com reboque acima de 750 kg.",
       "detalhe": [
-        "Conjunto de trator da categoria D1 com reboque ou semirreboque de massa superior a 750 kg."
+        "Conjuntos compostos por veículo trator da categoria D1 e reboque de massa máxima superior a 750 kg."
       ],
-      "abrange": "BE"
+      "abrange": "Conjuntos da categoria BE e conjuntos de máquinas acopladas entre 3500 e 7500 kg, até 12 000 kg no conjunto",
+      "base": "Artigo 3.º, n.º 2, alínea m) e n.º 4, alínea i)"
     },
     {
       "cat": "D",
       "grupo": "Passageiros",
       "nome": "Pesados de passageiros",
       "idade": "24 anos",
-      "resumo": "Mais de 8 passageiros, com reboque até 750 kg.",
+      "resumo": "Mais de 8 passageiros.",
       "detalhe": [
-        "Automóveis com lotação superior a oito passageiros além do condutor.",
+        "Veículos a motor para transporte de mais de oito passageiros além do condutor.",
         "Com reboque de massa máxima até 750 kg.",
-        "Aos 21 anos, com certificado de aptidão para motorista de transporte de passageiros."
+        "21 ou 23 anos, se possuir carta de qualificação de motorista obtida nos termos do Decreto-Lei n.º 126/2009.",
+        "Veículos agrícolas do tipo III (restrição 793) mediante ação de formação.",
+        "Os condutores de veículos sobre carris e de troleicarros têm de ser titulares da categoria D."
       ],
-      "abrange": "D1"
+      "abrange": "D1, veículos agrícolas dos tipos I e II e máquinas industriais pesadas",
+      "base": "Artigo 3.º, n.º 2, alínea n), n.º 4, alínea g) e n.º 6, e artigo 20.º, n.º 1, alínea g)"
     },
     {
       "cat": "DE",
@@ -204,87 +226,488 @@
       "idade": "24 anos",
       "resumo": "Trator D com reboque acima de 750 kg.",
       "detalhe": [
-        "Conjunto de trator da categoria D com reboque ou semirreboque de massa superior a 750 kg.",
-        "Aos 21 anos, com certificado de aptidão para motorista de transporte de passageiros."
+        "Conjuntos compostos por veículo trator da categoria D e reboque de massa máxima superior a 750 kg.",
+        "21 ou 23 anos, se possuir carta de qualificação de motorista obtida nos termos do Decreto-Lei n.º 126/2009."
       ],
-      "abrange": "BE, D1E"
+      "abrange": "D1E",
+      "base": "Artigo 3.º, n.º 2, alínea o) e n.º 4, alínea j)"
     },
     {
       "cat": "T1",
       "grupo": "Veículos agrícolas",
-      "nome": "Grupo I — motocultivadores e tratocarros",
+      "nome": "Tipo I — motocultivadores e tratocarros",
       "idade": "16 anos",
+      "restricao": "Restrição 791",
       "resumo": "Conjunto até 2500 kg.",
       "detalhe": [
-        "Motocultivadores com reboque ou retrotrem e tratocarros, desde que a massa máxima do conjunto não exceda 2500 kg.",
-        "Exame com prova prática e questionário oral."
-      ]
+        "Motocultivadores, com reboque ou retrotrem, e tratocarros, desde que a massa máxima do conjunto não exceda 2500 kg."
+      ],
+      "abrange": "Máquinas industriais de massa máxima autorizada até 2500 kg",
+      "base": "Artigo 3.º, n.º 2, alínea p), subalínea i) e n.º 4, alínea l)"
     },
     {
       "cat": "T2",
       "grupo": "Veículos agrícolas",
-      "nome": "Grupo II — tratores simples",
+      "nome": "Tipo II — tratores simples",
       "idade": "18 anos",
-      "resumo": "Tratores até 3500 kg; com reboque, até 6000 kg.",
+      "restricao": "Restrição 792",
+      "resumo": "Até 3500 kg; com reboque, até 6000 kg.",
       "detalhe": [
-        "Tratores agrícolas ou florestais simples, com ou sem equipamentos montados, até 3500 kg.",
-        "Com reboque ou máquina rebocada, desde que o conjunto não exceda 6000 kg."
-      ]
+        "Tratores agrícolas ou florestais simples, com ou sem equipamentos montados, desde que a massa máxima do conjunto não exceda 3500 kg.",
+        "Tratores agrícolas ou florestais com reboque ou máquina agrícola ou florestal rebocada, desde que o conjunto não exceda 6000 kg."
+      ],
+      "abrange": "Veículos agrícolas do tipo I, máquinas agrícolas ou florestais ligeiras até 3500 kg e tratocarros até 3500 kg",
+      "base": "Artigo 3.º, n.º 2, alínea p), subalínea ii) e n.º 4, alínea m)"
     },
     {
       "cat": "T3",
       "grupo": "Veículos agrícolas",
-      "nome": "Grupo III — tratores e máquinas pesadas",
+      "nome": "Tipo III — tratores e máquinas pesadas",
       "idade": "18 anos",
+      "restricao": "Restrição 793",
       "resumo": "Sem limite de massa.",
       "detalhe": [
         "Tratores agrícolas ou florestais, com ou sem reboque, e máquinas agrícolas pesadas."
-      ]
+      ],
+      "abrange": "Veículos agrícolas dos tipos I e II",
+      "base": "Artigo 3.º, n.º 2, alínea p), subalínea iii) e n.º 4, alínea n)"
     }
   ],
   "estrangeiros": [
     {
-      "titulo": "União Europeia e Espaço Económico Europeu",
-      "nota": "Noruega, Islândia e Liechtenstein incluídos.",
+      "k": "ue",
+      "titulo": "União Europeia",
+      "curto": "UE",
+      "base": "Artigo 125.º, n.º 1, alínea b)",
       "pontos": [
-        "A carta é válida em Portugal até ao fim da validade nela inscrita.",
-        "Quem fixa residência em Portugal deve comunicar ao IMT no prazo de 60 dias.",
-        "Carta sem prazo de validade inscrito: vale dois anos a contar da fixação de residência; depois disso tem de ser revalidada nos termos da lei portuguesa.",
-        "A troca por carta portuguesa é possível mas não obrigatória."
+        "Título habilitante em Portugal para as categorias a que habilita, com as restrições dele constantes.",
+        "Só habilita se o titular tiver a idade mínima exigida pela lei portuguesa e o título estiver válido e não apreendido, suspenso, caducado ou cassado, em Portugal ou no Estado emissor.",
+        "Não está sujeito ao prazo de 185 dias: esse prazo só se aplica aos títulos das convenções, de reciprocidade e às licenças internacionais.",
+        "Título com prazo de validade e titular com residência habitual em Portugal: depois de caducar é revalidado nos termos da lei portuguesa.",
+        "Título sem termo de validade: vale dois anos a contar da fixação de residência; findo esse prazo tem de ser revalidado.",
+        "A troca por carta portuguesa é feita com dispensa de exame. É obrigatória quando o título foi apreendido em Portugal para cumprimento de proibição ou inibição, depois de cumprida a pena, ou quando haja alteração a fazer.",
+        "Ninguém pode ser titular de mais do que um título de modelo comunitário emitido por Estados da União Europeia ou do EEE."
+      ],
+      "codigos": [
+        "1.90.125.05.02"
       ]
     },
     {
-      "titulo": "Países terceiros com convenção ou acordo",
-      "nota": "Países da OCDE ou da CPLP partes das Convenções de Genebra (1949) ou de Viena (1968), ou com acordo bilateral com Portugal.",
+      "k": "eee",
+      "titulo": "Espaço Económico Europeu",
+      "curto": "EEE",
+      "base": "Artigo 125.º, n.º 1, alínea b)",
       "pontos": [
-        "Pode conduzir sem trocar o título, mesmo com autorização de residência, desde que: tenha menos de 60 anos; cumpra a idade mínima portuguesa para as categorias que detém; o título esteja válido e tenha sido emitido ou revalidado há menos de 15 anos; e não esteja apreendido, suspenso, caducado ou cassado.",
-        "Entre outros: Austrália, Brasil, Cabo Verde, Canadá, Chile, Estados Unidos, Islândia, Israel, Japão, Moçambique, Nova Zelândia, Reino Unido, Coreia do Sul, São Tomé e Príncipe, Suíça e Turquia."
+        "Islândia, Listenstaine e Noruega: mesmo regime dos Estados-membros da União Europeia.",
+        "Só habilita se o titular tiver a idade mínima exigida pela lei portuguesa e o título estiver válido e não apreendido, suspenso, caducado ou cassado, em Portugal ou no Estado emissor."
+      ],
+      "codigos": [
+        "1.90.125.05.03"
       ]
     },
     {
-      "titulo": "Países apenas com acordo bilateral",
-      "nota": "Andorra, Angola, Marrocos e Emirados Árabes Unidos, entre outros.",
+      "k": "ocde",
+      "titulo": "Estados da OCDE ou da CPLP",
+      "curto": "OCDE / CPLP",
+      "base": "Artigo 125.º, n.º 1, alínea c)",
       "pontos": [
-        "Visitante, sem residência: pode conduzir durante 185 dias após a entrada em Portugal.",
-        "Residente, até 90 dias após a autorização de residência: pode conduzir, devendo pedir a troca ao IMT.",
-        "Residente, dos 90 dias aos dois anos: pode pedir a troca, mas já não pode conduzir com o título estrangeiro.",
-        "Passados dois anos: não pode conduzir, e a troca passa a exigir prova prática."
+        "Habilita em Portugal desde que se verifiquem, cumulativamente, três condições.",
+        "Primeira: o Estado emissor é subscritor da Convenção de Genebra de 1949 ou da Convenção de Viena de 1968, ou tem acordo bilateral com o Estado Português.",
+        "Segunda: não decorreram mais de 15 anos desde a emissão ou a última renovação do título.",
+        "Terceira: o titular tem menos de 60 anos de idade.",
+        "Só habilita se o titular tiver a idade mínima exigida pela lei portuguesa e o título estiver válido e não apreendido, suspenso, caducado ou cassado, em Portugal ou no Estado emissor.",
+        "Faltando qualquer uma das condições, o título deixa de ser habilitante.",
+        "A troca por carta portuguesa é feita com dispensa de exame."
       ]
     },
     {
-      "titulo": "Países fora das convenções",
+      "k": "convencao",
+      "titulo": "Convenções de Genebra ou de Viena",
+      "curto": "Convenção",
+      "base": "Artigo 125.º, n.º 1, alínea d)",
       "pontos": [
-        "O título não é válido em Portugal.",
-        "A obtenção de carta portuguesa exige prova teórica e prova prática, por categoria."
+        "Títulos emitidos em conformidade com o anexo n.º 9 da Convenção de Genebra de 1949 ou o anexo n.º 6 da Convenção de Viena de 1968.",
+        "Habilita a conduzir durante os primeiros 185 dias subsequentes à entrada no País, desde que o titular não seja residente.",
+        "Fixada residência em Portugal, o título tem de ser trocado no prazo de 90 dias.",
+        "Só habilita se o titular tiver a idade mínima exigida pela lei portuguesa e o título estiver válido e não apreendido, suspenso, caducado ou cassado, em Portugal ou no Estado emissor.",
+        "Na troca há dispensa de exame para AM, A1, A2, B1, B e BE; para A, C1, C1E, C, CE, D1, D1E, D, DE e T exige prova teórica e prática em autopropositura.",
+        "Não sendo pedida a troca em dois anos a contar da fixação de residência, a troca passa a exigir prova prática.",
+        "Quem conduzir infringindo os n.ºs 3 a 5 do artigo 125.º, sendo titular de licença válida, é sancionado com coima de € 300 a € 1500."
+      ],
+      "codigos": [
+        "1.90.125.03.01",
+        "1.90.125.03.02",
+        "1.90.125.04.01",
+        "1.90.125.04.02",
+        "1.90.125.05.04",
+        "1.90.125.05.05"
       ]
     },
     {
+      "k": "reciprocidade",
+      "titulo": "Reciprocidade com Portugal",
+      "curto": "Reciprocidade",
+      "base": "Artigo 125.º, n.º 1, alínea e)",
+      "pontos": [
+        "Títulos emitidos por Estado estrangeiro, desde que em condições de reciprocidade.",
+        "Habilita durante os primeiros 185 dias subsequentes à entrada no País, desde que o titular não seja residente.",
+        "Fixada residência em Portugal, o título tem de ser trocado no prazo de 90 dias.",
+        "Só habilita se o titular tiver a idade mínima exigida pela lei portuguesa e o título estiver válido e não apreendido, suspenso, caducado ou cassado, em Portugal ou no Estado emissor.",
+        "Quem conduzir infringindo os n.ºs 3 a 5 do artigo 125.º, sendo titular de licença válida, é sancionado com coima de € 300 a € 1500."
+      ],
+      "codigos": [
+        "1.90.125.03.03",
+        "1.90.125.04.03",
+        "1.90.125.05.06"
+      ]
+    },
+    {
+      "k": "macau",
+      "titulo": "Macau",
+      "curto": "Macau",
+      "base": "Artigo 125.º, n.º 1, alínea a)",
+      "pontos": [
+        "Títulos emitidos pelos serviços competentes da administração portuguesa do território de Macau são títulos habilitantes em Portugal.",
+        "Não estão sujeitos ao prazo de 185 dias.",
+        "Só habilita se o titular tiver a idade mínima exigida pela lei portuguesa e o título estiver válido e não apreendido, suspenso, caducado ou cassado, em Portugal ou no Estado emissor."
+      ],
+      "codigos": [
+        "1.90.125.05.01"
+      ]
+    },
+    {
+      "k": "lic",
       "titulo": "Licença internacional de condução",
+      "curto": "Licença internacional",
+      "base": "Artigo 125.º, n.º 1, alínea g)",
       "pontos": [
-        "Acompanha o título nacional, nunca o substitui: os dois têm de ser apresentados em conjunto.",
-        "Válida até um ano, ou menos se o título nacional caducar antes.",
-        "Não serve para conduzir em Portugal."
+        "Só habilita se for apresentada com o título nacional que a suporta — nunca sozinha.",
+        "Habilita durante os primeiros 185 dias subsequentes à entrada no País, desde que o titular não seja residente.",
+        "Fixada residência em Portugal, tem de ser pedida a troca no prazo de 90 dias.",
+        "Validade máxima de um ano a contar da emissão, ou menos se o título que a suporta caducar antes.",
+        "Em Portugal é emitida pelo IMT ou pelo Automóvel Club de Portugal, a titulares de carta nacional ou de outro Estado da União Europeia ou do EEE.",
+        "Quem conduzir infringindo os n.ºs 3 a 5 do artigo 125.º, sendo titular de licença válida, é sancionado com coima de € 300 a € 1500."
+      ],
+      "codigos": [
+        "1.90.125.03.04",
+        "1.90.125.04.04",
+        "1.90.125.05.07"
       ]
+    },
+    {
+      "k": "outros",
+      "titulo": "Títulos não enumerados no artigo 125.º",
+      "curto": "Não habilita",
+      "base": "Artigo 125.º, n.º 1, e artigo 128.º, n.º 6",
+      "pontos": [
+        "O título não consta do artigo 125.º e não habilita a conduzir em Portugal.",
+        "A carta portuguesa só pode ser obtida por troca se o titular comprovar que o título foi obtido mediante aprovação em exame, cumprir os requisitos do Regulamento e ser aprovado em prova teórica e prática, em regime de autopropositura, para cada categoria."
+      ]
+    }
+  ],
+  "paises": [
+    {
+      "nome": "Alemanha",
+      "regime": "ue"
+    },
+    {
+      "nome": "Andorra",
+      "regime": "convencao"
+    },
+    {
+      "nome": "Angola",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Austrália",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Áustria",
+      "regime": "ue"
+    },
+    {
+      "nome": "Bélgica",
+      "regime": "ue"
+    },
+    {
+      "nome": "Brasil",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Bulgária",
+      "regime": "ue"
+    },
+    {
+      "nome": "Cabo Verde",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Canadá",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Chéquia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Chile",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Chipre",
+      "regime": "ue"
+    },
+    {
+      "nome": "Colômbia",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Coreia do Sul",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Costa Rica",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Croácia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Dinamarca",
+      "regime": "ue"
+    },
+    {
+      "nome": "Emirados Árabes Unidos",
+      "regime": "convencao"
+    },
+    {
+      "nome": "Eslováquia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Eslovénia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Espanha",
+      "regime": "ue"
+    },
+    {
+      "nome": "Estados Unidos",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Estónia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Finlândia",
+      "regime": "ue"
+    },
+    {
+      "nome": "França",
+      "regime": "ue"
+    },
+    {
+      "nome": "Grécia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Guiné Equatorial",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Guiné-Bissau",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Hungria",
+      "regime": "ue"
+    },
+    {
+      "nome": "Irlanda",
+      "regime": "ue"
+    },
+    {
+      "nome": "Islândia",
+      "regime": "eee"
+    },
+    {
+      "nome": "Israel",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Itália",
+      "regime": "ue"
+    },
+    {
+      "nome": "Japão",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Letónia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Listenstaine",
+      "regime": "eee"
+    },
+    {
+      "nome": "Lituânia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Luxemburgo",
+      "regime": "ue"
+    },
+    {
+      "nome": "Macau",
+      "regime": "macau"
+    },
+    {
+      "nome": "Malta",
+      "regime": "ue"
+    },
+    {
+      "nome": "Marrocos",
+      "regime": "convencao"
+    },
+    {
+      "nome": "México",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Moçambique",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Noruega",
+      "regime": "eee"
+    },
+    {
+      "nome": "Nova Zelândia",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Países Baixos",
+      "regime": "ue"
+    },
+    {
+      "nome": "Polónia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Reino Unido",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Roménia",
+      "regime": "ue"
+    },
+    {
+      "nome": "São Tomé e Príncipe",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Suécia",
+      "regime": "ue"
+    },
+    {
+      "nome": "Suíça",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Timor-Leste",
+      "regime": "ocde"
+    },
+    {
+      "nome": "Turquia",
+      "regime": "ocde"
+    }
+  ],
+  "nota_paises": "A lei classifica o título, não o país: esta lista indica a alínea do artigo 125.º em que cada país cai. Nos Estados da OCDE e da CPLP há ainda três condições cumulativas a verificar no próprio título.",
+  "outros_titulos": [
+    {
+      "titulo": "Guia de substituição",
+      "pontos": [
+        "O IMT, as entidades fiscalizadoras e outras com competência para o efeito podem substituir a carta por guia de substituição provisória.",
+        "Vale apenas em território nacional e só para as categorias do título que substitui, pelo prazo fixado pelo IMT.",
+        "Os títulos revalidados, trocados, substituídos ou duplicados não são entregues enquanto não estiverem cumpridas as sanções acessórias de proibição ou inibição de conduzir."
+      ]
+    },
+    {
+      "titulo": "Licença de aprendizagem",
+      "pontos": [
+        "É hoje um dos títulos habilitantes do artigo 125.º: autoriza a condução na via pública em contexto de ensino e de exame.",
+        "A aprendizagem pode começar nos seis meses que antecedem a idade mínima da categoria pretendida."
+      ]
+    },
+    {
+      "titulo": "Licenças e autorizações especiais",
+      "pontos": [
+        "Licença especial de condução: corpo diplomático, cônsules de carreira, pessoal administrativo e técnico de missões estrangeiras, missões militares acreditadas, e cônjuge e descendentes em 1.º grau nas condições previstas.",
+        "Autorizações especiais de condução, nos termos do artigo 125.º do Código da Estrada."
+      ]
+    },
+    {
+      "titulo": "Licença de condução — revogada",
+      "pontos": [
+        "O artigo 124.º do Código da Estrada, que previa a licença de condução, foi revogado pelo Decreto-Lei n.º 102-B/2020, com efeitos a 8 de janeiro de 2021.",
+        "Desde então a habilitação para conduzir veículos agrícolas é titulada pela carta de condução, na categoria T.",
+        "Os motocultivadores operados a pé não carecem de carta de condução.",
+        "Podem ainda circular licenças emitidas ao abrigo do regime anterior — nesse caso é o título apresentado que define as categorias."
+      ]
+    }
+  ],
+  "gerais": [
+    {
+      "titulo": "Conduzir fora da categoria",
+      "pontos": [
+        "Quem conduzir veículo de categoria ou tipo para que a carta não habilita é sancionado com coima de € 120 a € 600, se for apenas titular da categoria T.",
+        "Com coima de € 700 a € 3500, se for apenas titular da categoria AM ou A1.",
+        "Com coima de € 500 a € 2500, nas restantes categorias.",
+        "A condução de veículos afetos a certos transportes pode ainda depender de documento de aptidão profissional."
+      ],
+      "base": "Artigo 123.º, n.ºs 2 e 3",
+      "codigos": [
+        "3.90.123.03.01",
+        "1.90.123.03.02",
+        "3.90.123.03.03",
+        "3.90.123.03.04",
+        "3.90.123.03.05"
+      ]
+    },
+    {
+      "titulo": "Regime probatório",
+      "pontos": [
+        "A carta emitida a quem não estava habilitado para nenhuma categoria fica sujeita a regime probatório nos três primeiros anos de validade.",
+        "Os titulares das categorias T, AM, A1 ou B1 ficam sujeitos a regime probatório quando obtenham outra categoria, ainda que o título inicial tenha mais de três anos.",
+        "Não se aplica às cartas obtidas por troca de documento equivalente que habilite a conduzir há mais de três anos.",
+        "O regime é prorrogado se, nesse período, for instaurado procedimento por crime rodoviário, contraordenação muito grave ou segunda grave, até a decisão transitar em julgado.",
+        "Cessa findo o prazo sem condenação por crime, contraordenação muito grave ou duas graves."
+      ],
+      "base": "Artigo 122.º"
+    },
+    {
+      "titulo": "Pontos do condutor",
+      "pontos": [
+        "A cada condutor são atribuídos doze pontos.",
+        "Podem ser acrescidos três pontos, até ao máximo de quinze, nas situações do n.º 5 do artigo 148.º",
+        "Pode ainda ser acrescido um ponto, até ao máximo de dezasseis, nas situações do n.º 7 do artigo 148.º"
+      ],
+      "base": "Artigo 121.º-A"
+    },
+    {
+      "titulo": "Quem precisa de carta",
+      "pontos": [
+        "Só pode conduzir veículo a motor na via pública quem estiver legalmente habilitado.",
+        "A habilitação para ciclomotores, motociclos, triciclos, quadriciclos, automóveis e veículos agrícolas, exceto motocultivadores operados a pé, é titulada pela carta de condução.",
+        "A condução de velocípedes e de veículos a eles equiparados não carece de habilitação legal para conduzir.",
+        "Quem infringir os deveres fixados no Regulamento é sancionado com coima de € 60 a € 300, se sanção mais grave não for aplicável."
+      ],
+      "base": "Artigo 121.º"
     }
   ]
 }
