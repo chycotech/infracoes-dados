@@ -1,8 +1,14 @@
 [
   {
     "secao": "Seguro",
+    "titulo": "Seguro pela matrícula — ASF",
+    "desc": "Página oficial da ASF · escreve a matrícula e consulta",
+    "url": "https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula"
+  },
+  {
+    "secao": "Seguro",
     "titulo": "Consulta direta — Seguro",
-    "desc": "Servidor da ASF · ext01.asf.com.pt · matrícula do veículo",
-    "url": "https://ext01.asf.com.pt/"
+    "desc": "Servidor da ASF · ext01.asf.com.pt · por confirmar no telemóvel",
+    "url": "https://ext01.asf.com.pt/api/src/"
   }
 ]
