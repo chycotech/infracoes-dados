@@ -1244,7 +1244,7 @@
   ],
   "gerais": [
     {
-      "titulo": "Conduzir fora da categoria",
+      "titulo": "Condução sem habilitação na categoria",
       "pontos": [
         "Quem conduzir veículo de categoria ou tipo para que a carta não habilita é sancionado com coima de € 120 a € 600, se for apenas titular da categoria T.",
         "Com coima de € 700 a € 3500, se for apenas titular da categoria AM ou A1.",
@@ -1261,53 +1261,50 @@
       ]
     },
     {
-      "titulo": "Quando se perdem pontos",
-      "base": "Artigo 148.º, n.ºs 1 a 3",
-      "pontos": [
-        "Os pontos só são subtraídos na data em que a decisão condenatória se torna definitiva ou a sentença transita em julgado.",
-        "Contraordenação grave — 3 pontos: condução sob influência do álcool; utilização ou manuseamento continuado de equipamento ou aparelho nos termos do n.º 1 do artigo 84.º; excesso de velocidade dentro das zonas de coexistência; ultrapassagem imediatamente antes e nas passagens assinaladas para travessia de peões ou velocípedes.",
-        "Contraordenação grave — 2 pontos: todas as restantes.",
-        "Contraordenação muito grave — 5 pontos: condução sob influência do álcool, condução sob influência de substâncias psicotrópicas e excesso de velocidade dentro das zonas de coexistência.",
-        "Contraordenação muito grave — 4 pontos: todas as restantes.",
-        "6 pontos: condenação em pena acessória de proibição de conduzir, e arquivamento do inquérito nos termos do n.º 3 do artigo 282.º do Código de Processo Penal quando tenha havido cumprimento da injunção.",
-        "Condenação em cúmulo por graves e muito graves praticadas no mesmo dia: a subtração não pode ultrapassar seis pontos — exceto se estiver em causa álcool ou substâncias psicotrópicas, que são sempre subtraídas."
+      "titulo": "Regime de pontos",
+      "chave": "pontos",
+      "sub": "Pontos do condutor, perda e probatório",
+      "temas": [
+        {
+          "titulo": "Pontos do condutor",
+          "base": "Artigos 121.º-A e 148.º, n.ºs 4 a 12",
+          "pontos": [
+            "A cada condutor são atribuídos doze pontos.",
+            "Com cinco ou menos pontos: obrigação de frequentar ação de formação de segurança rodoviária.",
+            "Com três ou menos pontos: obrigação de realizar a prova teórica do exame de condução.",
+            "Sem pontos: cassação do título de condução, ordenada em processo autónomo.",
+            "Faltar sem justificação à formação ou à prova, ou nelas reprovar, tem como efeito a cassação do título.",
+            "Recupera três pontos ao fim de cada três anos sem registo de contraordenações graves ou muito graves nem de crimes rodoviários, até ao máximo de quinze.",
+            "Esse período é de dois anos para quem conduz, no exercício da profissão, veículos de socorro ou serviço urgente, transporte coletivo de crianças e jovens até aos 16 anos, táxis, pesados de passageiros ou de mercadorias, ou mercadorias perigosas.",
+            "Mais um ponto em cada revalidação sem registo de crimes rodoviários, até ao máximo de dezasseis, se frequentar voluntariamente ação de formação.",
+            "Cassado o título, não é concedido novo título de qualquer categoria antes de decorridos dois anos sobre a efetivação da cassação."
+          ]
+        },
+        {
+          "titulo": "Perda de pontos",
+          "base": "Artigo 148.º, n.ºs 1 a 3",
+          "pontos": [
+            "Os pontos só são subtraídos na data em que a decisão condenatória se torna definitiva ou a sentença transita em julgado.",
+            "Contraordenação grave — 3 pontos: condução sob influência do álcool; utilização ou manuseamento continuado de equipamento ou aparelho nos termos do n.º 1 do artigo 84.º; excesso de velocidade dentro das zonas de coexistência; ultrapassagem imediatamente antes e nas passagens assinaladas para travessia de peões ou velocípedes.",
+            "Contraordenação grave — 2 pontos: todas as restantes.",
+            "Contraordenação muito grave — 5 pontos: condução sob influência do álcool, condução sob influência de substâncias psicotrópicas e excesso de velocidade dentro das zonas de coexistência.",
+            "Contraordenação muito grave — 4 pontos: todas as restantes.",
+            "6 pontos: condenação em pena acessória de proibição de conduzir, e arquivamento do inquérito nos termos do n.º 3 do artigo 282.º do Código de Processo Penal quando tenha havido cumprimento da injunção.",
+            "Condenação em cúmulo por graves e muito graves praticadas no mesmo dia: a subtração não pode ultrapassar seis pontos — exceto se estiver em causa álcool ou substâncias psicotrópicas, que são sempre subtraídas."
+          ]
+        },
+        {
+          "titulo": "Regime probatório",
+          "pontos": [
+            "A carta emitida a quem não estava habilitado para nenhuma categoria fica sujeita a regime probatório nos três primeiros anos de validade.",
+            "Os titulares das categorias T, AM, A1 ou B1 ficam sujeitos a regime probatório quando obtenham outra categoria, ainda que o título inicial tenha mais de três anos.",
+            "Não se aplica às cartas obtidas por troca de documento equivalente que habilite a conduzir há mais de três anos.",
+            "O regime é prorrogado se, nesse período, for instaurado procedimento por crime rodoviário, contraordenação muito grave ou segunda grave, até a decisão transitar em julgado.",
+            "Cessa findo o prazo sem condenação por crime, contraordenação muito grave ou duas graves."
+          ],
+          "base": "Artigo 122.º"
+        }
       ]
-    },
-    {
-      "titulo": "Pontos do condutor",
-      "base": "Artigos 121.º-A e 148.º, n.ºs 4 a 12",
-      "pontos": [
-        "A cada condutor são atribuídos doze pontos.",
-        "Com cinco ou menos pontos: obrigação de frequentar ação de formação de segurança rodoviária.",
-        "Com três ou menos pontos: obrigação de realizar a prova teórica do exame de condução.",
-        "Sem pontos: cassação do título de condução, ordenada em processo autónomo.",
-        "Faltar sem justificação à formação ou à prova, ou nelas reprovar, tem como efeito a cassação do título.",
-        "Recupera três pontos ao fim de cada três anos sem registo de contraordenações graves ou muito graves nem de crimes rodoviários, até ao máximo de quinze.",
-        "Esse período é de dois anos para quem conduz, no exercício da profissão, veículos de socorro ou serviço urgente, transporte coletivo de crianças e jovens até aos 16 anos, táxis, pesados de passageiros ou de mercadorias, ou mercadorias perigosas.",
-        "Mais um ponto em cada revalidação sem registo de crimes rodoviários, até ao máximo de dezasseis, se frequentar voluntariamente ação de formação.",
-        "Cassado o título, não é concedido novo título de qualquer categoria antes de decorridos dois anos sobre a efetivação da cassação."
-      ]
-    },
-    {
-      "titulo": "Regime probatório",
-      "pontos": [
-        "A carta emitida a quem não estava habilitado para nenhuma categoria fica sujeita a regime probatório nos três primeiros anos de validade.",
-        "Os titulares das categorias T, AM, A1 ou B1 ficam sujeitos a regime probatório quando obtenham outra categoria, ainda que o título inicial tenha mais de três anos.",
-        "Não se aplica às cartas obtidas por troca de documento equivalente que habilite a conduzir há mais de três anos.",
-        "O regime é prorrogado se, nesse período, for instaurado procedimento por crime rodoviário, contraordenação muito grave ou segunda grave, até a decisão transitar em julgado.",
-        "Cessa findo o prazo sem condenação por crime, contraordenação muito grave ou duas graves."
-      ],
-      "base": "Artigo 122.º"
-    },
-    {
-      "titulo": "Quem precisa de carta",
-      "pontos": [
-        "Só pode conduzir veículo a motor na via pública quem estiver legalmente habilitado.",
-        "A habilitação para ciclomotores, motociclos, triciclos, quadriciclos, automóveis e veículos agrícolas, exceto motocultivadores operados a pé, é titulada pela carta de condução.",
-        "A condução de velocípedes e de veículos a eles equiparados não carece de habilitação legal para conduzir.",
-        "Quem infringir os deveres fixados no Regulamento é sancionado com coima de € 60 a € 300, se sanção mais grave não for aplicável."
-      ],
-      "base": "Artigo 121.º"
     }
   ],
   "fonte_paises": "Registo do Secretário-Geral das Nações Unidas: Convenção sobre Trânsito Rodoviário (Genebra, 19.09.1949) — 103 partes; Convenção sobre a Circulação Rodoviária (Viena, 08.11.1968) — 91 partes. Só contam as partes: assinar sem ratificar não basta."
