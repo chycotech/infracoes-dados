@@ -30,6 +30,7 @@ ROTULOS = {
     'alcoolemia':    'Alcoolemia',
     'easypark':      'EasyPark',
     'links':         'Consultas web',
+    'consultas':     'Consultas web',
     'procedimentos': 'Procedimentos',
     'atalhos':       'Diploma',
     'etr':           'Área ETR',
