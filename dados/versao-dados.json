@@ -1,11 +1,12 @@
 {
-  "gerado": "2026-10-16T23:14:48Z",
-  "impressao": "f8ce0811eb1a",
-  "entradas": 2740,
+  "gerado": "2026-10-16T23:16:01Z",
+  "impressao": "2ab9378b0393",
+  "entradas": 2741,
   "ficheiros": {
     "animais.json": 40,
     "atalhos.json": 2,
     "complegis.json": 29,
+    "consultas.json": 1,
     "dados.json": 838,
     "etr.json": 2,
     "legislacao-complementar.json": 89,
