@@ -2,78 +2,83 @@
   {
     "chave": "apreensao-documentos",
     "titulo": "Apreensão de documentos",
-    "sub": "Artigos 173.º e 174.º do Código da Estrada",
-    "resumo": "Quando se apreende, o que se apreende, que guia se emite e como se devolve",
+    "sub": "Guia de apoio da ANSR · artigos 173.º e 174.º do Código da Estrada",
+    "resumo": "O procedimento é o difundido pela ANSR, para ser igual em todas as polícias. O Código da Estrada aparece onde acrescenta ou corrige.",
     "seccoes": [
       {
-        "titulo": "Quando se apreende",
-        "base": "Artigos 172.º e 173.º, n.ºs 1 a 4 e 6",
-        "origem": "lei",
+        "titulo": "Quando se apreendem",
+        "base": "Guia da ANSR, I.1",
+        "origem": "ansr",
         "pontos": [
-          "Apreendem-se os documentos quando o infrator não paga voluntariamente a coima nem presta depósito. Fazendo uma das duas coisas, não há apreensão — deixa de haver o que garantir.",
-          "Notificado no ato da fiscalização: o depósito é de valor igual ao mínimo da coima e presta-se de imediato ou no prazo máximo de 48 horas.",
-          "Notificado por via postal, não pretendendo o pagamento voluntário imediato: o depósito presta-se nas 48 horas seguintes à notificação.",
-          "O pagamento voluntário pode ser feito pelo mínimo em qualquer altura do processo, sempre antes da decisão — artigo 172.º n.º 3."
+          "O infrator não paga voluntariamente a coima no momento da fiscalização nem presta depósito.",
+          "Verifica-se, no momento da fiscalização, que tem sanções acessórias por cumprir — inibição de conduzir ou apreensão do veículo.",
+          "O depósito só é admissível no ato da verificação da contraordenação ou no prazo máximo de 48 horas."
         ],
-        "nota": "O depósito garante o pagamento da coima em que o infrator venha a ser condenado e é devolvido se não houver condenação. Prestado o depósito e não havendo defesa no prazo, converte-se automaticamente em pagamento.",
-        "ansr": [
-          "Apreende-se também quando, no momento da fiscalização, se verifica que o infrator tem sanções acessórias por cumprir — inibição de conduzir ou apreensão do veículo."
-        ]
+        "lei": [
+          "Pagando a coima ou prestando depósito não há apreensão: deixa de haver o que garantir — artigo 173.º n.ºs 4 e 5.",
+          "Notificação por via postal: não pretendendo o pagamento voluntário imediato, o infrator deve prestar depósito nas 48 horas seguintes à notificação — artigo 173.º n.º 2. O guia só refere as 48 horas contadas da verificação.",
+          "O pagamento voluntário pelo mínimo pode ser feito em qualquer altura do processo, sempre antes da decisão — artigo 172.º n.º 3."
+        ],
+        "nota": "O depósito garante o pagamento da coima em que o infrator venha a ser condenado e é devolvido se não houver condenação. Prestado o depósito e não havendo defesa no prazo, converte-se automaticamente em pagamento."
       },
       {
-        "titulo": "O que se apreende",
-        "base": "Artigo 173.º, n.º 4",
-        "origem": "lei",
+        "titulo": "Que documentos se apreendem",
+        "base": "Guia da ANSR, I.2",
+        "origem": "ansr",
         "tabela": [
-          ["A sanção respeita ao condutor", "Título de condução"],
-          ["A sanção respeita ao titular do documento de identificação do veículo", "Título de identificação do veículo e título de registo de propriedade"],
-          ["A sanção respeita ao condutor, sendo este também o titular", "Todos os documentos acima"]
+          ["A infração respeita ao condutor", "Título de condução"],
+          ["A infração respeita ao proprietário do veículo", "Livrete e título de registo de propriedade, ou certificado de matrícula"],
+          ["Condutor e proprietário são a mesma pessoa", "Todos os documentos acima"]
         ],
-        "aviso": "O que se apreende segue de quem é a sanção, não de quem vai ao volante. Conduzindo o veículo de outra pessoa, e sendo a infração do titular, não se apreende a carta do condutor com este fundamento — sem prejuízo de outros fundamentos legais de apreensão.",
-        "ansr": [
-          "Nessa situação não é exigível o pagamento imediato da coima nem a prestação de depósito, e não se apreendem documentos no momento da verificação da infração."
-        ]
+        "pontos": [
+          "Condutor que não é o proprietário, com infração da responsabilidade deste: não se aplica o artigo 173.º. Não é exigível o pagamento imediato nem o depósito, e não se apreendem documentos no momento da verificação — sem prejuízo de outros fundamentos legais de apreensão."
+        ],
+        "lei": [
+          "A regra está no artigo 173.º n.º 4, que fala em título de identificação do veículo e título de registo de propriedade."
+        ],
+        "aviso": "O que se apreende segue de quem é a sanção, não de quem vai ao volante."
       },
       {
         "titulo": "Caso próprio: falta de seguro",
-        "base": "Guia de apoio da ANSR",
+        "base": "Guia da ANSR, VI.3",
         "origem": "ansr",
         "pontos": [
           "Levantado o auto por o veículo circular sem seguro de responsabilidade civil, o veículo é apreendido independentemente de a coima ser paga ou de ser prestado depósito.",
           "Apreendem-se os documentos do veículo: livrete e título de registo de propriedade, ou certificado de matrícula.",
-          "Lavra-se auto de apreensão e os documentos seguem de imediato para o IMT e/ou o IRN — são essas as entidades que verificam a regularização, e não o Comando Distrital."
+          "Lavra-se auto de apreensão e os documentos seguem de imediato para o IMT e/ou o IRN — são essas as entidades que verificam a regularização, e não o Comando Distrital.",
+          "O IMT ou o IRN só devolvem os documentos ao titular mediante prova da regularização da situação que esteve na origem da apreensão."
         ],
         "aviso": "Se por lapso tiver sido apreendido o título de condução e remetido ao Comando Distrital, este devolve-o de imediato ao condutor."
       },
       {
         "titulo": "Guia de substituição",
-        "base": "Artigo 173.º, n.º 5",
-        "origem": "lei",
+        "base": "Guia da ANSR, I.3",
+        "origem": "ansr",
         "pontos": [
-          "Apreendidos os documentos, é emitida guia de substituição.",
-          "A lei fixa a validade pelo tempo julgado necessário, renovável até à conclusão do processo.",
-          "Os documentos são devolvidos logo que seja feita prova da prestação do depósito ou do pagamento da coima."
-        ],
-        "ansr": [
-          "Na prática da ANSR, a guia é emitida por seis meses, renovável por iguais períodos até ao pagamento da coima ou à conclusão do processo.",
+          "A entidade autuante apreende os documentos e emite guia de substituição.",
+          "Válida por seis meses, renovável por iguais períodos junto do Comando Distrital, até ao pagamento da coima ou à conclusão do processo.",
           "A validade da guia nunca ultrapassa a validade do título de condução que substitui: carta válida até 31 de dezembro, guia até essa data e não seis meses."
+        ],
+        "lei": [
+          "O Código não fixa os seis meses: manda emitir guias válidas pelo tempo julgado necessário, renováveis até à conclusão do processo — artigo 173.º n.º 5. Os seis meses são a prática uniformizada pela ANSR."
         ],
         "aviso": "Esta guia é a do artigo 173.º. A do artigo 174.º vale quinze dias e tem outro destino — ver mais abaixo."
       },
       {
         "titulo": "Onde ficam os documentos",
-        "base": "Guia de apoio da ANSR",
+        "base": "Guia da ANSR, I.4 a I.7",
         "origem": "ansr",
         "pontos": [
           "Até ao 5.º dia útil: na esquadra ou posto da entidade autuante. Aí pode o arguido apresentar prova do pagamento ou do depósito e levantá-los, entregando a guia.",
           "No 6.º dia útil: são enviados ao Comando Distrital da residência do infrator, ou ao que tenha sido indicado na fiscalização, se não houver prova de pagamento ou depósito.",
           "A partir do 8.º dia útil: a comprovação do pagamento passa a fazer-se no Comando Distrital.",
           "Se ao 8.º dia ainda não tiverem dado entrada no Comando Distrital, o infrator deve contactar a entidade que os apreendeu, para os localizar."
-        ]
+        ],
+        "nota": "Estes prazos são organização interna, não vêm do Código da Estrada. É a eles que se deve a uniformidade entre esquadras."
       },
       {
         "titulo": "Como se prova o pagamento",
-        "base": "Guia de apoio da ANSR",
+        "base": "Guia da ANSR, I.9 e V",
         "origem": "ansr",
         "pontos": [
           "Vinheta dos CTT aposta no auto ou no seu triplicado.",
@@ -84,55 +89,56 @@
       },
       {
         "titulo": "Como se devolvem",
-        "base": "Guia de apoio da ANSR",
+        "base": "Guia da ANSR, I.8 e I.10 a I.13",
         "origem": "ansr",
         "pontos": [
           "Comprovar o pagamento da coima ou, quando aplicável, a prestação do depósito.",
           "Entregar a guia de substituição.",
-          "Não ter sanções acessórias que impeçam a devolução.",
-          "Guia que mencione vários autos: exige o pagamento de todas as coimas nela identificadas e a inexistência de inibição de conduzir por cumprir.",
+          "Não ter sanções acessórias de inibição de conduzir por cumprir.",
+          "Guia que mencione vários autos: exige o pagamento de todas as coimas nela identificadas.",
           "Podem ser levantados pelo titular ou por pessoa devidamente mandatada. Sendo o titular pessoa coletiva, devolvem-se ao representante legal ou a quem estiver legalmente mandatado.",
           "A procuração ou declaração deve identificar, com nome e número do documento de identificação, quem confere a autorização e quem a recebe."
         ]
       },
       {
         "titulo": "Sanções definitivas por cumprir",
-        "base": "Artigo 174.º",
-        "origem": "lei",
+        "base": "Guia da ANSR, II · artigo 174.º",
+        "origem": "ansr",
         "pontos": [
-          "Detetando-se, em qualquer ato de fiscalização, sanções pecuniárias já aplicadas a título definitivo e por cumprir, o condutor deve pagar de imediato.",
-          "Não pagando de imediato, apreendem-se os documentos pela mesma regra de quem é a sanção.",
-          "A apreensão é provisória e a guia de substituição vale quinze dias.",
-          "Pagas as quantias nesse prazo, é a própria entidade autuante que devolve os documentos.",
-          "Não sendo pagas no prazo, procede-se à apreensão do veículo e os documentos seguem para a unidade desconcentrada da GNR ou da PSP da área onde se fez a fiscalização.",
-          "Não tendo sido cumpridas sanções acessórias de inibição de conduzir ou de apreensão do veículo, procede-se à apreensão efetiva do título ou do veículo, para cumprimento da sanção.",
-          "O veículo apreendido responde pelo pagamento das quantias devidas."
+          "Verificando-se em fiscalização que o condutor não cumpriu sanções pecuniárias já aplicadas por decisão administrativa definitiva, e não as pagando de imediato, apreendem-se os documentos.",
+          "Nesta situação não há lugar a levantamento de auto de contraordenação.",
+          "Documentos já apreendidos como garantia ao abrigo do artigo 173.º, vindo o arguido pagar: não é admissível apreender ao abrigo do 174.º, mesmo que nesse momento se descubram outras coimas por pagar. Já não é em sede de fiscalização, e o arguido tem direito à devolução."
         ],
-        "ansr": [
-          "Nesta situação não se levanta novo auto de contraordenação.",
-          "Documentos já apreendidos como garantia ao abrigo do artigo 173.º, vindo o arguido pagar: não se pode apreender ao abrigo do 174.º, mesmo que nesse momento se descubram outras coimas por pagar. Já não é em sede de fiscalização, e o arguido tem direito à devolução."
+        "lei": [
+          "Aqui o guia fica-se pela apreensão. O resto do procedimento está só no Código.",
+          "A apreensão é provisória e a guia de substituição vale quinze dias — artigo 174.º n.º 3.",
+          "Pagas as quantias nesse prazo, é a própria entidade autuante que devolve os documentos — n.º 4.",
+          "Não sendo pagas no prazo, procede-se à apreensão do veículo e os documentos seguem para a unidade desconcentrada da GNR ou da PSP da área onde se fez a fiscalização — n.º 5.",
+          "Não tendo sido cumpridas sanções acessórias de inibição de conduzir ou de apreensão do veículo, procede-se à apreensão efetiva do título ou do veículo, para cumprimento da sanção — n.º 6.",
+          "O veículo apreendido responde pelo pagamento das quantias devidas — n.º 7."
         ],
         "aviso": "Não confundir com o artigo 173.º. Aqui a dívida já é definitiva: a guia vale quinze dias e, esgotado o prazo, vai o veículo atrás dos documentos."
       },
       {
         "titulo": "Situações especiais",
-        "base": "Guia de apoio da ANSR",
+        "base": "Guia da ANSR, III, IV, VII e XIII",
         "origem": "ansr",
         "pontos": [
           "Perda, furto ou deterioração da guia: o Comando Distrital pode emitir segunda via. Havendo furto junta-se cópia da queixa; em qualquer caso, declaração do condutor de que não possui outra guia e não está a cumprir inibição ou proibição de conduzir.",
           "Carta de condução caducada: a guia não se revalida para além da validade do título; renovar a carta é competência do IMT.",
-          "Impugnação judicial: por si só não determina a devolução, se o processo não estiver concluído nem tiver havido pagamento voluntário.",
-          "Pagamento em prestações: os documentos só são devolvidos depois do pagamento integral da coima, que ocorre com a última prestação."
+          "Impugnação judicial: não põe fim ao processo. Não estando este concluído nem tendo havido pagamento voluntário, os documentos não são devolvidos.",
+          "Pagamento em prestações: os documentos só são devolvidos depois do pagamento integral da coima, que ocorre com a última prestação.",
+          "Prescrição: decorridos dois anos sobre os factos sem decisão notificada ao arguido, e não havendo incumprimentos de outros autos, o Comando Distrital pode devolver os documentos, informando a ANSR."
         ]
       }
     ],
     "fontes": [
       {
         "titulo": "Código da Estrada — artigos 172.º a 174.º",
-        "desc": "Lei n.º 72/2013, texto consolidado",
+        "desc": "Lei n.º 72/2013, texto consolidado a 12 de março de 2025",
         "url": "https://data.dre.pt/eli/lei/72/2013/p/cons/20250312/pt/html"
       }
     ],
-    "rodape": "O articulado é o do Código da Estrada consolidado a 12 de março de 2025. Os pontos assinalados como ANSR vêm do guia de apoio sobre receção, registo, guarda e devolução de documentos apreendidos, de 2015: são prática administrativa e não texto legal. Nesse guia lê-se ainda IMTT onde hoje se lê IMT."
+    "rodape": "O procedimento é o do guia de apoio da ANSR sobre receção, registo, guarda e devolução de documentos apreendidos, difundido para uniformizar a atuação das polícias. O guia é de 2015 e nele lê-se IMTT onde hoje se lê IMT. Os blocos marcados como Código da Estrada seguem o texto consolidado a 12 de março de 2025 e prevalecem sobre o guia em caso de divergência."
   }
 ]
