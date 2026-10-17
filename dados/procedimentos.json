@@ -7,12 +7,13 @@
     "seccoes": [
       {
         "titulo": "Quando se apreende",
-        "base": "Artigo 173.º, n.ºs 1 a 4 e 6",
+        "base": "Artigos 172.º e 173.º, n.ºs 1 a 4 e 6",
         "origem": "lei",
         "pontos": [
-          "Notificado no ato da fiscalização: o infrator presta depósito de valor igual ao mínimo da coima, de imediato ou no prazo máximo de 48 horas.",
-          "Notificado por via postal: pode prestar o depósito até 48 horas após a notificação.",
-          "Não sendo prestado o depósito, os documentos são apreendidos provisoriamente."
+          "Apreendem-se os documentos quando o infrator não paga voluntariamente a coima nem presta depósito. Fazendo uma das duas coisas, não há apreensão — deixa de haver o que garantir.",
+          "Notificado no ato da fiscalização: o depósito é de valor igual ao mínimo da coima e presta-se de imediato ou no prazo máximo de 48 horas.",
+          "Notificado por via postal, não pretendendo o pagamento voluntário imediato: o depósito presta-se nas 48 horas seguintes à notificação.",
+          "O pagamento voluntário pode ser feito pelo mínimo em qualquer altura do processo, sempre antes da decisão — artigo 172.º n.º 3."
         ],
         "nota": "O depósito garante o pagamento da coima em que o infrator venha a ser condenado e é devolvido se não houver condenação. Prestado o depósito e não havendo defesa no prazo, converte-se automaticamente em pagamento.",
         "ansr": [
