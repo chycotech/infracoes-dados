@@ -1,6 +1,7 @@
 [
   {
     "chave": "apreensao-documentos",
+    "grupo": "Contraordenações",
     "titulo": "Documentos apreendidos",
     "sub": "Orientação técnica da ANSR",
     "resumo": "Guia de apoio aos procedimentos policiais em matéria de documentos apreendidos e processos de contraordenação rodoviária. Enquadramento no Código da Estrada, artigos 159.º a 162.º e 172.º a 189.º.",
@@ -13,9 +14,18 @@
           "Quando, nas condições previstas no artigo 173.º, o infrator não presta o depósito legalmente exigido, são apreendidos provisoriamente os documentos."
         ],
         "tabela": [
-          ["A responsabilidade respeita ao condutor", "Título de condução"],
-          ["A responsabilidade respeita ao titular do documento de identificação do veículo", "Documentos do veículo"],
-          ["A responsabilidade respeita ao condutor, sendo este também o titular", "Ambos"]
+          [
+            "A responsabilidade respeita ao condutor",
+            "Título de condução"
+          ],
+          [
+            "A responsabilidade respeita ao titular do documento de identificação do veículo",
+            "Documentos do veículo"
+          ],
+          [
+            "A responsabilidade respeita ao condutor, sendo este também o titular",
+            "Ambos"
+          ]
         ],
         "ansr": [
           "É emitida guia de substituição dos documentos apreendidos, nos termos legais.",
@@ -87,8 +97,14 @@
           "Não possuindo o condutor o título, por extravio ou por estar em processo de emissão ou renovação, observam-se os procedimentos aplicáveis junto do IMT e da entidade responsável pelo cumprimento da sanção."
         ],
         "tabela": [
-          ["Inibição aplicada em decisão administrativa definitiva", "Crime de desobediência qualificada — artigo 138.º n.º 3 do CE e artigo 348.º n.º 2 do Código Penal"],
-          ["Inibição aplicada em sentença criminal transitada em julgado", "Crime de violação de imposições, proibições ou interdições — artigo 138.º n.º 2 do CE e artigo 353.º do Código Penal"]
+          [
+            "Inibição aplicada em decisão administrativa definitiva",
+            "Crime de desobediência qualificada — artigo 138.º n.º 3 do CE e artigo 348.º n.º 2 do Código Penal"
+          ],
+          [
+            "Inibição aplicada em sentença criminal transitada em julgado",
+            "Crime de violação de imposições, proibições ou interdições — artigo 138.º n.º 2 do CE e artigo 353.º do Código Penal"
+          ]
         ],
         "aviso": "Conduzir durante o período de inibição é crime, mas não é o mesmo crime nos dois casos: depende de a inibição vir de decisão administrativa ou de sentença. Confirmar a origem antes de qualificar."
       },
@@ -128,5 +144,13 @@
       }
     ],
     "rodape": "Síntese baseada no Guia de Apoio da ANSR de 2015, com as referências ao Código da Estrada atualizadas para a consolidação de 12 de março de 2025. Não substitui a legislação em vigor nem as instruções operacionais aplicáveis."
+  },
+  {
+    "chave": "zonas-impacto",
+    "grupo": "Acidentes",
+    "titulo": "Determinação das zonas de impacto",
+    "sub": "Esquema das zonas de embate do veículo",
+    "desc": "Divisão Policial de Chaves · Esquadra de Trânsito",
+    "url": "https://drive.google.com/file/d/1V280VHlS0QJkeLZrlxud6RxdtzAZhYhw/view?usp=sharing"
   }
 ]
