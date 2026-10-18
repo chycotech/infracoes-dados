@@ -1,10 +1,10 @@
 {
-  "gerado": "2026-10-18T21:02:31Z",
-  "impressao": "9369725d20f1",
-  "entradas": 2916,
+  "gerado": "2026-10-18T21:24:02Z",
+  "impressao": "cf3b8408c95a",
+  "entradas": 2914,
   "ficheiros": {
     "animais.json": 40,
-    "atalhos.json": 2,
+    "atalhos.json": 0,
     "complegis.json": 29,
     "consultas.json": 2,
     "dados.json": 838,
