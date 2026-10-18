@@ -1,7 +1,7 @@
 {
-  "gerado": "2026-10-18T15:35:21Z",
-  "impressao": "6176420535b0",
-  "entradas": 2873,
+  "gerado": "2026-10-18T20:10:08Z",
+  "impressao": "3e77cfd1fa51",
+  "entradas": 2919,
   "ficheiros": {
     "animais.json": 40,
     "atalhos.json": 2,
@@ -15,6 +15,7 @@
     "rst-sinais.json": 425,
     "rst.json": 146,
     "tacografos.json": 131,
+    "taxis.json": 46,
     "velocipedes.json": 959
   }
 }
