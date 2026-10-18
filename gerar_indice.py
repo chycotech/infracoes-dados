@@ -26,6 +26,7 @@ ROTULOS = {
     'rst':           'R.S.T.',
     'rce':           'Regulamento do C.E.',
     'complegis':     'Legislação complementar',
+    'tacografos':    'Tacógrafos',
     'fisctecnica':   'Fiscalização técnica',
     'alcoolemia':    'Alcoolemia',
     'easypark':      'EasyPark',
