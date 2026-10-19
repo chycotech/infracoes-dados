@@ -1,0 +1,91 @@
+[
+  {
+    "tema": "Inspeções",
+    "sub": "Periódica, extraordinária, ficha de inspeção",
+    "contem": ["inspe"]
+  },
+  {
+    "tema": "Seguro",
+    "sub": "Responsabilidade civil e certificado",
+    "contem": ["seguro de responsabilidade", "certificado de seguro", "sem seguro", "responsabilidade civil"]
+  },
+  {
+    "tema": "Documentos do condutor e do veículo",
+    "sub": "Porte obrigatório, título de condução, identificação",
+    "contem": ["portador", "título de condução", "carta de condução", "documento de identificação do veículo", "título de registo de propriedade"]
+  },
+  {
+    "tema": "Matrícula e chapas",
+    "sub": "Falta, ilegibilidade, adulteração",
+    "contem": ["matrícula", "chapa de matrícula"]
+  },
+  {
+    "tema": "Luzes e sinalização do veículo",
+    "sub": "Faróis, farolins, refletores, avisadores",
+    "contem": ["luz", "farol", "farolim", "avisador luminoso", "refletor", "retrorrefletor"]
+  },
+  {
+    "tema": "Pneus e rodado",
+    "sub": "Profundidade, estado, dimensões",
+    "contem": ["pneu", "rodado", "piso"]
+  },
+  {
+    "tema": "Cintos, cadeiras e capacete",
+    "sub": "Sistemas de retenção e proteção",
+    "contem": ["cinto", "cadeira", "retenção", "capacete"]
+  },
+  {
+    "tema": "Transporte de crianças",
+    "sub": "Retenção, transporte coletivo, escolar",
+    "contem": ["criança"]
+  },
+  {
+    "tema": "Carga e mercadorias",
+    "sub": "Acondicionamento, excesso, dimensões",
+    "contem": ["carga", "mercadoria", "peso bruto"],
+    "fontes": ["dados", "rce", "legislacao-complementar", "tacografos"]
+  },
+  {
+    "tema": "Estacionamento",
+    "sub": "Proibido, indevido, lugares reservados",
+    "contem": ["estacionamento proibido", "estacionado", "estacionar", "estacionamento indevido"],
+    "fontes": ["dados", "rce", "legislacao-complementar", "taxis", "velocipedes"]
+  },
+  {
+    "tema": "Paragem",
+    "sub": "Locais proibidos e obrigação de parar",
+    "contem": ["paragem"],
+    "fontes": ["dados", "rce", "legislacao-complementar"]
+  },
+  {
+    "tema": "Velocidade",
+    "sub": "Excesso, inadequada, limites especiais",
+    "contem": ["velocidade"],
+    "fontes": ["dados", "velocipedes", "legislacao-complementar", "rce"]
+  },
+  {
+    "tema": "Álcool e substâncias",
+    "sub": "Condução sob influência e fiscalização",
+    "contem": ["álcool", "alcool", "psicotrópic", "estupefacient"]
+  },
+  {
+    "tema": "Tacógrafo e tempos de condução",
+    "sub": "Aparelho, cartão, pausas e repousos",
+    "contem": ["tacógrafo", "tacograf", "repouso", "tempo de condução", "pausa"]
+  },
+  {
+    "tema": "Táxis",
+    "sub": "Alvará, taxímetro, tarifas, identificação",
+    "contem": ["táxi", "taxi"]
+  },
+  {
+    "tema": "Telemóvel e distração",
+    "sub": "Equipamentos ao volante",
+    "contem": ["telemóvel", "auricular", "aparelho radiotelefónico"]
+  },
+  {
+    "tema": "Emissões e ruído",
+    "sub": "Escape, fumos, sonoridade",
+    "contem": ["ruído", "fumo", "emissã", "escape"]
+  }
+]
