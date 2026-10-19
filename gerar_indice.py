@@ -42,7 +42,7 @@ ROTULOS = {
 # versao-dados e o carimbo escrito por este script; alcoolemia e a tabela de
 # numeros, que nao faz sentido pesquisar.
 IGNORAR = {'indice', 'sinonimos', 'versao-dados', 'alcoolemia', 'remunerados', 'fiscalizacao', 'habilitacao',
-           'legislacao', 'procedimentos',
+           'legislacao', 'procedimentos', 'temas',
            'package', 'package-lock', 'manifest', 'config', 'tsconfig'}
 
 TAM_TITULO = 110
