@@ -1,8 +1,9 @@
 {
-  "gerado": "2026-10-20T21:19:48Z",
-  "impressao": "bd801c71ef7a",
+  "gerado": "2026-10-20T22:08:49Z",
+  "impressao": "eddf87fdde07",
   "entradas": 2914,
   "ficheiros": {
+    "alteracoes.json": 0,
     "animais.json": 40,
     "atalhos.json": 0,
     "complegis.json": 29,
