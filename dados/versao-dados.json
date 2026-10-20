@@ -1,6 +1,6 @@
 {
-  "gerado": "2026-10-19T17:40:54Z",
-  "impressao": "cf3b8408c95a",
+  "gerado": "2026-10-20T21:18:52Z",
+  "impressao": "d30d7116738f",
   "entradas": 2914,
   "ficheiros": {
     "animais.json": 40,
@@ -17,5 +17,15 @@
     "tacografos.json": 131,
     "taxis.json": 43,
     "velocipedes.json": 959
-  }
+  },
+  "nao_indexados": [
+    "alcoolemia.json",
+    "fiscalizacao.json",
+    "habilitacao.json",
+    "legislacao.json",
+    "procedimentos.json",
+    "remunerados.json",
+    "sinonimos.json",
+    "temas.json"
+  ]
 }
