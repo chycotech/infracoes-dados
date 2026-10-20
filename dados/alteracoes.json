@@ -1,0 +1,1075 @@
+{
+  "fonte": "Manual de Fiscalização a Veículos com Alterações às suas Características, 15.ª atualização de 03-03-2021, do Guarda Matias Eufrásio (GNR). Documento pessoal e de uso interno, não oficial. Os textos de auto e as situações são do manual; o enquadramento legal de cada infração é o do Código da Estrada em vigor, resolvido pelo código e não copiado do manual.",
+  "aviso": "As normas e coimas que constavam do manual de 2021 não foram transcritas: cinco dos nove códigos tinham a norma punitiva ou a coima desatualizadas. Cada ficha remete para o código, e o código traz o enquadramento atual.",
+  "atencao": "O Decreto-Lei n.º 184/2026, de 16 de setembro, aprovou o novo Regulamento da Transformação de Veículos e produz efeitos 60 dias após a publicação, ou seja a partir de 15 de novembro de 2026. Altera o regime das transformações e revoga vários números dos artigos 14.º, 15.º, 16.º, 19.º, 20.º, 26.º e 27.º do Regulamento do Código da Estrada. Os textos de auto carecem de revisão a partir dessa data.",
+  "procedimentos": [
+    "Auto de contraordenação: LI n.ºs 3 e 5 do art.º 114.º CE (conjugar com o diploma de cada ficha), LP n.º 6 do art.º 114.º, descrever todas as alterações visíveis (aditamento se faltar espaço). Responsável: proprietário (se o DUA ainda estiver em nome do anterior, juntar auto de declarações).",
+    "Auto de apreensão do veículo (art.º 162.º n.º 1 al. j) CE), podendo o titular do documento de identificação do veículo ser designado fiel depositário (art.º 162.º n.º 5 — é o titular do documento, não o condutor); destino: residência.",
+    "Guia de substituição de documentos (art.º 161.º n.º 1 als. b) e e) CE), válida pelo tempo necessário até ao destino (art.º 161.º n.º 4).",
+    "Notificar o interessado para inspeção extraordinária no IMT do distrito de residência (Despacho IMT n.º 15661/2003).",
+    "Mesmo sem exibição dos documentos, o veículo é apreendido; enviar ofício ao IMT da área de residência, com conhecimento ao proprietário.",
+    "Casos graves (turbo, intercooler, linha direta, reprogramação com +20 % de kW face ao DUA): veículo fica depositado no posto/destacamento até à inspeção extraordinária (tipo B); fazer registo fotográfico (frente, traseira, laterais, n.º de quadro, n.º de motor, conta-quilómetros, motor e alterações) e pedido por email ao IMT com auto de contraordenação, auto de apreensão, DUA e fotos; reboque a cargo do condutor/proprietário."
+  ],
+  "fichas": [
+    {
+      "id": "ALT-001",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Montagem de suspensão com molas de rebaixamento",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via publica com alteração das características construtivas com que foi aprovado, tendo sido instalados amortecedores com molas de rebaixamento (não de origem) da marca XXXX com a cor amarela/azul/vermelha /verde, destinados a alterar o comportamento do veículo em curva e travagem, nomeadamente, através da redução da altura ao solo do veículo, e concomitantemente a sua dureza, alterando o comportamento do veículo em circulação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. O Condutor não apresentou certificado TUV dos componentes referidos."
+    },
+    {
+      "id": "ALT-002",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Montagem de suspensão - coilovers",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via publica com alteração das características construtivas com que foi aprovado, tendo sido instalados amortecedores de rebaixamento do tipo Coilovers (não de origem) da marca XXXX com a cor amarela/azul/vermelha /verde, destinados a alterar o comportamento do veículo em curva e travagem, nomeadamente, através da regulação da altura ao solo do veículo, e concomitantemente a sua dureza, alterando o comportamento do veículo em circulação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. O Condutor não apresentou certificado TUV dos componentes referidos."
+    },
+    {
+      "id": "ALT-003",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Montagem de suspensão pneumática (a ar)",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX aquando da sua aprovação foi homologado com suspensão do Tipo HIDRAULICA/MECANICA tendo sido instalado no mesmo um sistema de suspensão do tipo Pneumático, constituído por 4/2 bolsas de ar instaladas 2 em cada eixo do veículo e um compressor de ar na mala do veiculo, permitindo regular a altura ao solo do veículo de forma manual, e concomitantemente o comportamento do mesmo em circulação, no que concerne à curva e travagem, nomeadamente, através da redução da altura ao solo do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. O Condutor não apresentou certificado TUV dos componentes referidos."
+    },
+    {
+      "id": "ALT-004",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Montagem de camber’s",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem no eixo da RETAGUARDA/FRENTE de dois dispositivos que permitem regular a abertura ou fecho dos pneumáticos, alterando assim a inclinação dos pneumáticos enquanto o veículo circula na via pública, sem qualquer homologação do IMT, IP na sobredita transformação, e sem que os componentes ostentem de forma facilmente visível marca de homologação comunitária. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL19/2009."
+    },
+    {
+      "id": "ALT-005",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Montagem de autoblocante",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX, foi homologado com um determinado sistema de transmissão, no entanto foi intervencionado tendo sido instalado um componente denominado “AUTOBLOCANTE” na sua transmissão, destinado a evitar a perda de aderência no eixo de tração de um veículo no caso de uma roda patinar por total falta de aderência, sendo este tipo de diferencial utilizado em veículos de todo o terreno e veículos de competição, não tendo o veículo sido aprovado com o mesmo aquando da sua homologação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-006",
+      "grupo": "Ligeiros",
+      "categoria": "Direção",
+      "titulo": "Montagem de direção “direta”",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX, foi homologado com um determinado sistema de direção (mecânica/elétrica), no entanto foi intervencionado tendo sido instalado um componente na caixa de direção, destinado a reduzir o numero de voltas que o volante pode realizar sem qualquer marca de homologação nem aprovação pelo IMT, IP destinado a uso fora da via pública, não tendo o veículo sido aprovado com o mesmo aquando da sua homologação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-007",
+      "grupo": "Ligeiros",
+      "categoria": "Direção",
+      "titulo": "Montagem de direção assistida",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX, foi homologado com um determinado sistema de direção (mecânica/elétrica), no entanto foi intervencionado tendo sido instalado/retirado um componente na caixa de direção, destinado auxiliar na viragem e acionamento da direção ao condutor aquando do manuseamento do volante, deixando de ter direção mecânica passando a ser mecanicamente assistida ou mecanicamente assistida passando a ser mecânica. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-008",
+      "grupo": "Ligeiros",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de linha direta de escape / remoção de panelas de escape / catalisador",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via publica com alteração das características construtivas com que foi aprovado, do mesmo foram removidas Unidades Técnicas do Sistema de Escape, nomeadamente foi removido o Conversor Catalítico (Catalisador)/Panela Final/Panela Intermedia do Veículo e substituído por um tubo metálico no seu lugar não contendo qualquer marca de homologação CE, possibilitando assim alterações nas emissões de CO, NO2 e HC e ruido do mesmo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL19/2009."
+    },
+    {
+      "id": "ALT-009",
+      "grupo": "Ligeiros",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de panela de escape com marca de homologação ce e válvula de escape “bypass” interno",
+      "infracao": false,
+      "porque": "Não há infração, desde que as mesmas contenham marca de homologação, conforme previsto no dl nº19/2009, de 15 jan",
+      "notas": [
+        "É admissível a substituição / montagem de Panelas de Escape de “Rendimento” desde que as mesmas contenham marca de homologação CE/CEE Panela de Escape da Marca AKRAPOVIC Panela de Escape da Marca AKRAPOVIC com Marca de Homologação CE com Marca de Homologação CE utilizada no Porsche Macan utilizada no BMW Serie 1 Coupé"
+      ]
+    },
+    {
+      "id": "ALT-010",
+      "grupo": "Ligeiros",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de panela de escape sem marca de homologação ce com válvula de escape “bypass” interno",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via publica com alteração das características construtivas com que foi aprovado, do mesmo foram removidas unidades Técnicas do Sistema de Escape, no mesmo foi instalado uma Unidade Técnica não homologada, nomeadamente uma panela final constituída por possuir uma válvula eletrónica de Bypass, destinada a alternar entre dois tubos metálicos em que um inutiliza a função do redutor de ruído e outro mantém a função do mesmo ficando à livre discricionariedade do condutor do veículo sem qualquer marca de homologação comunitária de Marca Artesanal/VAREX/VIBRANT/Etc. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL19/2009."
+    },
+    {
+      "id": "ALT-011",
+      "grupo": "Ligeiros",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de válvula de escape “bypass”",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via publica com alteração das características construtivas com que foi aprovado, possuindo instalada de forma fixa e inamovível uma Unidade Técnica não aprovada no Sistema de Escape. Concretamente uma válvula de escape (bypass) que desviava os gazes e ruido do seu trajeto normal até ao silenciador final através da ligação de dois segmentos. A válvula é ativada através de um comando instalado no interior da cabine, que quando acionada altera o normal rumo dos gases de escape, fazendo com que estes circulem por um outro circuito, que não o da catalisação, possibilitando assim a emitindo maior quantidade de gases (CO2) lançados para a atmosfera pela combustão do veículo, sendo que o veículo não está homologado com a mesma. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL19/2009."
+    },
+    {
+      "id": "ALT-012",
+      "grupo": "Ligeiros",
+      "categoria": "Escape / emissões",
+      "titulo": "Remoção de filtro de partículas",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado com Filtro de Partículas, instalado no sistema de escape do veículo, destinado a eliminar as partículas de NOx e fuligem, que são produzidas pela combustão incompleta do combustível nos motores. Estas partículas são eliminadas durante um processo específico denominado regeneração, tendo este mesmo componente sido removido com a substituição do mesmo com tubo circular/com corte parcial e remoção do seu interior/anulação eletróncia na Centralina do Veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010 e na deliberação do IMT 525/2012. Infração conjugada com o DL 346/2007 e Reg UNECE 83."
+    },
+    {
+      "id": "ALT-013",
+      "grupo": "Ligeiros",
+      "categoria": "Vidros / películas",
+      "titulo": "Afixação de películas",
+      "infracao": false,
+      "notas": [
+        "A afixação de películas nos vidros é considerada como uma transformação das características do veículo. (n.º 1 Art.º 25º do Regulamento Aprov. p/ DL 40/03)",
+        "A circulação de veículos com afixação de películas nos vidros fica condicionada à aprovação do veículo em inspeção extraordinária a realizar num centro de inspeção técnica de veículos (CITV) da categoria B. (n.º 2 Art.º 25º do Regulamento Aprov. p/ DL 40/2003)",
+        "Os veículos que tenham películas afixadas nos vidros devem ter essa indicação expressa no certificado de matrícula. (n.º 3 Art.º 25º do Regulamento Aprov. p/ DL 40/2003);"
+      ]
+    },
+    {
+      "id": "ALT-014",
+      "grupo": "Ligeiros",
+      "categoria": "Vidros / películas",
+      "titulo": "Afixação de películas homologadas, sem ter sido aprovado e inspeção extraordinária",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, tendo sido instalado peliculas plásticas coloridas com a marca e referencia XXX na parte interior dos vidros ATRAS/A FRENTE do Pilar B sem que tivesse sido submetido o veículo a Inspeção extraordinária - Tipo B, não cumprindo o disposto no Nº2 Art.º 25 do DL40/2003 e subsequentemente tivesse procedido a averbação da alteração no Documento Único Automóvel no IMT. Os vidros do veículo sem as películas eram à vista transparentes, sem tonalidade."
+    },
+    {
+      "id": "ALT-015",
+      "grupo": "Ligeiros",
+      "categoria": "Vidros / películas",
+      "titulo": "Afixação de películas homologadas, não averbadas no documento único automovel",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com películas homologadas com a marca e referência XXXX nos vidros (indicar frente ou trás Pilar B) tendo o veículo sido submetido a inspeção extraordinária no dia XX-XX-XX, conforme certificado de aprovação de veículo em inspeção extraordinária Nº xxxxx, não estando as mesmas averbadas no Documento Único Automóvel com o número XXX, nem cumprindo o disposto no Nº3 Art.º 25 do DL40/2003"
+    },
+    {
+      "id": "ALT-016",
+      "grupo": "Ligeiros",
+      "categoria": "Vidros / películas",
+      "titulo": "Sobreposição de películas (frente pilar b)",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com películas com a marca e referência XXX afixadas nos vidros frente do Pilar B, através de sobreposição, para alem das películas constantes no certificado de matrícula sem coloração, foram instaladas, películas de cor escura, o que se verificou após serem removidas, na presença do agente autuante e após o proprietário ter aceitado removê-las no ato da fiscalização. Estas possuem um fator de transmissão de luminosidade inferior a 70% contrário ao disposto na al. b) art.º 24.ºDL 392/2007, em virtude de não ser possível visualizar os ocupantes do exterior para o interior."
+    },
+    {
+      "id": "ALT-017",
+      "grupo": "Ligeiros",
+      "categoria": "Vidros / películas",
+      "titulo": "Utilização de vidro com uma transmitância luminosa regular inferior a 70 % (vidro escurecido)",
+      "infracao": false,
+      "porque": "Não há infração, não carece de averbamento no documento único.",
+      "notas": [
+        "O vidro de segurança que tenha uma transmitância luminosa regular inferior a 70 % (vidro escurecido) ostenta o símbolo adicional abaixo indicado que deve ser aposto na proximidade da marca de homologação.",
+        "A instalação de vidros de segurança que tenham uma transmitância luminosa regular inferior a 70 % (vidros escurecidos) nos veículos automóveis não carece de qualquer averbamento no Documento Único Automóvel Símbolo Identificativo"
+      ]
+    },
+    {
+      "id": "ALT-018",
+      "grupo": "Ligeiros",
+      "categoria": "Admissão",
+      "titulo": "Montagem de filtro de ar cónico",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do motor com a instalação de um componente no lugar do filtro de ar do tipo Cónico, sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional, sendo que este destina-se a aumentar o fluxo e caudal de ar a misturar no combustível do veiculo, e concomitantemente possibilita a influência das emissões de CO2 e NOx emitidas pelo veículo. Encontrava-se fixado à admissão do veículo, e subsequentemente ao motor do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "notas": [
+        "É admissível a alteração / montagem filtros de admissão desde que dos mesmos não resulte a alteração do nível de ruido emitido pelo motor."
+      ]
+    },
+    {
+      "id": "ALT-019",
+      "grupo": "Ligeiros",
+      "categoria": "Admissão",
+      "titulo": "Montagem de filtro de ar tipo “pá”",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do motor com a instalação de um componente no lugar do filtro de ar com o formato triangular em forma de \"PÁ\", apenas para motores do grupo PSA e para uso fora da via pública em competição, sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional, sendo que este destina-se a aumentar o fluxo e caudal de ar a misturar no combustível do veiculo, e concomitantemente possibilita a influência das emissões de CO2 e NOx emitidas pelo veículo. Encontrava-se fixado à admissão do veículo, e subsequentemente ao motor do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-020",
+      "grupo": "Ligeiros",
+      "categoria": "Admissão",
+      "titulo": "Montagem de itb’s",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do motor com a instalação de um componente do tipo \"ITB - Individual Throttle Body\", sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional. O veiculo foi homologado com um corpo de borboleta e um coletor de admissão, destinado a introduzir o ar através do filtro de ar antes de passar pelo corpo do acelerador aberto e para o coletor, distribuindo este para os cilindros conforme solicitado durante o ciclo de combustão, com o sistema ITB passou a existir 4/6/8, etc. corpos de borboleta, um para cada cilindro, passando transformando a admissão do veículo em configuração ITB ou corpo de admissão individual por cilindro, tem como objetivo aumentar a resposta do acelerador, nomeadamente o binário, com recurso à pressão atmosférica que fica mais próxima das aberturas do corpo do acelerador. Eliminou totalmente o coletor de admissão e aumentou o fluxo de ar. Aumentou a potência, através do aumento do fluxo e caudal de ar a misturar no combustível do veículo, e concomitantemente influencia as emissões de CO2 e NOx emitidas pelo veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-021",
+      "grupo": "Ligeiros",
+      "categoria": "Admissão",
+      "titulo": "Montagem de tubo de admissão em inox",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do motor com a instalação de um componente de liga metálica e formato tubular a exercer as funções da caixa de filtro de ar que foi removida, sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional, sendo que este destina-se a aumentar o fluxo e caudal de ar a misturar no combustível do veiculo, e concomitantemente possibilita a influência das emissões de CO2 e NOx emitidas pelo veículo. Encontrava-se fixado à admissão do veículo, e subsequentemente ao turbo do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-022",
+      "grupo": "Ligeiros",
+      "categoria": "Escape / emissões",
+      "titulo": "Remoção da válvula egr e substituição por supressor",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado uma válvula EGR - Exhaust Gas Recirculation, colocada entre o coletor de admissão e o sistema de escape, destinada a reduzir as emissões tóxicas que são produzidas na combustão baixando a temperatura da câmara de combustão e posteriormente redistribui os gases de escape que vão até à admissão reduzindo assim as partículas de NOx tendo esta sido anulada a sua funcionalidade, através de colocação de \"Junta Metálica\"/Subtração Completa/Anulação Eletrónica. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL 346/2007 e Reg UNECE 83."
+    },
+    {
+      "id": "ALT-023",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de turbo (diferente do turbo de origem)",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado com o motor sobrealimentado por turbocompressor tendo sido intervencionado e instalado um Turbocompressor de dimensões superiores com a referência XXXXXXXXXXX no motor, alterando o motor, a potência e interferindo nas emissões de CO2 através da introdução de um volume de ar comprimido na mistura de combustível do veículo superior o que faz aumentar o Binário [Nm] e a potência [kW] aquando da sua sobrealimentação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "notas": [
+        "Turbos mais utilizados nos motores diesel:",
+        "Garret 1749 V; Garret 1749 VA; Garret 1749 VB; Garret 2256VK"
+      ]
+    },
+    {
+      "id": "ALT-024",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de sistema de compressor mecânico",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado com o motor atmosférico, tendo sido intervencionado e instalado um Compressor Mecânico, constituído por uma correia e poli instalada no motor, acionado em conjunto por energia mecânica do motor, fazendo com mesmo passe a ser sobrealimentando, alterando o motor, a potencia e emissões de CO2 através da introdução de um volume de ar comprimido na mistura de combustível do veículo o que faz aumentar o Binário [Nm] e a potência [kW] aquando da sua sobrealimentação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-025",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de turbo em motor atmosférico",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado com o motor aspirado naturalmente, tendo sido intervencionado e instalado um Turbocompressor no motor, fazendo com que o mesmo passe a ser sobrealimentando, alterando o motor, a potência e emissões de CO2 através da introdução de um volume de ar comprimido na mistura de combustível do veículo o que faz aumentar o Binário [Nm] e a potência [kW] aquando da sua sobrealimentação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-026",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de intercooler (diferente do original)",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do veículo com a instalação de um radiador destinado a reduzir a temperatura do ar admitido, e comprimido para que assim volte a aumentar a densidade pelo Turbocompressor do veículo, a sua diminuição faz aumentar a densidade o que possibilita introduzir mais combustível. Gera aumento da temperatura e pressão o que faz aumentar o Binário [Nm] e a potência [kW] aquando da sua sobrealimentação, sendo de salientar que o veículo possuía instalado um radiador de dimensões superiores às com que foi homologado, interferindo nas emissões de CO2 e NOx do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-027",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de intercooler não de origem",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do veículo com a instalação de um radiador destinado a reduzir a temperatura do ar admitido, e comprimido para que assim volte a aumentar a densidade pelo Turbocompressor do veículo, a sua diminuição faz aumentar a densidade o que possibilita introduzir mais combustível. Gera aumento da temperatura e pressão o que faz aumentar o Binário [Nm] e a potência [kW] aquando da sua sobrealimentação, tal interfere nas emissões de CO2 e NOx do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-028",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Substituição de motor com a mesma cilindrada",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o veículo foi homologado pelo IMT, IP com o motor n.º XXXXXXXX com XX Kw de potencia e XXXX CC de cilindrada tendo sido transformado, instalando o motor n.º XXXXXXXXX, correspondente ao Veículo Marca XXXXX, Modelo XXXXX, com XXXX g/km de CO2, XXXX Kw de Potencia e XXXXXX CC de cilindrada. Não apresentou certificado nem declaração de proveniência do motor em apreço nem das suas caraterísticas, a referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-029",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Substituição de motor com cilindrada diferente",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado. O veiculo foi homologado pelo IMT, IP com o motor n.º XXXXXXXX com XX Kw de potencia e XXXX CC de cilindrada tendo sido transformado, instalando o motor n.º XXXXXXXXX, correspondente ao Veiculo Marca XXXXX, Modelo XXXXX, com XXXX g/km de CO2, XXXX Kw de Potencia e XXXXXX CC de cilindrada, alterando e aumentando/diminuindo o CO2, a cilindrada e a potência, sem ter atualizado o Imposto Sobre Veículos na Autoridade Tributária e Aduaneira tendo o mesmo sido introduzido irregularmente no consumo desta forma, porquanto circulava nestes termos. Não apresentou certificado nem declaração de proveniência do motor em apreço, a referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-030",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Substituição de motor com cilindrada diferente",
+      "infracao": false,
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado. O veiculo foi homologado pelo IMT, IP com o motor n.º XXXXXXXX com XX Kw de potencia e XXXX CC de cilindrada tendo sido transformado, instalando o motor n.º XXXXXXXXX, correspondente ao Veiculo Marca XXXXX, Modelo XXXXX, com XXXX g/km de CO2, XXXX Kw de Potencia e XXXXXX CC de cilindrada, alterando e aumentando o CO2, a cilindrada e a potência, sem ter atualizado o Imposto Sobre Veículos na Autoridade Tributária e Aduaneira tendo o mesmo sido introduzido irregularmente no consumo desta forma, porquanto circulava nestes termos. Não apresentou certificado nem declaração de proveniência do motor em apreço. Salienta-se que a presente alteração constitui transformação de veículo, implicando reclassificação fiscal em razão de se tratar de alteração de fatores geradores de imposto. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "tipo": "auto aduaneiro"
+    },
+    {
+      "id": "ALT-031",
+      "grupo": "Ligeiros",
+      "categoria": "Iluminação",
+      "titulo": "Montagem de sistema de luzes xénon",
+      "infracao": true,
+      "codigos": [
+        "1.86.059.01.03"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração do sistema de iluminação com que foi aprovado, o mesmo possuía instalado, inicialmente, sistema de iluminação de incandescência, e nesta data possuía instalado uma Fontes de luz de descarga em gás (XENON) em que o elemento que emite radiação visível é um arco de descarga que produz eletroluminescência/fluorescência, juntamente com dois balastros, ligados às luzes de cruzamento/ estrada , no entanto não possuía óticas com projetor para o uso de xénon, reguladores de altura automáticos e sistema de lava-faróis (se o fluxo luminoso objetivo total exceder 2 000 lumens), não estando assim em conformidade com o explanado no ponto 6.2.6.2 e 6.2.9 do Regulamento Nº 48 da ECE/ONU",
+      "notas": [
+        "-Óticas com projetor para a utilização de luzes xénon “Projetor olho-de-boi”",
+        "-Lava faróis (se o fluxo luminoso objetivo total exceder 2 000 lumens)",
+        "-Niveladores Automáticos (6.2.6.2 do Regulamento Nº 48 da ECE/ONU) Ótica com projetor Lava Faróis"
+      ]
+    },
+    {
+      "id": "ALT-032",
+      "grupo": "Ligeiros",
+      "categoria": "Iluminação",
+      "titulo": "Montagem de sistema de luzes led",
+      "infracao": true,
+      "codigos": [
+        "1.86.059.01.03"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração do sistema de iluminação com que foi aprovado, o mesmo possuía instalado, inicialmente, sistema de iluminação de incandescência, e nesta data possuía instalado um «Díodo emissor de luz (LED)», uma fonte de luz em que o elemento que emite radiação visível é uma ou mais junções de semicondutores que produzem luminescência/fluorescência por injeção, ligados às luzes de cruzamento/ estrada, que produzem o feixe de cruzamento principal e que possuam um fluxo luminoso objetivo total que exceda 2000 lúmenes, sem que possua instalado óticas com projetor para o uso de LED, dispositivo(s) de limpeza dos faróis e niveladores automáticos conforme com o explanado no ponto 6.2.6.2 do Regulamento Nº 48 da ECE/ONU",
+      "notas": [
+        "-Óticas com projetor para a utilização de luzes LED “Projetor olho-de-boi”",
+        "-Lava faróis (se o fluxo luminoso objetivo total exceder 2 000 lumens)",
+        "-Niveladores Automáticos (6.2.6.2 do Regulamento Nº 48 da ECE/ONU)"
+      ]
+    },
+    {
+      "id": "ALT-033",
+      "grupo": "Ligeiros",
+      "categoria": "Direção",
+      "titulo": "Luzes de mudança de direção “us style”",
+      "infracao": true,
+      "codigos": [
+        "1.86.059.01.03"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com as luzes indicadoras de mudança de direção ligadas na sua totalidade de forma permanente ( NÃO INTERMITENTE, sem existir um avisador de acionamento ótico ou acústico) / em simultâneo com as luzes de presença do veículo. Verificou-se também que não se trata de uma avaria no sistema de iluminação, pois a referida alteração foi feita pelo / com conhecimento do proprietário do veículo através da codificação eletrónica na Centralina do veículo / modificação do sistema elétrico do veículo. Esta alteração do dispositivo de iluminação não está legalmente prevista, nem conforme o disposto na portaria 851 / 94 de 22 de setembro e no ponto 6.5 do Regulamento UNECE Nº48, publicado no Jornal Oficial da UE em 16 de janeiro de 2019."
+    },
+    {
+      "id": "ALT-034",
+      "grupo": "Ligeiros",
+      "categoria": "Iluminação",
+      "titulo": "Luzes de presença / circulação diurna",
+      "infracao": true,
+      "codigos": [
+        "1.86.059.01.03"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com as luzes de presença frontais / luzes de circulação diurna ligadas , as mesmas emitem um feixe de luz com a cor AZUL/ VERMELHA/ VERDE. Verificou-se também que não se trata de uma avaria no sistema de iluminação, pois a referida alteração foi feita pelo / com conhecimento do proprietário do veículo. Esta alteração do dispositivo de iluminação não está legalmente prevista, nem conforme o disposto na portaria 851 / 94 de 22 de setembro e no ponto 5.1.5 do Regulamento UNECE Nº48, publicado no Jornal Oficial da UE em 16 de janeiro de 2019."
+    },
+    {
+      "id": "ALT-035",
+      "grupo": "Ligeiros",
+      "categoria": "Iluminação",
+      "titulo": "Utilização de farois escurecidos",
+      "infracao": true,
+      "codigos": [
+        "1.86.059.01.03"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através do escurecimento dos seus faróis posteriores. O escurecimento foi efetuado através da aposição de película de cor preta/ tinta de cor preta, originando assim uma difícil visualização das luzes de Travagem, Presença, Mudança de direção. A referida alteração foi efetuada pelo / com conhecimento do proprietário do veículo, não se tratando de uma avaria. Esta alteração do dispositivo de iluminação não está legalmente prevista, sendo que a coloração quando exigida, não deverá resultar de pintura ou aplicações superficiais nos dispositivos luminosos, mas ser propriedade dos elementos transparentes ou translúcidos utilizados, conforme o disposto no ponto 26 da Portaria 851 / 94 de 22 de setembro e no Regulamento UNECE Nº48, publicado no Jornal Oficial da UE em 16 de janeiro de 2019."
+    },
+    {
+      "id": "ALT-036",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Montagem de alargadores",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo possui instalado no eixo da RETAGUARDA/FRENTE entre a jante e o eixo, dois dispositivos denominados \"alargadores\" cilíndricos e com espessura suficiente que alteram a largura entre eixos do veículo, aumentando esta, não cumprindo o disposto no Despacho DGV Nº33/96, 19SET. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-037",
+      "grupo": "Ligeiros",
+      "categoria": "Direção",
+      "titulo": "Modificação do volante",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado no sistema de direção tendo sido instalado um volante da marca XXXX sendo que as suas dimensões são mais reduzidas face ao qual com que foi homologado pelo IMT, IP, interferindo assim na direção do mesmo, com a instalação do referido volante foi removido o airbag destinado ao condutor da viatura, não cumprindo o disposto no Nº1 do Despacho Nº11625/2002 (2ª Série) da Direção Geral de Viação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-038",
+      "grupo": "Ligeiros",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Remoção de airbag / sinalizador acústico",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado no sistema de proteção do tipo airbag, destinado passivamente a evitar ou minimizar as lesões sofridas em caso de acidente, aos passageiros dos automóveis e condutores. No veículo em concreto foram retirados XXXX airbags/encontra-se avariados sem que o veículo tenha sido sujeito a homologação individual e sem que o IMT, IP tenha aprovado a referida transformação e subtração do sistema, alterando assim as suas características construtivas com que foi aprovado, não constando no certificado de matrícula \"airbag desativado\". Não cumprindo o disposto no Nº1 do Despacho Nº11625/2002 (2ª Série) da Direção Geral de Viação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado no seu sistema de sinalização acústica. Sendo que possuía instalado, inicialmente um dispositivo de sinalização acústica no veículo destinado a alertar em caso de perigo, denominada \"buzina\", no entanto à data circulava tendo esta sido subtraída, constituído por força de n.º 5 do art.º 114.º uma alteração de caraterísticas de veículo homologado carecendo de homologação individual caso pretenda ser mantida. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-039",
+      "grupo": "Ligeiros",
+      "categoria": "Outros",
+      "titulo": "Montagem de barras anti – aproximação",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da instalação de uma barra anti aproximação do Tipo McPherson fixa de forma inamovível ao Chassis do Veículo, nomeadamente à parte superior da suspensão FRONTAL/TRASEIRA do veículo, não cumprindo o disposto no Ofício IMTT Nº2276/2001, de 27 SET. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-040",
+      "grupo": "Ligeiros",
+      "categoria": "Suspensão / chassis",
+      "titulo": "Barra anti-torção inferior traseira",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da instalação de uma barra de reforço traseiro, fixa de forma inamovível ao chassis do veículo na sua parte inferior à retaguarda, de Marca ASR/BWR/BEAKS. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-041",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Reprogramação de centralinas - ecu",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado pelo IMT, IP com o n.º de homologação XXXXXXXX do SIVH/IMT, com XX kw de potência tendo sido transformado, com diversos componentes não homologados, resultando num aumento de potência superior a 20% nomeadamente possuía XXXX Kw de potência. A potência foi aferida em dinamómetro no decurso da inspeção extraordinária com a ficha n.º XXXXXXXXXX nos termos do Despacho DGV n.º 15661/2003 de 03JUN, tendo o mesmo sido REPROVADO. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-042",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Substituição de centralinas - ecu",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo automóvel na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da instalação de um dispositivo eletrónico, denominado Hondata S300, que se destinou à substituição da ECU original do veículo com a capacidade de alterar os mapas de injeção do veiculo, aumentando assim a injeção de combustível assim como o Binário [Nm] e a potência [kW], interferindo nas emissões de CO2 e NOx do veículo, não existe no SIVH do IMT, IP qualquer menção a este sistema instalado no veículo, possibilitando a reprogramação do mesmo em qualquer momento. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo, A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010, já que torna possível a interferência a manipulação da ECU do veículo por entidades não reconhecidas."
+    },
+    {
+      "id": "ALT-043",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Instalação modulo reprogramavel",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria motociclo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da instalação de um dispositivo eletrónico, denominado Hondata Flashpro, que se destinou à substituição da ECU original do veículo com a capacidade de alterar os mapas de injeção do veiculo, aumentando assim a injeção de combustível assim como o Binário [Nm] e a potência [kW], interferindo nas emissões de CO2 e NOx do veículo, não existe no SIVH do IMT, IP qualquer menção a este sistema instalado no veículo, possibilitando a reprogramação do mesmo em qualquer momento. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010, já que torna possível a interferência a manipulação da ECU do veículo por entidades não reconhecidas."
+    },
+    {
+      "id": "ALT-044",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Instalação de box de aumento de potência",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da instalação de uma Box de Aumento de Potência na bomba injetora do veículo, possibilitando introduzir mais combustível fazendo aumentar o Binário [Nm] e a potência [kW], interferindo nas emissões de CO2 e NOx do veículo. Não cumprindo o disposto no Ofício IMTT Nº2276/2001, de 27 SET. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-045",
+      "grupo": "Ligeiros",
+      "categoria": "Habitáculo / comandos",
+      "titulo": "Montagem de manometros",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via publica utilizando componentes e acessórios que não tenham sido legalmente aprovados. O referido veículo possuía instalados mostradores, designadamente XX, destinados a ser acionadas automaticamente ligados ao sistema elétrico do veículo que demonstram o estado da Temperatura do Óleo / Pressão de Turbo / Temperatura do Motor referentes assim ao funcionamento do veículo ou de um subsistema do veículo. Concretamente estes reportam-se ao estado da Temperatura do Óleo / Pressão de Turbo / Temperatura do Motor. Os mesmos não possuíam marca de homologação CE. Não dispunham de identificação, nem o seu fabricante usou um símbolo da sua própria conceção. Esse símbolo poderia incluir indicações alfabéticas ou numéricas internacionalmente reconhecidas. Todos os símbolos usados devem seguir os princípios de conceção estabelecidos no ponto 4 da norma ISO 2575:2004. Conjugado com o Regulamento UNECE 121. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-046",
+      "grupo": "Ligeiros",
+      "categoria": "Habitáculo / comandos",
+      "titulo": "Montagem de pedais metálicos",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo possui instalado 3 pedais com superfície metálica, no acelerador embraiagem e travão, destinados a ser acionados durante a condução e a permitir ao condutor controlar o veículo, nomeadamente a aceleração, travagem e mudança de engrenagem, sem que dispusessem de marca de homologação comunitária facilmente visível e sem disporem de superfície em borracha destinada a aumentar a sua aderência ao pé do condutor aquando da sua pressão, sendo suscetível de perigar para a segurança rodoviária, e sem terem sido submetidos a homologação individual dos componentes e do veículo para a sua instalação já que não foi objeto de homologação com estes componentes. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-047",
+      "grupo": "Ligeiros",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de kit de aumento de potência – nitro",
+      "infracao": true,
+      "codigos": [
+        "1.86.115.02.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado com combustível utilizado GASOLINA/GASOLEO, tendo sido instalado um sistema no motor, efetuava a mistura de um componente não autorizado no combustível, nomeadamente do Gás Nitrogénio NO2, criando um combustível híbrido sem qualquer aprovação e homologação para uso fora de estrada. O sistema era constituído por uma botija, respetivo botão de acionamento e mangueiras de transporte e mistura de gás com o combustível ligadas ao motor. Destina-se a reduzir a temperatura das partículas de oxigénio na mistura de combustível e por consequência aumenta o espaço na camara de combustão para um maior número de partículas de oxigénio o que faz aumentar o Binário [Nm] e a potência [kW]. Não cumprindo o disposto no Ofício IMTT Nº2276/2001, de 27 SET. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-048",
+      "grupo": "Ligeiros",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Remoção das anteparas em ligeiros de mercadorias (matriculados após 03/03/1997) (substituição por rede de nylon)",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01",
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o veículo matriculado após 03/03/1997 de categoria ligeiro de mercadorias sem homologação CE, foi intervencionado tendo sido removida Antepara situada no Pilar B que separa o habitáculo do veículo da sua zona de carga, podendo causar perigo para os ocupantes do veículo / Antepara não regulamentar não cumprindo o disposto no Nº1 do Despacho Nº21196/2003 do IMT. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "notas": [
+        "Os veículos ligeiros de mercadoria SEM HOMOLOGAÇÃO CE devem estar equipados com painel de separação / antepara nos termos do Despacho 21196/2003, que estabelece apenas para efeito de homologação nacional de modelo de veículo,",
+        "Para os veículos ligeiros de mercadorias COM HOMOLOGAÇÃO CE (Categoria N1) não está estabelecida qualquer exigência relativa à instalação de painéis de separação."
+      ]
+    },
+    {
+      "id": "ALT-049",
+      "grupo": "Ligeiros",
+      "categoria": "Travagem",
+      "titulo": "Montagem de sistema de travão de competição",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX, foi homologado com um sistema de travagem de estacionamento ( travão de mão) com funcionamento mecânico conforme previsto no DL 195/2000, de 22 de agosto, e à data circulava com um sistema de travagem de estacionamento destinado apenas a veículos de competição, o referido sistema de travagem constituído por uma alavanca agregada a um sistema hidráulico para acionar os sistemas de travagem do eixo posterior do veículo, não continha qualquer marca ou elemento de homologação CE. Após a instalação do referido sistema de travagem, o veículo não foi sujeito a qualquer tipo de ensaio de travagem para a sua homologação. Não existe no SIVH do IMT, IP, menção a este sistema instalado no veículo. Verificou-se também que não se trata de uma avaria no sistema de travagem, pois a referida alteração foi feita pelo / com conhecimento do proprietário. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-050",
+      "grupo": "Ligeiros",
+      "categoria": "Travagem",
+      "titulo": "Montagem de travão de disco",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX, foi homologado com um sistema de travagem à retaguarda/frente de tambor conforme previsto no DL 195/2000, funcionando através das sapatas que quando impulsionadas exercem pressão sobre uma superfície giratória (tambor), passando a possuir travagem com calços e discos, substituindo as sapatas por calços e o tambor por discos metálicos. Após a instalação do referido sistema de travagem, o veículo não foi sujeito a qualquer tipo de ensaio de travagem para a sua homologação. Não existe no SIVH do IMT, IP, menção a este sistema instalado no veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-051",
+      "grupo": "Ligeiros",
+      "categoria": "Habitáculo / comandos",
+      "titulo": "Montagem de short shift",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem, de forma fixa e inamovível uma Unidade Técnica não aprovada no sistema de caixa de velocidades, destinada a reduzir o percurso que a alavanca de velocidades tem de percorrer entre troca de engrenagens, sem que ostente qualquer marca de homologação bem visível no componente, não tendo o veículo sido aprovado com o referido sistema aquando da homologação nacional, pelo IMT, IP, concretamente sem ter sido submetido a homologação individual. O mesmo encontra-se ligado e instalado entre o manipulo de troca de engrenagens e a caixa de velocidades, influenciando o comportamento do condutor e a sua condução. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-052",
+      "grupo": "Ligeiros",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Montagem de aro de segurança interior - roll bar",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem de uma estrutura interior especificamente construída para se instalar dentro / fora de veículos destinados à competição, vulgarmente conhecida por ROLL BAR ou ROLL CAGE (sem estar averbado no DUA do veículo) e sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-053",
+      "grupo": "Ligeiros",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Remoção do sistema de limpa-para-brisas traseiro",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da remoção do sistema de limpa para-brisas traseiro na sua totalidade, não sendo os vidros totalmente opacos. Apos a remoção do sistema de limpa para-brisas traseiro foi colocada uma tampa no orifício do vidro da retaguarda do veículo. Verificou-se também que não se trata de uma avaria no sistema, pois a referida alteração foi feita pelo / com conhecimento do proprietário, não cumprindo o disposto no anexo I do Regulamento (CE) Nº 661-2009, carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "notas": [
+        "A remoção do sistema de Limpa-Para-Brisas Traseiro só é possível quando o vidro é totalmente opaco."
+      ]
+    },
+    {
+      "id": "ALT-054",
+      "grupo": "Ligeiros",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Remoção dos apoios de cabeça dos bancos",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da remoção dos apoios de cabeça dos Bancos, podendo assim causar perigo para os seus ocupantes. A referida alteração não cumpre o disposto no Artº13, Secção II do Capítulo II do Anexo ao DL º 336/2007 de 11 de outubro, carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-055",
+      "grupo": "Ligeiros",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Montagem de bancos tipo backets",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem de bancos (backets) (não de origem), não permitindo a sua regulação longitudinal / vertical / angular. Não cumprido o disposto no Artº17, Secção II do Capítulo III do Anexo ao DL º 336/2007 de 11 de outubro. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-056",
+      "grupo": "Ligeiros",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Montagem de dispositivo engate gancho de reboque",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com cujas características não confiram com as mencionadas no documento que o identifica com o número XXX, o veículo circula com um dispositivo engate de reboque sem o respetivo averbamento no certificado de matrícula “Peso Bruto Rebocável xxx”. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-057",
+      "grupo": "Ligeiros",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Cor divergente do documento único automóvel",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com cujas características não confiram com as mencionadas no documento que o identifica com o número XXX, (descrever as cores do veículo). A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-058",
+      "grupo": "Ligeiros",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Medidas dos pneumáticos divergentes do documento único automóvel",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com cujas características não confiram com as mencionadas no documento que o identifica com o número XXX, (Pneumáticos com medida XXX/XX/RXX ). A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-059",
+      "grupo": "Ligeiros",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Medidas dos pneumáticos averbadas, excedendo os contornos envolventes do veículo",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "O veículo circula na via pública com caraterísticas diferentes das que se encontram mencionadas no documento de identificação de veículo, nomeadamente possui instalados pneumáticos de medida XXXX/XXRXX, que apesar de se encontrarem averbadas no respetivo documento de identificação de veículo no campo dos pneumáticos, ou anotações especiais nem nos elementos de homologação disponibilizados pelo SIVH/IMT, os mesmos excedem os contornos envolventes do veículo à RETAGUARDA/FRENTE em cerca de XX, em razão do Offset (ET) da jante atual, nomeadamente a distância em mm entre o eixo da jante à platina de fixação da jante (de fixação sobre o cubo da roda), ser inferior às jantes homologadas para a largura entre eixos deste veículo. Conjugado com Despacho DGV n.º 33/96 de 11 de outubro. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-060",
+      "grupo": "Ligeiros",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Remoção de lettering da marca do veículo",
+      "infracao": false,
+      "porque": "Não há infração, os veículos apenas são identificados segundo os seguintes elementos: número de quadro, número de matrícula e chapa de matrícula."
+    },
+    {
+      "id": "ALT-061",
+      "grupo": "Ligeiros",
+      "categoria": "Venda / transformação de veículos",
+      "titulo": "Alienação de veículos modificados",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.04.01",
+        "1.86.114.04.02"
+      ],
+      "responsavel": "Vendedor",
+      "auto": "O arguido procedeu a colocação na via pública do veículo em apreço infringindo as normas de colocação em circulação e homologação nomeadamente o mesmo vendeu ao atual proprietário no estado em que se encontra, concretamente possuía instalados COMPONENTES/SISTEMAS/ACESSÓRIOS não homologados, designadamente: XXXXXXxXXcXcxXX de acordo com os autos xxxxxxxxx elaborados ao proprietário do veículo atual. Os componentes não apresentavam marca de homologação comunitária / apresentava, mas não foi sujeito a homologação individual na medida em que altera as caraterísticas construtivas do veículo, sendo que antes de proceder à venda e recolocação na via pública do veículo deveria ter procedido à sua sujeição a homologação individual pelo IMT, IP. Conjugado c/ DL16/2010 (automóvel) DL86-A/2010 (moto)"
+    },
+    {
+      "id": "ALT-062",
+      "grupo": "Ligeiros",
+      "categoria": "Venda / transformação de veículos",
+      "titulo": "Modificação de veículos",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.04.01",
+        "1.86.114.04.02"
+      ],
+      "responsavel": "“Mecânico”",
+      "auto": "O arguido procedeu a colocação na via pública do veículo em apreço infringindo as normas de colocação em circulação e homologação nomeadamente o mesmo RETIROU/INSTALAOU COMPONENTES/SISTEMAS/ACESSÓRIOS não homologados / procedeu à intervenção e reprogramação da Unidade de Controlo de Veículo - ECU sem autorização do fabricante, designadamente: XXXXXXxXXcXcxXX de acordo com os autos xxxxxxxxx elaborados ao proprietário do veículo atual. A transformação ocorreu à revelia do IMT, IP e sem ter sido submetido a homologação individual nos termos do DL16/2010 (automove) DL86-A/2010 (moto)"
+    },
+    {
+      "id": "ALT-063",
+      "grupo": "Pesados de mercadorias",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Montagem de kit bull bar – “mata vacas”",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem de dispositivo Frontal Kit Bull Bar – vulgo chamado de “Mata Vacas”, constituindo no entanto um risco para a segurança dos peões e de outros utentes da estrada em caso de colisão, o mesmo é feito em tubo metálico e aplicado na frente do veículo, o veiculo não foi homologado com o mesmo aquando da comercialização, o sistema em apreço possuía o numero de homologação XXX / não possuía qualquer marca de homologação CE não cumprindo o disposto no Nº1 do ARTº 13 do DL 32/2007, de 17 de fevereiro. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-064",
+      "grupo": "Pesados de mercadorias",
+      "categoria": "Escape / emissões",
+      "titulo": "Instalação de sistema inibidor de abblue",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "O veículo designado, foi homologado posteriormente a 01/01/2013, tendo com data de 1.ª matrícula posteriormente a 01/01/2014, encontrando-se como tal sujeito ao cumprimento da Norma Euro 6, possuindo instalado um Acessório não homologado, que se destina a inibir o uso do AdBlue no conector OBD do veículo, aumentando assim as emissões de NOx do veículo com os quais foi homologado. Conjugado com o Dec – Lei n.º 16/2010. Junta-se fotograma. No reservatório de AdBlue do veículo encontrava-se vazio à data. O objeto foi apreendido nos termos do n.º 4 do art.º 114.º do CE sendo entregue na ANSR com o presente auto…"
+    },
+    {
+      "id": "ALT-065",
+      "grupo": "Pesados de mercadorias",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de válvula de escape “bypass” interna",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, possuindo instalada de forma fixa e inamovível uma Unidade Técnica não aprovada no Sistema de Escape. Concretamente uma válvula de escape (bypass) que desviava os gazes e ruido do seu trajeto normal até ao silenciador final através da ligação de dois segmentos. A válvula é ativada através de um comando instalado no interior da cabine, que quando acionada altera o normal rumo dos gases de escape, fazendo com que estes circulem por um outro circuito, que não o da catalisação, possibilitando a emissão de uma maior quantidade de gases (CO2). O veículo não homologado com a mesma, aumentando o ruído e o escape de gases lançados para a atmosfera pela combustão do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL 19/2009."
+    },
+    {
+      "id": "ALT-066",
+      "grupo": "Pesados de mercadorias",
+      "categoria": "Iluminação",
+      "titulo": "Instalação de sistema de iluminação",
+      "infracao": true,
+      "codigos": [
+        "1.86.059.01.03"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública a fazer utilização de dispositivo de iluminação que não está legalmente previsto ou não obedeça as características ou modo de instalação legalmente fixados. O veículo circulava na via publica sendo que na parte superior/ inferior da zona anterior da cabine tinha um tubo modelar fixado e na qual tinha X faróis de longo alcance destapados e sendo utilizados em simultâneo com as luzes de cruzamento, não cumprindo o disposto na portaria 851 / 94 de 22 de setembro e no ponto 6.1.2 do Regulamento UNECE Nº48, publicado no Jornal Oficial da UE em 16 de janeiro de 2019.",
+      "notas": [
+        "Luzes de estrada (Máximos) – a luz que serve para iluminar a estrada a uma grande distancia para a frente do veículo devendo emitir um feixe luminoso que atinja pelo menos 100 metros. São admitidos 4 faróis no máximo por veículo com exceção dos veículos N3 para os quais são admitidos 6 faróis, nunca podendo ser atuados mais que dois pares e simultâneo."
+      ]
+    },
+    {
+      "id": "ALT-067",
+      "grupo": "Pesados de mercadorias",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Montagem de dispositivos aerodinâmicos",
+      "infracao": false,
+      "porque": "Não há infração, conforme regulamento de execução (ue) 2019/1916 da comissão de 15 de novembro de 2019 e decreto- lei nº132/2017"
+    },
+    {
+      "id": "ALT-068",
+      "grupo": "Todo-o-terreno",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Montagem de guincho",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da aplicação de um sistema de guincho (sem estar averbado no DUA do veículo) e sem marca de homologação nacional ou comunitária visível, com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional. O mesmo implicou a modificação do seu para-choques frontal para permitir a fixação à estrutura frontal da carroçaria do veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-069",
+      "grupo": "Todo-o-terreno",
+      "categoria": "Admissão",
+      "titulo": "Montagem de snorkel",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, nomeadamente através da alteração do sistema de admissão do motor com a instalação de um componente do tipo \"Snorkel\" (sem estar averbado no DUA do veículo) e sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional. O mesmo implicou a sua fixação à estrutura exterior da carroçaria do veículo, junto ao Pilar A do veículo voltado para a parte frontal. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-070",
+      "grupo": "Todo-o-terreno",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Montagem de aro de segurança - roll bar",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem de uma estrutura exterior especificamente construída para se instalar dentro / fora de veículos destinados à competição, vulgarmente conhecida por ROLL BAR ou ROLL CAGE (sem estar averbado no DUA do veículo) e sem marca de homologação nacional ou comunitária visível, e com o qual o veículo não foi homologado aquando da sua colocação em circulação em território nacional. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-071",
+      "grupo": "Todo-o-terreno",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Montagem de kit bull bar – “mata vacas",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da montagem de dispositivo Frontal Kit Bull Bar– vulgo chamado de “Mata Vacas”, constituindo no entanto um risco para a segurança dos peões e de outros utentes da estrada em caso de colisão, o mesmo é feito em tubo metálico e aplicado na frente do veículo, o veiculo não foi homologado com o mesmo aquando da comercialização, o sistema em apreço possuía o numero de homologação XXX / não possuía qualquer marca de homologação CE não cumprindo o disposto no Nº1 do ARTº 13 do DL 32/2007, de 17 de fevereiro. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-072",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Remoção de espelhos retrovisores - motociclos",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria motociclo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da remoção dos dois Espelhos retrovisores, não cumprindo o disposto no n.º 1 Art.º 136º e 4.1 do Anexo XXXII, do Regulamento Aprov. p/ DL 86-A/2010, 15JUL alterado p/ Decreto- Lei n.º 139/2014, de 15SET, A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "notas": [
+        "Número mínimo de espelhos retrovisores 3 — Sempre que seja montado um único espelho retrovisor exterior, este fica situado no lado esquerdo do veículo. (…) 4 — O número mínimo de espelhos retrovisores a instalar em veículos são os seguintes: 4.1 — Para veículos sem carroçaria, a que se refere o n.º 1 do artigo 136.º do presente Regulamento: Categoria do Veículo Número de espelhos (Classe L) Ciclomotor 1 Motociclo 2 Triciclo 2"
+      ]
+    },
+    {
+      "id": "ALT-073",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Motor / potência",
+      "titulo": "Remoção de espelhos retrovisores - ciclomotores",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria ciclomotor na via pública com alteração das características construtivas com que foi aprovado, o mesmo não dispõe de um único espelho retrovisor por ter sido removido, não cumprindo o disposto no n.º 1 Art.º 136º e 4.1 do Anexo XXXII, do Regulamento Aprov. p/ DL 86-A/2010, 15JUL alterado p/ Decreto-Lei n.º 139/2014, de 15SET. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-074",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de linha de escape com marca de homoloção",
+      "infracao": false,
+      "porque": "Não há infração, desde que a mesma contenha marca de homologação e possua o silenciador, vulgo “dbkiller”, conforme previsto no dl nº19/2009, de 15 jan",
+      "notas": [
+        "É admissível a substituição / montagem de Panelas de Escape de “Rendimento” desde que as mesmas contenham marca de homologação CE/CEE"
+      ]
+    },
+    {
+      "id": "ALT-075",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Escape / emissões",
+      "titulo": "Montagem de linha direta de escape",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria motociclo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da remoção silenciador (DBKILLER) do sistema de escape, utilizando assim linha direta de escape da marca X (marca do escape) aumentando assim as emissões de CO, NO2 e HC, e ruido do mesmo, não cumprindo o disposto no N.º 7 Art.º 210º e Al’ I Nº1 do Anexo, do Regulamento Aprov. p/ DL 86- A/2010, 15JUL alterado p/ Decreto-Lei n.º 139/2014, de 15SET. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010. Infração conjugada com o DL19/2009."
+    },
+    {
+      "id": "ALT-076",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de quickshifter",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria motociclo na via pública com alteração das características construtivas com que foi aprovado, o mesmo com n.º de Homologação Nacional XXXXXXXXXXX, foi homologado com caixa de velocidades \"Manual\", a qual implica o acionamento de embraiagem e acelerador, e à data circulava com um sistema denominado \"quickshifter\" BIDIRECIONAL/UNIDIRECIONAL, composto por um mecanismo, um sensor, e microprocessador, instalado no motor do veiculo na sua Centralina e caixa de velocidades. Este transforma a caixa de velocidades de manual para algo semelhante a \"semiautomática\", permitindo a mudança de velocidades sem recurso à embraiagem e acelerador antes e depois da mudança de velocidades, recorrendo apenas ao seletor de engrenagens, não existe no SIVH do IMT, IP qualquer menção a este sistema instalado no veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-077",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de turbo em motor atmosférico",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi homologado com o motor aspirado naturalmente, tendo sido intervencionado e instalado um Turbocompressor no motor, fazendo com que o mesmo passe a ser sobrealimentando, alterando o motor, a potência e emissões de CO2 através da introdução de um volume de ar comprimido na mistura de combustível do veículo o que faz aumentar o Binário [Nm] e a potência [kW] aquando da sua sobrealimentação. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-078",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Motor / potência",
+      "titulo": "Montagem de power commander",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria motociclo na via pública com alteração das características construtivas com que foi aprovado, o mesmo foi intervencionado através da instalação de um dispositivo eletrónico denominado POWER COMMANDER, interligado com um modulo denominado “AUTOTUNE”/”IGNITION MODULE” da marca DYNOJET, o mesmo é ligado na bomba injetora do veículo, com a capacidade de alterar os mapas de injeção do veiculo, aumentando a injeção de combustível assim como o Binário [Nm] e a potência [kW], interferindo nas emissões de CO2 e NOx do veículo, não existe no SIVH do IMT, IP qualquer menção a este sistema instalado no veículo. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-079",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Remoção do banco do passageiro",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria motociclo na via pública com cujas características não confiram com as mencionadas no documento que o identifica com o número XXX, o veículo foi aprovado com n.º de Homologação Nacional XXXXXXXXXXX, nos seus elementos de homologação dispõe a lotação de 2 lugares, fixos. Sendo que no momento da fiscalização não dispõe de banco para o passageiro em virtude de ter sido removido e substituído por uma tampa. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "notas": [
+        "O IMT-IP sobre a presente infração prenunciou-se do seguinte modo : “A homologação nacional atribuida pelo representante da marca a este veículo (Suzuki Hayabusa), não contempla a possibilidade do veículo apresentar lotação 1. Este veículo tem a lotação 2, fixa.”"
+      ]
+    },
+    {
+      "id": "ALT-080",
+      "grupo": "Motociclos e ciclomotores",
+      "categoria": "Carroçaria / acessórios / documentos",
+      "titulo": "Montagem de malas / top case",
+      "infracao": false,
+      "porque": "Não há infração, a instalação de malas em motociclos não carece de averbamento no documento único."
+    },
+    {
+      "id": "ALT-081",
+      "grupo": "Tratores e máquinas agrícolas",
+      "categoria": "Iluminação",
+      "titulo": "Avisador luminoso especial de cor amarela",
+      "infracao": true,
+      "codigos": [
+        "1.90.023.04.03"
+      ],
+      "responsavel": "Condutor",
+      "auto": "Trânsito de veículo de categoria Trator Agrícola /Máquina Industrial na via pública sem fazer utilização de dispositivo de iluminação que está legalmente previsto, mais concretamente o mesmo circulava na via pública não estando equipado com avisador luminoso especial. O serviço que realiza destina-se a parar e deslocar-se em marcha lenta na via publica. Trânsito de veículo de categoria Trator Agrícola / Máquina Industrial na via pública estando equipado com avisador luminoso especial e estando este em boas condições de funcionamento, no entanto o condutor não fazia o seu uso. O serviço que realiza destina-se a parar e deslocar-se em marcha lenta na via publica com referência ao n.º 4 do artigo 23º do CE e ao n.º 1 do art.º 5 da Portaria 311-C/2005, de 24 março."
+    },
+    {
+      "id": "ALT-082",
+      "grupo": "Tratores e máquinas agrícolas",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Estrutura de segurança – falta de utilização",
+      "infracao": true,
+      "codigos": [
+        "1.90.082.06.01"
+      ],
+      "responsavel": "Condutor",
+      "auto": "Trânsito de veículo de categoria Trator Agrícola /Máquina Industrial na via pública sem utilização da estrutura de proteção em caso de capotagem, sendo que o veículo trator possuía instalada a estrutura de proteção (arco de santo António), no entanto a mesma encontrava-se rebatida. Com referência ao à Al) B n.º 5 e nº 2 Art. 23º DL 50/2005, 25FEV."
+    },
+    {
+      "id": "ALT-083",
+      "grupo": "Tratores e máquinas agrícolas",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Estrutura de segurança – homologada sem averbamento",
+      "infracao": true,
+      "codigos": [
+        "1.86.118.10.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo de categoria Trator Agrícola /Máquina Industrial na via pública, com data de 1.º matrícula XX-XX-XXXX, ou seja anterior a 01JAN94, com as suas caraterísticas diferentes das mencionadas no certificado de matricula, nomeadamente possui instalada uma estrutura de proteção (Arco de Santo António), fixado de forma permanente ao chassis do trator que ostenta marca de homologação no entanto não foi averbada no certificado de matrícula e consequentemente no SIVH do IMT, IP. O processo de alteração ocorreu sem qualquer homologação do IMT, IP, e à sua revelia. Conjugado com a al. b), n.º 1 e n.º 2 do art.º 23.º do DL 50/2005."
+    },
+    {
+      "id": "ALT-084",
+      "grupo": "Tratores e máquinas agrícolas",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Estrutura de segurança – não homologada",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.02"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo de categoria Trator Agrícola /Máquina Industrial na via pública, com data de 1.º matrícula XX-XX-XXXX, ou seja anterior a 01JAN94, circula na via publica com as suas caraterísticas alteradas, nomeadamente foi instalado uma estrutura de proteção (Arco de Santo António), fixado de forma permanente ao chassis do trator, no entanto esta não apresenta qualquer marca de homologação que seja visível de forma bem clara nem foi sujeito a homologação individual pelo IMT, IP. O processo de alteração ocorreu sem qualquer homologação do IMT, IP, e à sua revelia. Conjugado com a al. b), n.º 1 e n.º 2 do art.º 23.º do DL 50/2005. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-085",
+      "grupo": "Tratores e máquinas agrícolas",
+      "categoria": "Segurança / habitáculo",
+      "titulo": "Estrutura de segurança – remoção",
+      "infracao": true,
+      "codigos": [
+        "1.86.114.05.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo de categoria Trator Agrícola /Máquina Industrial na via pública, com data de 1.º matrícula XX-XX-XXXX, ou seja, posterior a 01JAN94,tendo sido removida a estrutura de proteção (Arco de Santo António). Foi consultado o SIVH do veículo sendo que se verificou que o mesmo foi homologado com a referida estrutura de proteção. O processo de alteração ocorreu sem qualquer homologação do IMT, IP, e à sua revelia. Conjugado com a al. b), n.º 1 e n.º 2 do art.º 23.º do DL 50/2005. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-086",
+      "grupo": "Autocaravanas",
+      "categoria": "Venda / transformação de veículos",
+      "titulo": "Transformação de veículos",
+      "infracao": true,
+      "codigos": [
+        "1.86.115.02.01"
+      ],
+      "responsavel": "Proprietário",
+      "auto": "Trânsito de veículo da categoria ligeiro de mercadorias com transformação das características construtivas com que foi aprovado, o referido veículo foi homologado para o transporte de pessoas e mercadorias com caixa fechada. Na data da fiscalização verificou se ocorreu uma intervenção destinada a transformar a caixa do veículo e que este se destina a ser utilizado como habitação / turismo. Na caixa de carga foram instalados de forma inamovível Bancos com mesa; Um espaço para dormir; Equipamentos de cozinha; Instalações de armazenamento; Reservatórios independentes para águas limpas e residuais. O sobredito veículo não continha inscrito no seu Documento Único Automóvel qualquer anotação relativa a adaptação de espaço habitacional, não cumprindo assim o disposto na deliberação 291/2019 do IMT. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010."
+    },
+    {
+      "id": "ALT-087",
+      "grupo": "Autocaravanas",
+      "categoria": "Venda / transformação de veículos",
+      "titulo": "Transformação de veículos",
+      "infracao": false,
+      "auto": "Trânsito de veículo da categoria ligeiro de mercadorias com transformação das características construtivas com que foi aprovado, o referido veículo foi homologado para o transporte de pessoas e mercadorias com caixa fechada. Na data da fiscalização verificou se ocorreu uma intervenção destinada a transformar a caixa do veículo e que este se destina a ser utilizado como habitação / turismo, implicando assim a sua reclassificação e atualização do Imposto Sobre Veículos na Autoridade Tributária e Aduaneira, tendo o mesmo sido introduzido irregularmente no consumo desta forma, porquanto circulava nestes termos. Na caixa de carga foram instalados de forma inamovível Bancos com mesa; Um espaço para dormir; Equipamentos de cozinha; Instalações de armazenamento; Reservatórios independentes para águas limpas e residuais. O sobredito veículo não continha inscrito no seu Documento Único Automóvel qualquer anotação relativa a adaptação de espaço habitacional, não cumprindo assim o disposto na deliberação 291/2019 do IMT. Salienta-se que a presente alteração constitui transformação de veículo, implicando reclassificação fiscal em razão de se tratar de alteração de fatores geradores de imposto. A referida alteração carece de aprovação do IMT, IP e procedimento de homologação individual do veículo conforme previsto no DL 16/2010.",
+      "tipo": "auto aduaneiro"
+    }
+  ]
+}
