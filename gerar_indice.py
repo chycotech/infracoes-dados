@@ -201,12 +201,26 @@ def main():
 
     # Carimbo dos dados: muda sempre que o conteudo muda, para a app saber que
     # tem de voltar a descarregar. Nada a ver com a versao da aplicacao.
-    corpo = json.dumps(indice, ensure_ascii=False, sort_keys=True).encode('utf-8')
+    #
+    # Conta o conteudo de TODOS os ficheiros de dados, e nao so do indice.
+    # Ficheiros como habilitacao.json, temas.json ou procedimentos.json nao sao
+    # indexaveis — nao tem codigos para pesquisar — mas o seu conteudo aparece
+    # na app. Enquanto o carimbo saia so do indice, corrigir um pais ou um tema
+    # nao muda o carimbo, a app nao volta a descarregar e a correcao fica
+    # invisivel no telemovel. Foi exactamente isso que aconteceu.
+    digest = hashlib.sha256()
+    digest.update(json.dumps(indice, ensure_ascii=False, sort_keys=True).encode('utf-8'))
+    dados_todos = sorted(f for f in pasta.glob('*.json')
+                         if f.stem not in ('indice', 'versao-dados'))
+    for f in dados_todos:
+        digest.update(f.name.encode('utf-8'))
+        digest.update(f.read_bytes())
     carimbo = {
         'gerado': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-        'impressao': hashlib.sha256(corpo).hexdigest()[:12],
+        'impressao': digest.hexdigest()[:12],
         'entradas': len(indice),
         'ficheiros': {f.name: sum(1 for e in indice if e['f'] == f.stem) for f in ficheiros},
+        'nao_indexados': [f.name for f in dados_todos if f.stem in IGNORAR],
     }
     (pasta / 'versao-dados.json').write_text(
         json.dumps(carimbo, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
