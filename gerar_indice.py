@@ -28,6 +28,7 @@ ROTULOS = {
     'complegis':     'Legislação complementar',
     'tacografos':    'Tacógrafos',
     'taxis':         'Táxis',
+    'tvde':          'TVDE',
     'fisctecnica':   'Fiscalização técnica',
     'alcoolemia':    'Alcoolemia',
     'easypark':      'EasyPark',
@@ -42,7 +43,7 @@ ROTULOS = {
 # versao-dados e o carimbo escrito por este script; alcoolemia e a tabela de
 # numeros, que nao faz sentido pesquisar.
 IGNORAR = {'indice', 'sinonimos', 'versao-dados', 'alcoolemia', 'remunerados', 'fiscalizacao', 'habilitacao',
-           'legislacao', 'procedimentos', 'temas',
+           'legislacao', 'procedimentos', 'temas', 'alteracoes',
            'package', 'package-lock', 'manifest', 'config', 'tsconfig'}
 
 TAM_TITULO = 110
