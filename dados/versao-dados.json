@@ -1,9 +1,8 @@
 {
-  "gerado": "2026-10-20T22:08:49Z",
+  "gerado": "2026-10-28T00:22:41Z",
   "impressao": "eddf87fdde07",
   "entradas": 2914,
   "ficheiros": {
-    "alteracoes.json": 0,
     "animais.json": 40,
     "atalhos.json": 0,
     "complegis.json": 29,
@@ -21,6 +20,7 @@
   },
   "nao_indexados": [
     "alcoolemia.json",
+    "alteracoes.json",
     "fiscalizacao.json",
     "habilitacao.json",
     "legislacao.json",
