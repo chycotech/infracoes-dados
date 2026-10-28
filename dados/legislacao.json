@@ -5,19 +5,73 @@
       "n": "01",
       "chave": "codigo-da-estrada",
       "titulo": "Código da Estrada",
-      "desc": "Regras de circulação, prioridades, velocidade, estacionamento, ultrapassagens e contraordenações."
+      "desc": "Regras de circulação, prioridades, velocidade, estacionamento, ultrapassagens e contraordenações.",
+      "subs": [
+        {
+          "n": "01.1",
+          "chave": "ce-diplomas",
+          "titulo": "Diplomas",
+          "desc": "Decreto-Lei n.º 114/94, de 3 de maio, e os diplomas que o alteraram."
+        },
+        {
+          "n": "01.2",
+          "chave": "ce-sebenta",
+          "titulo": "Sebenta",
+          "desc": "Sebentas e compilações de apoio ao Código da Estrada."
+        }
+      ]
     },
     {
       "n": "02",
       "chave": "sinalizacao-rodoviaria",
-      "titulo": "Sinalização Rodoviária",
-      "desc": "Regulamento de Sinalização do Trânsito, sinais verticais, marcas rodoviárias, sinais luminosos e temporários."
+      "titulo": "R.S.T. — Regulamento de Sinalização do Trânsito",
+      "desc": "Regulamento aprovado pelo Decreto Regulamentar n.º 22-A/98, de 1 de outubro: sinais verticais, marcas rodoviárias, sinalização luminosa e temporária.",
+      "subs": [
+        {
+          "n": "02.1",
+          "chave": "rst-diplomas",
+          "titulo": "Diplomas",
+          "desc": "Decreto Regulamentar n.º 22-A/98, de 1 de outubro, e as suas três alterações."
+        },
+        {
+          "n": "02.2",
+          "chave": "rst-sebenta",
+          "titulo": "Sebenta",
+          "desc": "Sebentas e compilações de apoio ao Regulamento de Sinalização do Trânsito."
+        }
+      ]
     },
     {
       "n": "03",
       "chave": "habilitacao-legal-para-conduzir",
       "titulo": "Habilitação Legal para Conduzir",
-      "desc": "Categorias, cartas de condução, licenças, validade, renovação, restrições e troca de títulos, nacionais e estrangeiros."
+      "desc": "Categorias, cartas de condução, licenças, validade, renovação, restrições e troca de títulos, nacionais e estrangeiros.",
+      "subs": [
+        {
+          "n": "03.1",
+          "chave": "hlc-diplomas",
+          "titulo": "Diplomas",
+          "desc": "Regulamento da Habilitação Legal para Conduzir e os diplomas que o alteraram."
+        },
+        {
+          "n": "03.2",
+          "chave": "hlc-convencoes",
+          "titulo": "Convenções e equivalências",
+          "desc": "As duas convenções internacionais a que remete o artigo 125.º n.º 1 al. d) do Código da Estrada, e as equivalências entre categorias."
+        },
+        {
+          "n": "03.3",
+          "chave": "hlc-agricolas",
+          "titulo": "Veículos agrícolas",
+          "desc": "Habilitação e formação obrigatória para a condução de tratores e máquinas agrícolas."
+        },
+        {
+          "n": "03.4",
+          "chave": "hlc-sebenta",
+          "titulo": "Sebenta",
+          "desc": "Sebentas e compilações de apoio aos títulos de condução."
+        }
+      ]
     },
     {
       "n": "04",
