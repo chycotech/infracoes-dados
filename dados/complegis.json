@@ -3,25 +3,25 @@
     "titulo": "Sebenta do Código da Estrada",
     "desc": "Chefe Pereira",
     "url": "https://drive.google.com/file/d/12qtebH5XrUw1Bb38dSXvBZ73oh0RjN-4/view?usp=sharing",
-    "secao": "Código da Estrada"
+    "secao": "ce-sebenta"
   },
   {
     "titulo": "Código da Estrada DR",
     "desc": "DL n.º 114/94 de 3 de maio — versão consolidada",
     "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-116041830",
-    "secao": "Código da Estrada"
+    "secao": "ce-diplomas"
   },
   {
     "titulo": "Código da Estrada Faro",
     "desc": "DL n.º 114/94 de 3 de maio — versão consolidada",
     "url": "https://drive.google.com/file/d/1EmyLH1IyNWl0jmjijDTMgyzU0EGVimR4/view?usp=drive_link",
-    "secao": "Código da Estrada"
+    "secao": "ce-diplomas"
   },
   {
     "titulo": "Código da Estrada DIV. Porto",
     "desc": "DL n.º 114/94 de 3 de maio — versão consolidada",
     "url": "https://drive.google.com/file/d/11KiGoMGi6N5t17NY18iaC_Z6B7bNmfJ3/view?usp=drive_link",
-    "secao": "Código da Estrada"
+    "secao": "ce-diplomas"
   },
   {
     "titulo": "Sebenta de Transporte Rodiviário de Passageiros",
@@ -51,37 +51,37 @@
     "titulo": "Código da Estrada (Pesos e Dimensões)",
     "desc": "Chefe Pereira",
     "url": "https://drive.google.com/file/d/1Bxw09iEc4Fc7BtgFS52YgbGvZrVeyM8y/view?usp=drive_link",
-    "secao": "Código da Estrada (Pesos e Dimensões)"
+    "secao": "ce-sebenta"
   },
   {
     "titulo": "Regulamento de Sinalização de Trânsito",
     "desc": "Chefe Pereira",
     "url": "https://drive.google.com/file/d/1F6ylv9OmSlF88Y_YFmjmAjGHtBI6m7ZZ/view?usp=sharing",
-    "secao": "R.S.T."
+    "secao": "rst-sebenta"
   },
   {
     "titulo": "Regulamento de Sinalização de Trânsito DR",
-    "desc": "DL n.º 22-A/98 de 1 de fevereiro",
+    "desc": "Decreto Regulamentar n.º 22-A/98, de 1 de outubro — versão consolidada",
     "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1998-260742",
-    "secao": "R.S.T."
+    "secao": "rst-diplomas"
   },
   {
     "titulo": "Sebenta Titulos de Condução",
     "desc": "Chefe Pereira",
     "url": "https://drive.google.com/file/d/14R9uu39-P3mraD_-WHPN5whUAS9k2iEl/view?usp=sharing",
-    "secao": "Habilitação"
+    "secao": "hlc-sebenta"
   },
   {
     "titulo": "Habilitação Legal para Conduzir DR",
     "desc": "DL n.º 138/2012 de 5 de julho, ultima alteração introduzida pelo Decreto- Lei 114/2026 de 8 de junho",
     "url": "https://data.dre.pt/eli/dec-lei/138/2012/p/cons/20260608/pt/html",
-    "secao": "Habilitação"
+    "secao": "hlc-diplomas"
   },
   {
     "titulo": "Esclarecimento relativo aos títulos de condução provisórios estrangeiros",
     "desc": "DL n.º 138/2012 de 5 de julho",
     "url": "https://drive.google.com/file/d/1CBwj0F22hE9Ij-StN98aQvPxJRBbHK1P/view?usp=sharing",
-    "secao": "Habilitação"
+    "secao": "hlc-diplomas"
   },
   {
     "titulo": "Seguro Automóvel Obrigatório DR",
@@ -149,7 +149,7 @@
     "url": "https://drive.google.com/drive/folders/1hxsYOO8lj1pfmoaqzKPL-GzC3__WMzI_?usp=drive_link",
     "secao": "SECÇÃO - LEGISLAÇÃO CHF. PEREIRA"
   },
-   {
+  {
     "titulo": "Transporte Rod. Mercadorias",
     "desc": "Documentação fiscalização técnica",
     "url": "https://drive.google.com/drive/folders/12yRWqjko1o03jPmKH9vJGXsIOo3nGMAa?usp=drive_link",
@@ -172,5 +172,95 @@
     "desc": "Portaria 422A-2021",
     "url": "https://drive.google.com/file/d/1P3s69YC8_FBfWl12G_LleO48gvFoRAzE/view?usp=sharing",
     "secao": "PSP"
+  },
+  {
+    "secao": "ce-diplomas",
+    "titulo": "Decreto-Lei n.º 114/94, de 3 de maio",
+    "desc": "Aprova o Código da Estrada — texto da publicação original.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659"
+  },
+  {
+    "secao": "rst-diplomas",
+    "titulo": "Decreto Regulamentar n.º 22-A/98, de 1 de outubro",
+    "desc": "Aprova o Regulamento de Sinalização do Trânsito.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974"
+  },
+  {
+    "secao": "rst-diplomas",
+    "titulo": "Decreto Regulamentar n.º 41/2002, de 20 de agosto",
+    "desc": "Primeira alteração ao Regulamento de Sinalização do Trânsito.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679"
+  },
+  {
+    "secao": "rst-diplomas",
+    "titulo": "Decreto Regulamentar n.º 6/2019, de 22 de outubro",
+    "desc": "Terceira alteração ao Regulamento de Sinalização do Trânsito, com republicação. A segunda foi o Decreto Regulamentar n.º 13/2003, de 26 de junho.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2019-125560578"
+  },
+  {
+    "secao": "rst-diplomas",
+    "titulo": "R.S.T. — versão consolidada",
+    "desc": "Regulamento de Sinalização do Trânsito com todas as alterações incorporadas.",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1998-169035729"
+  },
+  {
+    "secao": "hlc-diplomas",
+    "titulo": "R.H.L.C. — versão consolidada",
+    "desc": "Regulamento da Habilitação Legal para Conduzir, anexo ao Decreto-Lei n.º 138/2012, de 5 de julho. Sete alterações: DL 37/2014 (14 mar), DL 40/2016 (29 jul), DL 151/2017 (7 dez), DL 2/2020 (14 jan), DL 102-B/2020 (9 dez), DL 121/2021 e DL 114/2026 (8 jun). Houve ainda a Declaração de Retificação n.º 3/2018.",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-114321099"
+  },
+  {
+    "secao": "hlc-diplomas",
+    "titulo": "Decreto-Lei n.º 114/2026, de 8 de junho",
+    "desc": "Sétima e mais recente alteração ao R.H.L.C. Muda o reconhecimento de títulos de países terceiros, que passa a seguir a residência habitual do titular, cria o código de restrição 794 para residentes não comunitários e alarga a categoria B1 a certos veículos agrícolas.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2026-1130121307"
+  },
+  {
+    "secao": "hlc-diplomas",
+    "titulo": "Decreto-Lei n.º 40/2016, de 29 de julho",
+    "desc": "Segunda alteração ao R.H.L.C. Altera também o Código da Estrada. Transpõe as Diretivas 2014/85/UE e 2015/653/UE.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2016-75060359"
+  },
+  {
+    "secao": "hlc-diplomas",
+    "titulo": "Decreto-Lei n.º 37/2014, de 14 de março",
+    "desc": "Primeira alteração ao R.H.L.C. Transpõe as Diretivas 2012/36/UE, 2013/22/UE e 2013/47/UE.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2014-571913"
+  },
+  {
+    "secao": "hlc-convencoes",
+    "titulo": "Decreto-Lei n.º 39904, de 13 de novembro de 1954",
+    "desc": "Aprova, para adesão, a Convenção Internacional sobre Circulação Rodoviária de Genebra, de 19 de setembro de 1949 — a do anexo 9, referido no artigo 125.º n.º 1 al. d) do Código da Estrada.",
+    "url": "https://dre.tretas.org/dre/108060/decreto-lei-39904-de-13-de-novembro"
+  },
+  {
+    "secao": "hlc-convencoes",
+    "titulo": "Decreto do Presidente da República n.º 92/2010, de 13 de setembro",
+    "desc": "Ratifica a Convenção sobre a Circulação Rodoviária de Viena, de 8 de novembro de 1968 — a do anexo 6. Aprovada pela Resolução da Assembleia da República n.º 107/2010, com reserva ao artigo 18.º, sobre rotundas.",
+    "url": "https://files.diariodarepublica.pt/1s/2010/09/17800/0400904050.pdf"
+  },
+  {
+    "secao": "hlc-convencoes",
+    "titulo": "Decisão (UE) 2016/1945 da Comissão, de 14 de outubro de 2016",
+    "desc": "Equivalências entre categorias de cartas de condução emitidas pelos Estados-membros. Substituiu a Decisão 2013/21/UE.",
+    "url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32016D1945"
+  },
+  {
+    "secao": "hlc-agricolas",
+    "titulo": "Despacho n.º 1666/2021, de 12 de fevereiro",
+    "desc": "Formação profissional e condução de veículos agrícolas.",
+    "url": "https://diariodarepublica.pt/dr/detalhe/despacho/1666-2021-157150026"
+  },
+  {
+    "secao": "hlc-agricolas",
+    "titulo": "Tratores agrícolas — formação obrigatória (IMT)",
+    "desc": "Página do IMT sobre a formação exigida para conduzir tratores. Enquadra o Despacho n.º 3232/2017, de 18 de abril, que cria os cursos de mecanização agrícola, e o Despacho n.º 1819/2019, de 21 de fevereiro, que fixa o curso COTS de 35 horas.",
+    "url": "https://www.imt-ip.pt/noticias/conducao-de-tratores-agricolas-formacao-obrigatoria/"
+  },
+  {
+    "secao": "hlc-agricolas",
+    "titulo": "Despacho n.º 17784/98, de 15 de outubro (2.ª série)",
+    "desc": "Modelo de licença de condução de ciclomotores, motociclos de cilindrada até 50 cm³ e veículos agrícolas. Objeto por confirmar — a fonte consultada não é oficial.",
+    "url": "https://dre.pt/web/guest/pesquisa/-/search/3520667/details/maximized?jp=true"
   }
- ]
+]
