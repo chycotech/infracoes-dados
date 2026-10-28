@@ -6,33 +6,168 @@
       {
         "item": "Avisador luminoso",
         "nota": "Luz amarela rotativa ou intermitente, nos veículos que circulam em marcha lenta na via.",
-        "codigos": ["1.90.023.04.01"]
+        "codigos": [
+          "1.90.023.04.01"
+        ]
       },
       {
         "item": "Cinto de segurança",
         "nota": "Nos tratores com estrutura de proteção, o cinto faz parte dos sistemas com que o veículo foi aprovado.",
-        "codigos": ["1.86.114.05.01"]
+        "codigos": [
+          "1.86.114.05.01"
+        ]
       },
       {
         "item": "Colete refletor",
         "nota": "A bordo, para uso em caso de imobilização na via.",
-        "codigos": ["1.86.088.01.02"]
+        "codigos": [
+          "1.86.088.01.02"
+        ]
       },
       {
         "item": "Estrutura de proteção",
         "nota": "Arco ou cabina de proteção contra capotamento, quando o modelo foi aprovado com ela.",
-        "codigos": ["1.86.114.05.01"]
+        "codigos": [
+          "1.86.114.05.01"
+        ]
       },
       {
         "item": "Refletores",
         "nota": "Dispositivos retrorrefletores legalmente previstos, à frente, atrás e nos lados.",
-        "codigos": ["1.86.059.01.02"]
+        "codigos": [
+          "1.86.059.01.02"
+        ]
       },
       {
         "item": "Documentos obrigatórios",
         "nota": "Documento de identificação do veículo, título de condução e seguro.",
-        "codigos": ["1.90.085.02.01"]
+        "codigos": [
+          "1.90.085.02.01"
+        ]
       }
     ]
+  },
+  {
+    "grupo": "TVDE",
+    "sub": "O que se verifica numa fiscalização a veículo de TVDE",
+    "itens": [
+      {
+        "item": "Certificado de motorista de TVDE",
+        "nota": "O motorista tem de se fazer acompanhar do certificado de motorista de TVDE, da guia do IMT que o substitui, ou do certificado de motorista de táxi. Se não o traz, é a alínea m); se não é sequer certificado ou não está inscrito em plataforma, é a alínea l).",
+        "codigos": [
+          "TVDE-25.2.m",
+          "TVDE-25.2.l"
+        ]
+      },
+      {
+        "item": "Inscrição em plataforma eletrónica licenciada",
+        "nota": "Só pode conduzir veículo de TVDE quem esteja certificado pelo IMT e inscrito junto de plataforma licenciada, com número único de registo de motorista.",
+        "codigos": [
+          "TVDE-25.2.l"
+        ]
+      },
+      {
+        "item": "Dístico identificador e código QR",
+        "nota": "Dístico inamovível emitido pelo IMT, com elementos antifraude, visível do exterior. O código QR confirma veículo autorizado, matrícula, número de licença do operador e seguro válido.",
+        "codigos": [
+          "TVDE-25.2.o"
+        ]
+      },
+      {
+        "item": "Serviço angariado na rua ou em praça de táxis",
+        "nota": "O veículo de TVDE não pode recolher passageiros por solicitação no local (hailing) nem em praças de táxi ou de outros veículos com direito a permanecer nelas.",
+        "codigos": [
+          "TVDE-25.2.f"
+        ]
+      },
+      {
+        "item": "Serviço fora de plataforma",
+        "nota": "O serviço só pode ser contratado por subscrição e reserva prévias através da plataforma. Transporte combinado por fora é serviço fora de plataforma, mesmo que pago eletronicamente.",
+        "codigos": [
+          "TVDE-25.2.a"
+        ]
+      },
+      {
+        "item": "Registo do veículo no IMT",
+        "nota": "Só podem ser usados veículos registados no IMT e inscritos pelo operador junto de plataforma. O registo vale cinco anos e nunca mais do que a licença do operador.",
+        "codigos": [
+          "TVDE-25.2.n"
+        ]
+      },
+      {
+        "item": "Tipo e lotação do veículo",
+        "nota": "Ligeiro de passageiros, de matrícula nacional, com lotação até nove lugares incluindo o condutor.",
+        "codigos": [
+          "TVDE-25.2.n"
+        ]
+      },
+      {
+        "item": "Idade do veículo",
+        "nota": "Menos de 10 anos desde a primeira matrícula. Até 12 anos se for exclusivamente elétrico.",
+        "codigos": [
+          "TVDE-25.2.n"
+        ]
+      },
+      {
+        "item": "Inspeção técnica periódica",
+        "nota": "Anual, com a primeira um ano após a data da primeira matrícula — mais exigente do que o regime geral.",
+        "codigos": [
+          "TVDE-25.2.n"
+        ]
+      },
+      {
+        "item": "Seguro que cubra os passageiros",
+        "nota": "Além dos demais seguros exigidos por lei, seguro de responsabilidade civil que inclua os passageiros transportados e os seus prejuízos, não inferior ao mínimo legal.",
+        "codigos": [
+          "TVDE-25.2.n"
+        ]
+      },
+      {
+        "item": "Publicidade no veículo",
+        "nota": "Só é permitida nos termos previstos para o transporte em táxi.",
+        "codigos": [
+          "TVDE-25.2.p"
+        ]
+      },
+      {
+        "item": "Licença do operador de TVDE",
+        "nota": "A atividade de operador depende de licença do IMT, emitida por prazo não superior a cinco anos.",
+        "codigos": [
+          "TVDE-25.2.b",
+          "TVDE-25.2.k"
+        ]
+      },
+      {
+        "item": "Dez horas em cada 24",
+        "nota": "O motorista não pode operar mais de dez horas em 24, somando todas as plataformas em que preste serviço. A competência é da ACT.",
+        "codigos": [
+          "TVDE-25.2.q"
+        ]
+      },
+      {
+        "item": "Recusa de serviço e transporte de animais",
+        "nota": "Só pode recusar nos casos do artigo 8.º n.º 1. O animal de companhia acompanhado e acondicionado não pode ser recusado, salvo motivo atendível.",
+        "codigos": [
+          "TVDE-25.2.i",
+          "TVDE-25.2.j"
+        ]
+      },
+      {
+        "item": "Discriminação no acesso ao serviço",
+        "nota": "Igualdade de acesso: o serviço não pode ser recusado por ascendência, idade, sexo, orientação sexual, nacionalidade, origem étnica, deficiência, religião e demais fatores do artigo 7.º.",
+        "codigos": [
+          "TVDE-25.2.h"
+        ]
+      },
+      {
+        "item": "Vias reservadas ao transporte público",
+        "nota": "O veículo de TVDE não tem acesso às faixas e vias reservadas ao transporte público (art.º 12.º n.º 12 da Lei 45/2018). Atenção: esse número não consta do elenco sancionatório do artigo 25.º, pelo que não há coima na lei do TVDE — autua-se pelo Código da Estrada.",
+        "codigos": [
+          "1.86.076.01.01",
+          "1.86.077.01.01"
+        ]
+      }
+    ],
+    "nota": "A Lei n.º 59/2026 reescreveu o regime e entrou em vigor a 1 de setembro de 2026. Os gestores de plataforma tiveram 60 dias para se conformar, até 31-10-2026; os operadores de TVDE e os seus motoristas têm 120 dias, até 30-12-2026, que o IMT pode prorrogar até mais 180 (art.º 32.º). Dentro desse prazo não se exige o que é novo — o certificado a bordo, o registo do veículo no IMT e o dístico novo. O que já vinha de 2018 é exigível desde logo. Cada ficha diz em que caso está. Atenção ainda: a publicidade no veículo era proibida e passou a ser permitida nos termos do táxi, e a idade máxima do veículo subiu de 7 para 10 anos, 12 se for elétrico."
   }
 ]
